@@ -1,0 +1,22 @@
+{
+  "status": "passed",
+  "observed_at_utc": "2026-10-08T14:31:11.125928+00:00",
+  "code_sha256": "dfd01ab1db5f04fe93ca45a5bcffdc16918b889579fed22c9437f662f0af3259",
+  "note": "Discarded compatibility/short timing probe; no full-training accuracy or throughput claim",
+  "torch": "2.11.0+cu128",
+  "bitsandbytes": "0.47.0",
+  "nf4_linear_backward": "passed",
+  "longest_sequence_backward": 2226,
+  "step_seconds": [
+    8.559951900038868,
+    8.36937960004434,
+    8.200946199940518,
+    8.102499900152907,
+    7.7480235998518765
+  ],
+  "probe_examples": 80,
+  "rough_full_train_minutes": 59.831969752041616,
+  "peak_allocated_bytes": 2566111744,
+  "peak_reserved_bytes": 3856662528,
+  "trainable_parameters": 9232384
+}

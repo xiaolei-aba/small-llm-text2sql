@@ -1,0 +1,23 @@
+{
+  "run_id": "e0_smoke",
+  "eval_samples": 10,
+  "predictions_sha256": "ec1fc40d3622645d1af95d68fb750f6a5c733c9d38b6a6b799404a6ca83ba47d",
+  "execution_accuracy": 0.4,
+  "valid_sql_rate": 0.6,
+  "generation_failures": 0,
+  "truncated_outputs": 0,
+  "easy_samples": 3,
+  "easy_accuracy": 0.6666666666666666,
+  "medium_samples": 1,
+  "medium_accuracy": 0.0,
+  "hard_samples": 3,
+  "hard_accuracy": 0.3333333333333333,
+  "extra_hard_samples": 3,
+  "extra_hard_accuracy": 0.3333333333333333,
+  "latency": 1468.3559000259265,
+  "latency_p50_ms": 1469.2501000827178,
+  "latency_p95_ms": 2475.9671001229435,
+  "throughput": 31.53186499211975,
+  "peak_vram_gb": 3.180599808,
+  "peak_reserved_vram_gb": 3.204448256
+}

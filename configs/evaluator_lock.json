@@ -1,0 +1,27 @@
+[
+  {
+    "path": "third_party/spider/evaluation.py",
+    "url": "https://raw.githubusercontent.com/taoyds/spider/b7b5b8c890cd30e35427348bb9eb8c6d1350ca7c/evaluation.py",
+    "sha256": "c61f18f40bec5af1984af0e8731e678f6cee7976611d910e6e5c144d757fd827"
+  },
+  {
+    "path": "third_party/spider/LICENSE",
+    "url": "https://raw.githubusercontent.com/taoyds/spider/b7b5b8c890cd30e35427348bb9eb8c6d1350ca7c/LICENSE",
+    "sha256": "a8d1d88a0f9cce3cdbff73b03a80dc5e5d69e3ba2443946c268815a550c9e0ec"
+  },
+  {
+    "path": "third_party/spider/process_sql.py",
+    "url": "https://raw.githubusercontent.com/taoyds/spider/b7b5b8c890cd30e35427348bb9eb8c6d1350ca7c/process_sql.py",
+    "sha256": "909833d02b64124f407b218bdfa7bf6d3b3ab17593ae9d2bd4ebc8f4ab498354"
+  },
+  {
+    "path": "third_party/test_suite/exec_eval.py",
+    "url": "https://raw.githubusercontent.com/taoyds/test-suite-sql-eval/e97acc546ecbee8fa27fa8dbf025ef61493a876c/exec_eval.py",
+    "sha256": "29d034db28904490c28037537a14fbb0150b6e86cef0049076c0511d6b6b77f7"
+  },
+  {
+    "path": "third_party/test_suite/LICENSE",
+    "url": "https://raw.githubusercontent.com/taoyds/test-suite-sql-eval/e97acc546ecbee8fa27fa8dbf025ef61493a876c/LICENSE",
+    "sha256": "c71d239df91726fc519c6eb72d318ec65820627232b2f796219e87dcf35d0ab4"
+  }
+]

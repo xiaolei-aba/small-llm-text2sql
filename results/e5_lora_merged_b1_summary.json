@@ -1,0 +1,23 @@
+{
+  "run_id": "e5_lora_merged_b1",
+  "eval_samples": 32,
+  "predictions_sha256": "90dea0b26abc3136022ae1cc36239899b07f65261af1f50d907900861a165146",
+  "execution_accuracy": 0.5625,
+  "valid_sql_rate": 0.84375,
+  "generation_failures": 0,
+  "truncated_outputs": 0,
+  "easy_samples": 10,
+  "easy_accuracy": 0.8,
+  "medium_samples": 12,
+  "medium_accuracy": 0.5,
+  "hard_samples": 5,
+  "hard_accuracy": 0.4,
+  "extra_hard_samples": 5,
+  "extra_hard_accuracy": 0.4,
+  "latency": 990.5430062644882,
+  "latency_p50_ms": 848.9248499972746,
+  "latency_p95_ms": 1964.7492000367492,
+  "throughput": 32.463254797251935,
+  "peak_vram_gb": 3.221316096,
+  "peak_reserved_vram_gb": 3.338665984
+}

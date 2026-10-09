@@ -1,0 +1,7248 @@
+{
+  "records": [
+    {
+      "sample_id": "dev:0",
+      "index": 0,
+      "db_id": "concert_singer",
+      "difficulty": "easy",
+      "prompt_tokens": 240
+    },
+    {
+      "sample_id": "dev:1",
+      "index": 1,
+      "db_id": "concert_singer",
+      "difficulty": "easy",
+      "prompt_tokens": 241
+    },
+    {
+      "sample_id": "dev:2",
+      "index": 2,
+      "db_id": "concert_singer",
+      "difficulty": "medium",
+      "prompt_tokens": 252
+    },
+    {
+      "sample_id": "dev:3",
+      "index": 3,
+      "db_id": "concert_singer",
+      "difficulty": "medium",
+      "prompt_tokens": 251
+    },
+    {
+      "sample_id": "dev:4",
+      "index": 4,
+      "db_id": "concert_singer",
+      "difficulty": "medium",
+      "prompt_tokens": 249
+    },
+    {
+      "sample_id": "dev:5",
+      "index": 5,
+      "db_id": "concert_singer",
+      "difficulty": "medium",
+      "prompt_tokens": 248
+    },
+    {
+      "sample_id": "dev:6",
+      "index": 6,
+      "db_id": "concert_singer",
+      "difficulty": "medium",
+      "prompt_tokens": 248
+    },
+    {
+      "sample_id": "dev:7",
+      "index": 7,
+      "db_id": "concert_singer",
+      "difficulty": "medium",
+      "prompt_tokens": 249
+    },
+    {
+      "sample_id": "dev:8",
+      "index": 8,
+      "db_id": "concert_singer",
+      "difficulty": "easy",
+      "prompt_tokens": 248
+    },
+    {
+      "sample_id": "dev:9",
+      "index": 9,
+      "db_id": "concert_singer",
+      "difficulty": "easy",
+      "prompt_tokens": 247
+    },
+    {
+      "sample_id": "dev:10",
+      "index": 10,
+      "db_id": "concert_singer",
+      "difficulty": "medium",
+      "prompt_tokens": 245
+    },
+    {
+      "sample_id": "dev:11",
+      "index": 11,
+      "db_id": "concert_singer",
+      "difficulty": "medium",
+      "prompt_tokens": 241
+    },
+    {
+      "sample_id": "dev:12",
+      "index": 12,
+      "db_id": "concert_singer",
+      "difficulty": "hard",
+      "prompt_tokens": 244
+    },
+    {
+      "sample_id": "dev:13",
+      "index": 13,
+      "db_id": "concert_singer",
+      "difficulty": "hard",
+      "prompt_tokens": 247
+    },
+    {
+      "sample_id": "dev:14",
+      "index": 14,
+      "db_id": "concert_singer",
+      "difficulty": "medium",
+      "prompt_tokens": 257
+    },
+    {
+      "sample_id": "dev:15",
+      "index": 15,
+      "db_id": "concert_singer",
+      "difficulty": "medium",
+      "prompt_tokens": 258
+    },
+    {
+      "sample_id": "dev:16",
+      "index": 16,
+      "db_id": "concert_singer",
+      "difficulty": "medium",
+      "prompt_tokens": 245
+    },
+    {
+      "sample_id": "dev:17",
+      "index": 17,
+      "db_id": "concert_singer",
+      "difficulty": "medium",
+      "prompt_tokens": 244
+    },
+    {
+      "sample_id": "dev:18",
+      "index": 18,
+      "db_id": "concert_singer",
+      "difficulty": "medium",
+      "prompt_tokens": 247
+    },
+    {
+      "sample_id": "dev:19",
+      "index": 19,
+      "db_id": "concert_singer",
+      "difficulty": "medium",
+      "prompt_tokens": 248
+    },
+    {
+      "sample_id": "dev:20",
+      "index": 20,
+      "db_id": "concert_singer",
+      "difficulty": "medium",
+      "prompt_tokens": 252
+    },
+    {
+      "sample_id": "dev:21",
+      "index": 21,
+      "db_id": "concert_singer",
+      "difficulty": "medium",
+      "prompt_tokens": 250
+    },
+    {
+      "sample_id": "dev:22",
+      "index": 22,
+      "db_id": "concert_singer",
+      "difficulty": "medium",
+      "prompt_tokens": 246
+    },
+    {
+      "sample_id": "dev:23",
+      "index": 23,
+      "db_id": "concert_singer",
+      "difficulty": "medium",
+      "prompt_tokens": 243
+    },
+    {
+      "sample_id": "dev:24",
+      "index": 24,
+      "db_id": "concert_singer",
+      "difficulty": "extra",
+      "prompt_tokens": 254
+    },
+    {
+      "sample_id": "dev:25",
+      "index": 25,
+      "db_id": "concert_singer",
+      "difficulty": "extra",
+      "prompt_tokens": 253
+    },
+    {
+      "sample_id": "dev:26",
+      "index": 26,
+      "db_id": "concert_singer",
+      "difficulty": "hard",
+      "prompt_tokens": 241
+    },
+    {
+      "sample_id": "dev:27",
+      "index": 27,
+      "db_id": "concert_singer",
+      "difficulty": "hard",
+      "prompt_tokens": 243
+    },
+    {
+      "sample_id": "dev:28",
+      "index": 28,
+      "db_id": "concert_singer",
+      "difficulty": "hard",
+      "prompt_tokens": 241
+    },
+    {
+      "sample_id": "dev:29",
+      "index": 29,
+      "db_id": "concert_singer",
+      "difficulty": "hard",
+      "prompt_tokens": 244
+    },
+    {
+      "sample_id": "dev:30",
+      "index": 30,
+      "db_id": "concert_singer",
+      "difficulty": "hard",
+      "prompt_tokens": 253
+    },
+    {
+      "sample_id": "dev:31",
+      "index": 31,
+      "db_id": "concert_singer",
+      "difficulty": "hard",
+      "prompt_tokens": 252
+    },
+    {
+      "sample_id": "dev:32",
+      "index": 32,
+      "db_id": "concert_singer",
+      "difficulty": "hard",
+      "prompt_tokens": 253
+    },
+    {
+      "sample_id": "dev:33",
+      "index": 33,
+      "db_id": "concert_singer",
+      "difficulty": "medium",
+      "prompt_tokens": 250
+    },
+    {
+      "sample_id": "dev:34",
+      "index": 34,
+      "db_id": "concert_singer",
+      "difficulty": "medium",
+      "prompt_tokens": 248
+    },
+    {
+      "sample_id": "dev:35",
+      "index": 35,
+      "db_id": "concert_singer",
+      "difficulty": "medium",
+      "prompt_tokens": 244
+    },
+    {
+      "sample_id": "dev:36",
+      "index": 36,
+      "db_id": "concert_singer",
+      "difficulty": "medium",
+      "prompt_tokens": 248
+    },
+    {
+      "sample_id": "dev:37",
+      "index": 37,
+      "db_id": "concert_singer",
+      "difficulty": "hard",
+      "prompt_tokens": 247
+    },
+    {
+      "sample_id": "dev:38",
+      "index": 38,
+      "db_id": "concert_singer",
+      "difficulty": "hard",
+      "prompt_tokens": 252
+    },
+    {
+      "sample_id": "dev:39",
+      "index": 39,
+      "db_id": "concert_singer",
+      "difficulty": "medium",
+      "prompt_tokens": 254
+    },
+    {
+      "sample_id": "dev:40",
+      "index": 40,
+      "db_id": "concert_singer",
+      "difficulty": "medium",
+      "prompt_tokens": 258
+    },
+    {
+      "sample_id": "dev:41",
+      "index": 41,
+      "db_id": "concert_singer",
+      "difficulty": "extra",
+      "prompt_tokens": 262
+    },
+    {
+      "sample_id": "dev:42",
+      "index": 42,
+      "db_id": "concert_singer",
+      "difficulty": "extra",
+      "prompt_tokens": 261
+    },
+    {
+      "sample_id": "dev:43",
+      "index": 43,
+      "db_id": "concert_singer",
+      "difficulty": "hard",
+      "prompt_tokens": 247
+    },
+    {
+      "sample_id": "dev:44",
+      "index": 44,
+      "db_id": "concert_singer",
+      "difficulty": "hard",
+      "prompt_tokens": 249
+    },
+    {
+      "sample_id": "dev:45",
+      "index": 45,
+      "db_id": "pets_1",
+      "difficulty": "easy",
+      "prompt_tokens": 199
+    },
+    {
+      "sample_id": "dev:46",
+      "index": 46,
+      "db_id": "pets_1",
+      "difficulty": "easy",
+      "prompt_tokens": 197
+    },
+    {
+      "sample_id": "dev:47",
+      "index": 47,
+      "db_id": "pets_1",
+      "difficulty": "medium",
+      "prompt_tokens": 193
+    },
+    {
+      "sample_id": "dev:48",
+      "index": 48,
+      "db_id": "pets_1",
+      "difficulty": "medium",
+      "prompt_tokens": 193
+    },
+    {
+      "sample_id": "dev:49",
+      "index": 49,
+      "db_id": "pets_1",
+      "difficulty": "medium",
+      "prompt_tokens": 203
+    },
+    {
+      "sample_id": "dev:50",
+      "index": 50,
+      "db_id": "pets_1",
+      "difficulty": "medium",
+      "prompt_tokens": 197
+    },
+    {
+      "sample_id": "dev:51",
+      "index": 51,
+      "db_id": "pets_1",
+      "difficulty": "medium",
+      "prompt_tokens": 200
+    },
+    {
+      "sample_id": "dev:52",
+      "index": 52,
+      "db_id": "pets_1",
+      "difficulty": "medium",
+      "prompt_tokens": 202
+    },
+    {
+      "sample_id": "dev:53",
+      "index": 53,
+      "db_id": "pets_1",
+      "difficulty": "hard",
+      "prompt_tokens": 202
+    },
+    {
+      "sample_id": "dev:54",
+      "index": 54,
+      "db_id": "pets_1",
+      "difficulty": "hard",
+      "prompt_tokens": 195
+    },
+    {
+      "sample_id": "dev:55",
+      "index": 55,
+      "db_id": "pets_1",
+      "difficulty": "easy",
+      "prompt_tokens": 194
+    },
+    {
+      "sample_id": "dev:56",
+      "index": 56,
+      "db_id": "pets_1",
+      "difficulty": "easy",
+      "prompt_tokens": 194
+    },
+    {
+      "sample_id": "dev:57",
+      "index": 57,
+      "db_id": "pets_1",
+      "difficulty": "extra",
+      "prompt_tokens": 198
+    },
+    {
+      "sample_id": "dev:58",
+      "index": 58,
+      "db_id": "pets_1",
+      "difficulty": "extra",
+      "prompt_tokens": 203
+    },
+    {
+      "sample_id": "dev:59",
+      "index": 59,
+      "db_id": "pets_1",
+      "difficulty": "extra",
+      "prompt_tokens": 199
+    },
+    {
+      "sample_id": "dev:60",
+      "index": 60,
+      "db_id": "pets_1",
+      "difficulty": "extra",
+      "prompt_tokens": 201
+    },
+    {
+      "sample_id": "dev:61",
+      "index": 61,
+      "db_id": "pets_1",
+      "difficulty": "extra",
+      "prompt_tokens": 200
+    },
+    {
+      "sample_id": "dev:62",
+      "index": 62,
+      "db_id": "pets_1",
+      "difficulty": "extra",
+      "prompt_tokens": 207
+    },
+    {
+      "sample_id": "dev:63",
+      "index": 63,
+      "db_id": "pets_1",
+      "difficulty": "hard",
+      "prompt_tokens": 198
+    },
+    {
+      "sample_id": "dev:64",
+      "index": 64,
+      "db_id": "pets_1",
+      "difficulty": "hard",
+      "prompt_tokens": 200
+    },
+    {
+      "sample_id": "dev:65",
+      "index": 65,
+      "db_id": "pets_1",
+      "difficulty": "extra",
+      "prompt_tokens": 207
+    },
+    {
+      "sample_id": "dev:66",
+      "index": 66,
+      "db_id": "pets_1",
+      "difficulty": "extra",
+      "prompt_tokens": 204
+    },
+    {
+      "sample_id": "dev:67",
+      "index": 67,
+      "db_id": "pets_1",
+      "difficulty": "medium",
+      "prompt_tokens": 195
+    },
+    {
+      "sample_id": "dev:68",
+      "index": 68,
+      "db_id": "pets_1",
+      "difficulty": "medium",
+      "prompt_tokens": 201
+    },
+    {
+      "sample_id": "dev:69",
+      "index": 69,
+      "db_id": "pets_1",
+      "difficulty": "medium",
+      "prompt_tokens": 201
+    },
+    {
+      "sample_id": "dev:70",
+      "index": 70,
+      "db_id": "pets_1",
+      "difficulty": "medium",
+      "prompt_tokens": 201
+    },
+    {
+      "sample_id": "dev:71",
+      "index": 71,
+      "db_id": "pets_1",
+      "difficulty": "medium",
+      "prompt_tokens": 197
+    },
+    {
+      "sample_id": "dev:72",
+      "index": 72,
+      "db_id": "pets_1",
+      "difficulty": "medium",
+      "prompt_tokens": 197
+    },
+    {
+      "sample_id": "dev:73",
+      "index": 73,
+      "db_id": "pets_1",
+      "difficulty": "medium",
+      "prompt_tokens": 194
+    },
+    {
+      "sample_id": "dev:74",
+      "index": 74,
+      "db_id": "pets_1",
+      "difficulty": "medium",
+      "prompt_tokens": 196
+    },
+    {
+      "sample_id": "dev:75",
+      "index": 75,
+      "db_id": "pets_1",
+      "difficulty": "medium",
+      "prompt_tokens": 198
+    },
+    {
+      "sample_id": "dev:76",
+      "index": 76,
+      "db_id": "pets_1",
+      "difficulty": "medium",
+      "prompt_tokens": 201
+    },
+    {
+      "sample_id": "dev:77",
+      "index": 77,
+      "db_id": "pets_1",
+      "difficulty": "medium",
+      "prompt_tokens": 201
+    },
+    {
+      "sample_id": "dev:78",
+      "index": 78,
+      "db_id": "pets_1",
+      "difficulty": "medium",
+      "prompt_tokens": 204
+    },
+    {
+      "sample_id": "dev:79",
+      "index": 79,
+      "db_id": "pets_1",
+      "difficulty": "medium",
+      "prompt_tokens": 201
+    },
+    {
+      "sample_id": "dev:80",
+      "index": 80,
+      "db_id": "pets_1",
+      "difficulty": "medium",
+      "prompt_tokens": 206
+    },
+    {
+      "sample_id": "dev:81",
+      "index": 81,
+      "db_id": "pets_1",
+      "difficulty": "medium",
+      "prompt_tokens": 200
+    },
+    {
+      "sample_id": "dev:82",
+      "index": 82,
+      "db_id": "pets_1",
+      "difficulty": "medium",
+      "prompt_tokens": 204
+    },
+    {
+      "sample_id": "dev:83",
+      "index": 83,
+      "db_id": "pets_1",
+      "difficulty": "hard",
+      "prompt_tokens": 202
+    },
+    {
+      "sample_id": "dev:84",
+      "index": 84,
+      "db_id": "pets_1",
+      "difficulty": "hard",
+      "prompt_tokens": 204
+    },
+    {
+      "sample_id": "dev:85",
+      "index": 85,
+      "db_id": "pets_1",
+      "difficulty": "extra",
+      "prompt_tokens": 198
+    },
+    {
+      "sample_id": "dev:86",
+      "index": 86,
+      "db_id": "pets_1",
+      "difficulty": "extra",
+      "prompt_tokens": 200
+    },
+    {
+      "sample_id": "dev:87",
+      "index": 87,
+      "db_id": "car_1",
+      "difficulty": "easy",
+      "prompt_tokens": 271
+    },
+    {
+      "sample_id": "dev:88",
+      "index": 88,
+      "db_id": "car_1",
+      "difficulty": "easy",
+      "prompt_tokens": 272
+    },
+    {
+      "sample_id": "dev:89",
+      "index": 89,
+      "db_id": "car_1",
+      "difficulty": "medium",
+      "prompt_tokens": 286
+    },
+    {
+      "sample_id": "dev:90",
+      "index": 90,
+      "db_id": "car_1",
+      "difficulty": "medium",
+      "prompt_tokens": 282
+    },
+    {
+      "sample_id": "dev:91",
+      "index": 91,
+      "db_id": "car_1",
+      "difficulty": "easy",
+      "prompt_tokens": 271
+    },
+    {
+      "sample_id": "dev:92",
+      "index": 92,
+      "db_id": "car_1",
+      "difficulty": "easy",
+      "prompt_tokens": 270
+    },
+    {
+      "sample_id": "dev:93",
+      "index": 93,
+      "db_id": "car_1",
+      "difficulty": "medium",
+      "prompt_tokens": 284
+    },
+    {
+      "sample_id": "dev:94",
+      "index": 94,
+      "db_id": "car_1",
+      "difficulty": "medium",
+      "prompt_tokens": 286
+    },
+    {
+      "sample_id": "dev:95",
+      "index": 95,
+      "db_id": "car_1",
+      "difficulty": "hard",
+      "prompt_tokens": 275
+    },
+    {
+      "sample_id": "dev:96",
+      "index": 96,
+      "db_id": "car_1",
+      "difficulty": "hard",
+      "prompt_tokens": 279
+    },
+    {
+      "sample_id": "dev:97",
+      "index": 97,
+      "db_id": "car_1",
+      "difficulty": "extra",
+      "prompt_tokens": 279
+    },
+    {
+      "sample_id": "dev:98",
+      "index": 98,
+      "db_id": "car_1",
+      "difficulty": "extra",
+      "prompt_tokens": 280
+    },
+    {
+      "sample_id": "dev:99",
+      "index": 99,
+      "db_id": "car_1",
+      "difficulty": "extra",
+      "prompt_tokens": 285
+    },
+    {
+      "sample_id": "dev:100",
+      "index": 100,
+      "db_id": "car_1",
+      "difficulty": "extra",
+      "prompt_tokens": 285
+    },
+    {
+      "sample_id": "dev:101",
+      "index": 101,
+      "db_id": "car_1",
+      "difficulty": "extra",
+      "prompt_tokens": 282
+    },
+    {
+      "sample_id": "dev:102",
+      "index": 102,
+      "db_id": "car_1",
+      "difficulty": "extra",
+      "prompt_tokens": 283
+    },
+    {
+      "sample_id": "dev:103",
+      "index": 103,
+      "db_id": "car_1",
+      "difficulty": "hard",
+      "prompt_tokens": 279
+    },
+    {
+      "sample_id": "dev:104",
+      "index": 104,
+      "db_id": "car_1",
+      "difficulty": "hard",
+      "prompt_tokens": 281
+    },
+    {
+      "sample_id": "dev:105",
+      "index": 105,
+      "db_id": "car_1",
+      "difficulty": "hard",
+      "prompt_tokens": 283
+    },
+    {
+      "sample_id": "dev:106",
+      "index": 106,
+      "db_id": "car_1",
+      "difficulty": "hard",
+      "prompt_tokens": 283
+    },
+    {
+      "sample_id": "dev:107",
+      "index": 107,
+      "db_id": "car_1",
+      "difficulty": "extra",
+      "prompt_tokens": 280
+    },
+    {
+      "sample_id": "dev:108",
+      "index": 108,
+      "db_id": "car_1",
+      "difficulty": "extra",
+      "prompt_tokens": 278
+    },
+    {
+      "sample_id": "dev:109",
+      "index": 109,
+      "db_id": "car_1",
+      "difficulty": "medium",
+      "prompt_tokens": 285
+    },
+    {
+      "sample_id": "dev:110",
+      "index": 110,
+      "db_id": "car_1",
+      "difficulty": "medium",
+      "prompt_tokens": 290
+    },
+    {
+      "sample_id": "dev:111",
+      "index": 111,
+      "db_id": "car_1",
+      "difficulty": "medium",
+      "prompt_tokens": 282
+    },
+    {
+      "sample_id": "dev:112",
+      "index": 112,
+      "db_id": "car_1",
+      "difficulty": "medium",
+      "prompt_tokens": 282
+    },
+    {
+      "sample_id": "dev:113",
+      "index": 113,
+      "db_id": "car_1",
+      "difficulty": "medium",
+      "prompt_tokens": 274
+    },
+    {
+      "sample_id": "dev:114",
+      "index": 114,
+      "db_id": "car_1",
+      "difficulty": "medium",
+      "prompt_tokens": 276
+    },
+    {
+      "sample_id": "dev:115",
+      "index": 115,
+      "db_id": "car_1",
+      "difficulty": "hard",
+      "prompt_tokens": 275
+    },
+    {
+      "sample_id": "dev:116",
+      "index": 116,
+      "db_id": "car_1",
+      "difficulty": "hard",
+      "prompt_tokens": 279
+    },
+    {
+      "sample_id": "dev:117",
+      "index": 117,
+      "db_id": "car_1",
+      "difficulty": "easy",
+      "prompt_tokens": 283
+    },
+    {
+      "sample_id": "dev:118",
+      "index": 118,
+      "db_id": "car_1",
+      "difficulty": "easy",
+      "prompt_tokens": 281
+    },
+    {
+      "sample_id": "dev:119",
+      "index": 119,
+      "db_id": "car_1",
+      "difficulty": "medium",
+      "prompt_tokens": 285
+    },
+    {
+      "sample_id": "dev:120",
+      "index": 120,
+      "db_id": "car_1",
+      "difficulty": "medium",
+      "prompt_tokens": 285
+    },
+    {
+      "sample_id": "dev:121",
+      "index": 121,
+      "db_id": "car_1",
+      "difficulty": "medium",
+      "prompt_tokens": 273
+    },
+    {
+      "sample_id": "dev:122",
+      "index": 122,
+      "db_id": "car_1",
+      "difficulty": "medium",
+      "prompt_tokens": 272
+    },
+    {
+      "sample_id": "dev:123",
+      "index": 123,
+      "db_id": "car_1",
+      "difficulty": "medium",
+      "prompt_tokens": 281
+    },
+    {
+      "sample_id": "dev:124",
+      "index": 124,
+      "db_id": "car_1",
+      "difficulty": "medium",
+      "prompt_tokens": 281
+    },
+    {
+      "sample_id": "dev:125",
+      "index": 125,
+      "db_id": "car_1",
+      "difficulty": "easy",
+      "prompt_tokens": 281
+    },
+    {
+      "sample_id": "dev:126",
+      "index": 126,
+      "db_id": "car_1",
+      "difficulty": "easy",
+      "prompt_tokens": 281
+    },
+    {
+      "sample_id": "dev:127",
+      "index": 127,
+      "db_id": "car_1",
+      "difficulty": "medium",
+      "prompt_tokens": 275
+    },
+    {
+      "sample_id": "dev:128",
+      "index": 128,
+      "db_id": "car_1",
+      "difficulty": "medium",
+      "prompt_tokens": 276
+    },
+    {
+      "sample_id": "dev:129",
+      "index": 129,
+      "db_id": "car_1",
+      "difficulty": "extra",
+      "prompt_tokens": 277
+    },
+    {
+      "sample_id": "dev:130",
+      "index": 130,
+      "db_id": "car_1",
+      "difficulty": "extra",
+      "prompt_tokens": 280
+    },
+    {
+      "sample_id": "dev:131",
+      "index": 131,
+      "db_id": "car_1",
+      "difficulty": "extra",
+      "prompt_tokens": 282
+    },
+    {
+      "sample_id": "dev:132",
+      "index": 132,
+      "db_id": "car_1",
+      "difficulty": "extra",
+      "prompt_tokens": 285
+    },
+    {
+      "sample_id": "dev:133",
+      "index": 133,
+      "db_id": "car_1",
+      "difficulty": "hard",
+      "prompt_tokens": 284
+    },
+    {
+      "sample_id": "dev:134",
+      "index": 134,
+      "db_id": "car_1",
+      "difficulty": "hard",
+      "prompt_tokens": 275
+    },
+    {
+      "sample_id": "dev:135",
+      "index": 135,
+      "db_id": "car_1",
+      "difficulty": "easy",
+      "prompt_tokens": 280
+    },
+    {
+      "sample_id": "dev:136",
+      "index": 136,
+      "db_id": "car_1",
+      "difficulty": "easy",
+      "prompt_tokens": 281
+    },
+    {
+      "sample_id": "dev:137",
+      "index": 137,
+      "db_id": "car_1",
+      "difficulty": "medium",
+      "prompt_tokens": 280
+    },
+    {
+      "sample_id": "dev:138",
+      "index": 138,
+      "db_id": "car_1",
+      "difficulty": "medium",
+      "prompt_tokens": 277
+    },
+    {
+      "sample_id": "dev:139",
+      "index": 139,
+      "db_id": "car_1",
+      "difficulty": "medium",
+      "prompt_tokens": 276
+    },
+    {
+      "sample_id": "dev:140",
+      "index": 140,
+      "db_id": "car_1",
+      "difficulty": "medium",
+      "prompt_tokens": 276
+    },
+    {
+      "sample_id": "dev:141",
+      "index": 141,
+      "db_id": "car_1",
+      "difficulty": "hard",
+      "prompt_tokens": 276
+    },
+    {
+      "sample_id": "dev:142",
+      "index": 142,
+      "db_id": "car_1",
+      "difficulty": "hard",
+      "prompt_tokens": 273
+    },
+    {
+      "sample_id": "dev:143",
+      "index": 143,
+      "db_id": "car_1",
+      "difficulty": "easy",
+      "prompt_tokens": 275
+    },
+    {
+      "sample_id": "dev:144",
+      "index": 144,
+      "db_id": "car_1",
+      "difficulty": "easy",
+      "prompt_tokens": 278
+    },
+    {
+      "sample_id": "dev:145",
+      "index": 145,
+      "db_id": "car_1",
+      "difficulty": "easy",
+      "prompt_tokens": 277
+    },
+    {
+      "sample_id": "dev:146",
+      "index": 146,
+      "db_id": "car_1",
+      "difficulty": "easy",
+      "prompt_tokens": 278
+    },
+    {
+      "sample_id": "dev:147",
+      "index": 147,
+      "db_id": "car_1",
+      "difficulty": "medium",
+      "prompt_tokens": 281
+    },
+    {
+      "sample_id": "dev:148",
+      "index": 148,
+      "db_id": "car_1",
+      "difficulty": "medium",
+      "prompt_tokens": 281
+    },
+    {
+      "sample_id": "dev:149",
+      "index": 149,
+      "db_id": "car_1",
+      "difficulty": "medium",
+      "prompt_tokens": 282
+    },
+    {
+      "sample_id": "dev:150",
+      "index": 150,
+      "db_id": "car_1",
+      "difficulty": "medium",
+      "prompt_tokens": 281
+    },
+    {
+      "sample_id": "dev:151",
+      "index": 151,
+      "db_id": "car_1",
+      "difficulty": "extra",
+      "prompt_tokens": 288
+    },
+    {
+      "sample_id": "dev:152",
+      "index": 152,
+      "db_id": "car_1",
+      "difficulty": "extra",
+      "prompt_tokens": 288
+    },
+    {
+      "sample_id": "dev:153",
+      "index": 153,
+      "db_id": "car_1",
+      "difficulty": "easy",
+      "prompt_tokens": 290
+    },
+    {
+      "sample_id": "dev:154",
+      "index": 154,
+      "db_id": "car_1",
+      "difficulty": "easy",
+      "prompt_tokens": 298
+    },
+    {
+      "sample_id": "dev:155",
+      "index": 155,
+      "db_id": "car_1",
+      "difficulty": "medium",
+      "prompt_tokens": 277
+    },
+    {
+      "sample_id": "dev:156",
+      "index": 156,
+      "db_id": "car_1",
+      "difficulty": "medium",
+      "prompt_tokens": 277
+    },
+    {
+      "sample_id": "dev:157",
+      "index": 157,
+      "db_id": "car_1",
+      "difficulty": "extra",
+      "prompt_tokens": 282
+    },
+    {
+      "sample_id": "dev:158",
+      "index": 158,
+      "db_id": "car_1",
+      "difficulty": "extra",
+      "prompt_tokens": 282
+    },
+    {
+      "sample_id": "dev:159",
+      "index": 159,
+      "db_id": "car_1",
+      "difficulty": "hard",
+      "prompt_tokens": 280
+    },
+    {
+      "sample_id": "dev:160",
+      "index": 160,
+      "db_id": "car_1",
+      "difficulty": "hard",
+      "prompt_tokens": 283
+    },
+    {
+      "sample_id": "dev:161",
+      "index": 161,
+      "db_id": "car_1",
+      "difficulty": "medium",
+      "prompt_tokens": 276
+    },
+    {
+      "sample_id": "dev:162",
+      "index": 162,
+      "db_id": "car_1",
+      "difficulty": "medium",
+      "prompt_tokens": 279
+    },
+    {
+      "sample_id": "dev:163",
+      "index": 163,
+      "db_id": "car_1",
+      "difficulty": "easy",
+      "prompt_tokens": 274
+    },
+    {
+      "sample_id": "dev:164",
+      "index": 164,
+      "db_id": "car_1",
+      "difficulty": "easy",
+      "prompt_tokens": 278
+    },
+    {
+      "sample_id": "dev:165",
+      "index": 165,
+      "db_id": "car_1",
+      "difficulty": "extra",
+      "prompt_tokens": 280
+    },
+    {
+      "sample_id": "dev:166",
+      "index": 166,
+      "db_id": "car_1",
+      "difficulty": "extra",
+      "prompt_tokens": 281
+    },
+    {
+      "sample_id": "dev:167",
+      "index": 167,
+      "db_id": "car_1",
+      "difficulty": "extra",
+      "prompt_tokens": 294
+    },
+    {
+      "sample_id": "dev:168",
+      "index": 168,
+      "db_id": "car_1",
+      "difficulty": "extra",
+      "prompt_tokens": 293
+    },
+    {
+      "sample_id": "dev:169",
+      "index": 169,
+      "db_id": "car_1",
+      "difficulty": "medium",
+      "prompt_tokens": 288
+    },
+    {
+      "sample_id": "dev:170",
+      "index": 170,
+      "db_id": "car_1",
+      "difficulty": "medium",
+      "prompt_tokens": 289
+    },
+    {
+      "sample_id": "dev:171",
+      "index": 171,
+      "db_id": "car_1",
+      "difficulty": "extra",
+      "prompt_tokens": 286
+    },
+    {
+      "sample_id": "dev:172",
+      "index": 172,
+      "db_id": "car_1",
+      "difficulty": "extra",
+      "prompt_tokens": 290
+    },
+    {
+      "sample_id": "dev:173",
+      "index": 173,
+      "db_id": "car_1",
+      "difficulty": "hard",
+      "prompt_tokens": 281
+    },
+    {
+      "sample_id": "dev:174",
+      "index": 174,
+      "db_id": "car_1",
+      "difficulty": "hard",
+      "prompt_tokens": 277
+    },
+    {
+      "sample_id": "dev:175",
+      "index": 175,
+      "db_id": "car_1",
+      "difficulty": "extra",
+      "prompt_tokens": 292
+    },
+    {
+      "sample_id": "dev:176",
+      "index": 176,
+      "db_id": "car_1",
+      "difficulty": "extra",
+      "prompt_tokens": 290
+    },
+    {
+      "sample_id": "dev:177",
+      "index": 177,
+      "db_id": "car_1",
+      "difficulty": "extra",
+      "prompt_tokens": 291
+    },
+    {
+      "sample_id": "dev:178",
+      "index": 178,
+      "db_id": "car_1",
+      "difficulty": "extra",
+      "prompt_tokens": 288
+    },
+    {
+      "sample_id": "dev:179",
+      "index": 179,
+      "db_id": "flight_2",
+      "difficulty": "easy",
+      "prompt_tokens": 183
+    },
+    {
+      "sample_id": "dev:180",
+      "index": 180,
+      "db_id": "flight_2",
+      "difficulty": "easy",
+      "prompt_tokens": 179
+    },
+    {
+      "sample_id": "dev:181",
+      "index": 181,
+      "db_id": "flight_2",
+      "difficulty": "easy",
+      "prompt_tokens": 182
+    },
+    {
+      "sample_id": "dev:182",
+      "index": 182,
+      "db_id": "flight_2",
+      "difficulty": "easy",
+      "prompt_tokens": 178
+    },
+    {
+      "sample_id": "dev:183",
+      "index": 183,
+      "db_id": "flight_2",
+      "difficulty": "medium",
+      "prompt_tokens": 182
+    },
+    {
+      "sample_id": "dev:184",
+      "index": 184,
+      "db_id": "flight_2",
+      "difficulty": "medium",
+      "prompt_tokens": 184
+    },
+    {
+      "sample_id": "dev:185",
+      "index": 185,
+      "db_id": "flight_2",
+      "difficulty": "medium",
+      "prompt_tokens": 182
+    },
+    {
+      "sample_id": "dev:186",
+      "index": 186,
+      "db_id": "flight_2",
+      "difficulty": "medium",
+      "prompt_tokens": 185
+    },
+    {
+      "sample_id": "dev:187",
+      "index": 187,
+      "db_id": "flight_2",
+      "difficulty": "easy",
+      "prompt_tokens": 177
+    },
+    {
+      "sample_id": "dev:188",
+      "index": 188,
+      "db_id": "flight_2",
+      "difficulty": "easy",
+      "prompt_tokens": 178
+    },
+    {
+      "sample_id": "dev:189",
+      "index": 189,
+      "db_id": "flight_2",
+      "difficulty": "easy",
+      "prompt_tokens": 177
+    },
+    {
+      "sample_id": "dev:190",
+      "index": 190,
+      "db_id": "flight_2",
+      "difficulty": "easy",
+      "prompt_tokens": 177
+    },
+    {
+      "sample_id": "dev:191",
+      "index": 191,
+      "db_id": "flight_2",
+      "difficulty": "easy",
+      "prompt_tokens": 177
+    },
+    {
+      "sample_id": "dev:192",
+      "index": 192,
+      "db_id": "flight_2",
+      "difficulty": "easy",
+      "prompt_tokens": 176
+    },
+    {
+      "sample_id": "dev:193",
+      "index": 193,
+      "db_id": "flight_2",
+      "difficulty": "easy",
+      "prompt_tokens": 178
+    },
+    {
+      "sample_id": "dev:194",
+      "index": 194,
+      "db_id": "flight_2",
+      "difficulty": "easy",
+      "prompt_tokens": 178
+    },
+    {
+      "sample_id": "dev:195",
+      "index": 195,
+      "db_id": "flight_2",
+      "difficulty": "easy",
+      "prompt_tokens": 177
+    },
+    {
+      "sample_id": "dev:196",
+      "index": 196,
+      "db_id": "flight_2",
+      "difficulty": "easy",
+      "prompt_tokens": 179
+    },
+    {
+      "sample_id": "dev:197",
+      "index": 197,
+      "db_id": "flight_2",
+      "difficulty": "medium",
+      "prompt_tokens": 181
+    },
+    {
+      "sample_id": "dev:198",
+      "index": 198,
+      "db_id": "flight_2",
+      "difficulty": "medium",
+      "prompt_tokens": 181
+    },
+    {
+      "sample_id": "dev:199",
+      "index": 199,
+      "db_id": "flight_2",
+      "difficulty": "easy",
+      "prompt_tokens": 182
+    },
+    {
+      "sample_id": "dev:200",
+      "index": 200,
+      "db_id": "flight_2",
+      "difficulty": "easy",
+      "prompt_tokens": 182
+    },
+    {
+      "sample_id": "dev:201",
+      "index": 201,
+      "db_id": "flight_2",
+      "difficulty": "easy",
+      "prompt_tokens": 182
+    },
+    {
+      "sample_id": "dev:202",
+      "index": 202,
+      "db_id": "flight_2",
+      "difficulty": "easy",
+      "prompt_tokens": 179
+    },
+    {
+      "sample_id": "dev:203",
+      "index": 203,
+      "db_id": "flight_2",
+      "difficulty": "easy",
+      "prompt_tokens": 180
+    },
+    {
+      "sample_id": "dev:204",
+      "index": 204,
+      "db_id": "flight_2",
+      "difficulty": "easy",
+      "prompt_tokens": 181
+    },
+    {
+      "sample_id": "dev:205",
+      "index": 205,
+      "db_id": "flight_2",
+      "difficulty": "easy",
+      "prompt_tokens": 178
+    },
+    {
+      "sample_id": "dev:206",
+      "index": 206,
+      "db_id": "flight_2",
+      "difficulty": "easy",
+      "prompt_tokens": 179
+    },
+    {
+      "sample_id": "dev:207",
+      "index": 207,
+      "db_id": "flight_2",
+      "difficulty": "medium",
+      "prompt_tokens": 178
+    },
+    {
+      "sample_id": "dev:208",
+      "index": 208,
+      "db_id": "flight_2",
+      "difficulty": "medium",
+      "prompt_tokens": 179
+    },
+    {
+      "sample_id": "dev:209",
+      "index": 209,
+      "db_id": "flight_2",
+      "difficulty": "medium",
+      "prompt_tokens": 178
+    },
+    {
+      "sample_id": "dev:210",
+      "index": 210,
+      "db_id": "flight_2",
+      "difficulty": "medium",
+      "prompt_tokens": 179
+    },
+    {
+      "sample_id": "dev:211",
+      "index": 211,
+      "db_id": "flight_2",
+      "difficulty": "hard",
+      "prompt_tokens": 190
+    },
+    {
+      "sample_id": "dev:212",
+      "index": 212,
+      "db_id": "flight_2",
+      "difficulty": "hard",
+      "prompt_tokens": 179
+    },
+    {
+      "sample_id": "dev:213",
+      "index": 213,
+      "db_id": "flight_2",
+      "difficulty": "medium",
+      "prompt_tokens": 182
+    },
+    {
+      "sample_id": "dev:214",
+      "index": 214,
+      "db_id": "flight_2",
+      "difficulty": "medium",
+      "prompt_tokens": 179
+    },
+    {
+      "sample_id": "dev:215",
+      "index": 215,
+      "db_id": "flight_2",
+      "difficulty": "medium",
+      "prompt_tokens": 184
+    },
+    {
+      "sample_id": "dev:216",
+      "index": 216,
+      "db_id": "flight_2",
+      "difficulty": "medium",
+      "prompt_tokens": 183
+    },
+    {
+      "sample_id": "dev:217",
+      "index": 217,
+      "db_id": "flight_2",
+      "difficulty": "medium",
+      "prompt_tokens": 185
+    },
+    {
+      "sample_id": "dev:218",
+      "index": 218,
+      "db_id": "flight_2",
+      "difficulty": "medium",
+      "prompt_tokens": 183
+    },
+    {
+      "sample_id": "dev:219",
+      "index": 219,
+      "db_id": "flight_2",
+      "difficulty": "hard",
+      "prompt_tokens": 184
+    },
+    {
+      "sample_id": "dev:220",
+      "index": 220,
+      "db_id": "flight_2",
+      "difficulty": "hard",
+      "prompt_tokens": 182
+    },
+    {
+      "sample_id": "dev:221",
+      "index": 221,
+      "db_id": "flight_2",
+      "difficulty": "extra",
+      "prompt_tokens": 179
+    },
+    {
+      "sample_id": "dev:222",
+      "index": 222,
+      "db_id": "flight_2",
+      "difficulty": "extra",
+      "prompt_tokens": 179
+    },
+    {
+      "sample_id": "dev:223",
+      "index": 223,
+      "db_id": "flight_2",
+      "difficulty": "extra",
+      "prompt_tokens": 179
+    },
+    {
+      "sample_id": "dev:224",
+      "index": 224,
+      "db_id": "flight_2",
+      "difficulty": "extra",
+      "prompt_tokens": 179
+    },
+    {
+      "sample_id": "dev:225",
+      "index": 225,
+      "db_id": "flight_2",
+      "difficulty": "extra",
+      "prompt_tokens": 184
+    },
+    {
+      "sample_id": "dev:226",
+      "index": 226,
+      "db_id": "flight_2",
+      "difficulty": "extra",
+      "prompt_tokens": 183
+    },
+    {
+      "sample_id": "dev:227",
+      "index": 227,
+      "db_id": "flight_2",
+      "difficulty": "extra",
+      "prompt_tokens": 184
+    },
+    {
+      "sample_id": "dev:228",
+      "index": 228,
+      "db_id": "flight_2",
+      "difficulty": "extra",
+      "prompt_tokens": 181
+    },
+    {
+      "sample_id": "dev:229",
+      "index": 229,
+      "db_id": "flight_2",
+      "difficulty": "extra",
+      "prompt_tokens": 178
+    },
+    {
+      "sample_id": "dev:230",
+      "index": 230,
+      "db_id": "flight_2",
+      "difficulty": "extra",
+      "prompt_tokens": 177
+    },
+    {
+      "sample_id": "dev:231",
+      "index": 231,
+      "db_id": "flight_2",
+      "difficulty": "extra",
+      "prompt_tokens": 186
+    },
+    {
+      "sample_id": "dev:232",
+      "index": 232,
+      "db_id": "flight_2",
+      "difficulty": "extra",
+      "prompt_tokens": 191
+    },
+    {
+      "sample_id": "dev:233",
+      "index": 233,
+      "db_id": "flight_2",
+      "difficulty": "medium",
+      "prompt_tokens": 185
+    },
+    {
+      "sample_id": "dev:234",
+      "index": 234,
+      "db_id": "flight_2",
+      "difficulty": "medium",
+      "prompt_tokens": 181
+    },
+    {
+      "sample_id": "dev:235",
+      "index": 235,
+      "db_id": "flight_2",
+      "difficulty": "medium",
+      "prompt_tokens": 184
+    },
+    {
+      "sample_id": "dev:236",
+      "index": 236,
+      "db_id": "flight_2",
+      "difficulty": "medium",
+      "prompt_tokens": 181
+    },
+    {
+      "sample_id": "dev:237",
+      "index": 237,
+      "db_id": "flight_2",
+      "difficulty": "extra",
+      "prompt_tokens": 188
+    },
+    {
+      "sample_id": "dev:238",
+      "index": 238,
+      "db_id": "flight_2",
+      "difficulty": "extra",
+      "prompt_tokens": 184
+    },
+    {
+      "sample_id": "dev:239",
+      "index": 239,
+      "db_id": "flight_2",
+      "difficulty": "extra",
+      "prompt_tokens": 189
+    },
+    {
+      "sample_id": "dev:240",
+      "index": 240,
+      "db_id": "flight_2",
+      "difficulty": "extra",
+      "prompt_tokens": 185
+    },
+    {
+      "sample_id": "dev:241",
+      "index": 241,
+      "db_id": "flight_2",
+      "difficulty": "medium",
+      "prompt_tokens": 182
+    },
+    {
+      "sample_id": "dev:242",
+      "index": 242,
+      "db_id": "flight_2",
+      "difficulty": "medium",
+      "prompt_tokens": 180
+    },
+    {
+      "sample_id": "dev:243",
+      "index": 243,
+      "db_id": "flight_2",
+      "difficulty": "medium",
+      "prompt_tokens": 183
+    },
+    {
+      "sample_id": "dev:244",
+      "index": 244,
+      "db_id": "flight_2",
+      "difficulty": "medium",
+      "prompt_tokens": 181
+    },
+    {
+      "sample_id": "dev:245",
+      "index": 245,
+      "db_id": "flight_2",
+      "difficulty": "medium",
+      "prompt_tokens": 181
+    },
+    {
+      "sample_id": "dev:246",
+      "index": 246,
+      "db_id": "flight_2",
+      "difficulty": "medium",
+      "prompt_tokens": 179
+    },
+    {
+      "sample_id": "dev:247",
+      "index": 247,
+      "db_id": "flight_2",
+      "difficulty": "easy",
+      "prompt_tokens": 183
+    },
+    {
+      "sample_id": "dev:248",
+      "index": 248,
+      "db_id": "flight_2",
+      "difficulty": "easy",
+      "prompt_tokens": 181
+    },
+    {
+      "sample_id": "dev:249",
+      "index": 249,
+      "db_id": "flight_2",
+      "difficulty": "easy",
+      "prompt_tokens": 183
+    },
+    {
+      "sample_id": "dev:250",
+      "index": 250,
+      "db_id": "flight_2",
+      "difficulty": "easy",
+      "prompt_tokens": 181
+    },
+    {
+      "sample_id": "dev:251",
+      "index": 251,
+      "db_id": "flight_2",
+      "difficulty": "medium",
+      "prompt_tokens": 185
+    },
+    {
+      "sample_id": "dev:252",
+      "index": 252,
+      "db_id": "flight_2",
+      "difficulty": "medium",
+      "prompt_tokens": 180
+    },
+    {
+      "sample_id": "dev:253",
+      "index": 253,
+      "db_id": "flight_2",
+      "difficulty": "medium",
+      "prompt_tokens": 184
+    },
+    {
+      "sample_id": "dev:254",
+      "index": 254,
+      "db_id": "flight_2",
+      "difficulty": "medium",
+      "prompt_tokens": 180
+    },
+    {
+      "sample_id": "dev:255",
+      "index": 255,
+      "db_id": "flight_2",
+      "difficulty": "hard",
+      "prompt_tokens": 186
+    },
+    {
+      "sample_id": "dev:256",
+      "index": 256,
+      "db_id": "flight_2",
+      "difficulty": "hard",
+      "prompt_tokens": 181
+    },
+    {
+      "sample_id": "dev:257",
+      "index": 257,
+      "db_id": "flight_2",
+      "difficulty": "hard",
+      "prompt_tokens": 185
+    },
+    {
+      "sample_id": "dev:258",
+      "index": 258,
+      "db_id": "flight_2",
+      "difficulty": "hard",
+      "prompt_tokens": 180
+    },
+    {
+      "sample_id": "dev:259",
+      "index": 259,
+      "db_id": "employee_hire_evaluation",
+      "difficulty": "easy",
+      "prompt_tokens": 209
+    },
+    {
+      "sample_id": "dev:260",
+      "index": 260,
+      "db_id": "employee_hire_evaluation",
+      "difficulty": "easy",
+      "prompt_tokens": 209
+    },
+    {
+      "sample_id": "dev:261",
+      "index": 261,
+      "db_id": "employee_hire_evaluation",
+      "difficulty": "easy",
+      "prompt_tokens": 213
+    },
+    {
+      "sample_id": "dev:262",
+      "index": 262,
+      "db_id": "employee_hire_evaluation",
+      "difficulty": "easy",
+      "prompt_tokens": 216
+    },
+    {
+      "sample_id": "dev:263",
+      "index": 263,
+      "db_id": "employee_hire_evaluation",
+      "difficulty": "medium",
+      "prompt_tokens": 213
+    },
+    {
+      "sample_id": "dev:264",
+      "index": 264,
+      "db_id": "employee_hire_evaluation",
+      "difficulty": "medium",
+      "prompt_tokens": 212
+    },
+    {
+      "sample_id": "dev:265",
+      "index": 265,
+      "db_id": "employee_hire_evaluation",
+      "difficulty": "medium",
+      "prompt_tokens": 218
+    },
+    {
+      "sample_id": "dev:266",
+      "index": 266,
+      "db_id": "employee_hire_evaluation",
+      "difficulty": "medium",
+      "prompt_tokens": 218
+    },
+    {
+      "sample_id": "dev:267",
+      "index": 267,
+      "db_id": "employee_hire_evaluation",
+      "difficulty": "medium",
+      "prompt_tokens": 212
+    },
+    {
+      "sample_id": "dev:268",
+      "index": 268,
+      "db_id": "employee_hire_evaluation",
+      "difficulty": "medium",
+      "prompt_tokens": 212
+    },
+    {
+      "sample_id": "dev:269",
+      "index": 269,
+      "db_id": "employee_hire_evaluation",
+      "difficulty": "medium",
+      "prompt_tokens": 220
+    },
+    {
+      "sample_id": "dev:270",
+      "index": 270,
+      "db_id": "employee_hire_evaluation",
+      "difficulty": "medium",
+      "prompt_tokens": 221
+    },
+    {
+      "sample_id": "dev:271",
+      "index": 271,
+      "db_id": "employee_hire_evaluation",
+      "difficulty": "medium",
+      "prompt_tokens": 215
+    },
+    {
+      "sample_id": "dev:272",
+      "index": 272,
+      "db_id": "employee_hire_evaluation",
+      "difficulty": "medium",
+      "prompt_tokens": 217
+    },
+    {
+      "sample_id": "dev:273",
+      "index": 273,
+      "db_id": "employee_hire_evaluation",
+      "difficulty": "medium",
+      "prompt_tokens": 221
+    },
+    {
+      "sample_id": "dev:274",
+      "index": 274,
+      "db_id": "employee_hire_evaluation",
+      "difficulty": "medium",
+      "prompt_tokens": 226
+    },
+    {
+      "sample_id": "dev:275",
+      "index": 275,
+      "db_id": "employee_hire_evaluation",
+      "difficulty": "hard",
+      "prompt_tokens": 220
+    },
+    {
+      "sample_id": "dev:276",
+      "index": 276,
+      "db_id": "employee_hire_evaluation",
+      "difficulty": "hard",
+      "prompt_tokens": 219
+    },
+    {
+      "sample_id": "dev:277",
+      "index": 277,
+      "db_id": "employee_hire_evaluation",
+      "difficulty": "extra",
+      "prompt_tokens": 218
+    },
+    {
+      "sample_id": "dev:278",
+      "index": 278,
+      "db_id": "employee_hire_evaluation",
+      "difficulty": "extra",
+      "prompt_tokens": 218
+    },
+    {
+      "sample_id": "dev:279",
+      "index": 279,
+      "db_id": "employee_hire_evaluation",
+      "difficulty": "hard",
+      "prompt_tokens": 217
+    },
+    {
+      "sample_id": "dev:280",
+      "index": 280,
+      "db_id": "employee_hire_evaluation",
+      "difficulty": "hard",
+      "prompt_tokens": 216
+    },
+    {
+      "sample_id": "dev:281",
+      "index": 281,
+      "db_id": "employee_hire_evaluation",
+      "difficulty": "hard",
+      "prompt_tokens": 217
+    },
+    {
+      "sample_id": "dev:282",
+      "index": 282,
+      "db_id": "employee_hire_evaluation",
+      "difficulty": "hard",
+      "prompt_tokens": 216
+    },
+    {
+      "sample_id": "dev:283",
+      "index": 283,
+      "db_id": "employee_hire_evaluation",
+      "difficulty": "extra",
+      "prompt_tokens": 219
+    },
+    {
+      "sample_id": "dev:284",
+      "index": 284,
+      "db_id": "employee_hire_evaluation",
+      "difficulty": "extra",
+      "prompt_tokens": 216
+    },
+    {
+      "sample_id": "dev:285",
+      "index": 285,
+      "db_id": "employee_hire_evaluation",
+      "difficulty": "hard",
+      "prompt_tokens": 216
+    },
+    {
+      "sample_id": "dev:286",
+      "index": 286,
+      "db_id": "employee_hire_evaluation",
+      "difficulty": "hard",
+      "prompt_tokens": 215
+    },
+    {
+      "sample_id": "dev:287",
+      "index": 287,
+      "db_id": "employee_hire_evaluation",
+      "difficulty": "medium",
+      "prompt_tokens": 220
+    },
+    {
+      "sample_id": "dev:288",
+      "index": 288,
+      "db_id": "employee_hire_evaluation",
+      "difficulty": "medium",
+      "prompt_tokens": 221
+    },
+    {
+      "sample_id": "dev:289",
+      "index": 289,
+      "db_id": "employee_hire_evaluation",
+      "difficulty": "easy",
+      "prompt_tokens": 212
+    },
+    {
+      "sample_id": "dev:290",
+      "index": 290,
+      "db_id": "employee_hire_evaluation",
+      "difficulty": "easy",
+      "prompt_tokens": 215
+    },
+    {
+      "sample_id": "dev:291",
+      "index": 291,
+      "db_id": "employee_hire_evaluation",
+      "difficulty": "easy",
+      "prompt_tokens": 211
+    },
+    {
+      "sample_id": "dev:292",
+      "index": 292,
+      "db_id": "employee_hire_evaluation",
+      "difficulty": "easy",
+      "prompt_tokens": 211
+    },
+    {
+      "sample_id": "dev:293",
+      "index": 293,
+      "db_id": "employee_hire_evaluation",
+      "difficulty": "hard",
+      "prompt_tokens": 230
+    },
+    {
+      "sample_id": "dev:294",
+      "index": 294,
+      "db_id": "employee_hire_evaluation",
+      "difficulty": "hard",
+      "prompt_tokens": 234
+    },
+    {
+      "sample_id": "dev:295",
+      "index": 295,
+      "db_id": "employee_hire_evaluation",
+      "difficulty": "easy",
+      "prompt_tokens": 211
+    },
+    {
+      "sample_id": "dev:296",
+      "index": 296,
+      "db_id": "employee_hire_evaluation",
+      "difficulty": "easy",
+      "prompt_tokens": 211
+    },
+    {
+      "sample_id": "dev:297",
+      "index": 297,
+      "db_id": "cre_Doc_Template_Mgt",
+      "difficulty": "easy",
+      "prompt_tokens": 265
+    },
+    {
+      "sample_id": "dev:298",
+      "index": 298,
+      "db_id": "cre_Doc_Template_Mgt",
+      "difficulty": "easy",
+      "prompt_tokens": 264
+    },
+    {
+      "sample_id": "dev:299",
+      "index": 299,
+      "db_id": "cre_Doc_Template_Mgt",
+      "difficulty": "medium",
+      "prompt_tokens": 272
+    },
+    {
+      "sample_id": "dev:300",
+      "index": 300,
+      "db_id": "cre_Doc_Template_Mgt",
+      "difficulty": "medium",
+      "prompt_tokens": 271
+    },
+    {
+      "sample_id": "dev:301",
+      "index": 301,
+      "db_id": "cre_Doc_Template_Mgt",
+      "difficulty": "medium",
+      "prompt_tokens": 279
+    },
+    {
+      "sample_id": "dev:302",
+      "index": 302,
+      "db_id": "cre_Doc_Template_Mgt",
+      "difficulty": "medium",
+      "prompt_tokens": 275
+    },
+    {
+      "sample_id": "dev:303",
+      "index": 303,
+      "db_id": "cre_Doc_Template_Mgt",
+      "difficulty": "medium",
+      "prompt_tokens": 276
+    },
+    {
+      "sample_id": "dev:304",
+      "index": 304,
+      "db_id": "cre_Doc_Template_Mgt",
+      "difficulty": "medium",
+      "prompt_tokens": 278
+    },
+    {
+      "sample_id": "dev:305",
+      "index": 305,
+      "db_id": "cre_Doc_Template_Mgt",
+      "difficulty": "easy",
+      "prompt_tokens": 267
+    },
+    {
+      "sample_id": "dev:306",
+      "index": 306,
+      "db_id": "cre_Doc_Template_Mgt",
+      "difficulty": "easy",
+      "prompt_tokens": 268
+    },
+    {
+      "sample_id": "dev:307",
+      "index": 307,
+      "db_id": "cre_Doc_Template_Mgt",
+      "difficulty": "medium",
+      "prompt_tokens": 273
+    },
+    {
+      "sample_id": "dev:308",
+      "index": 308,
+      "db_id": "cre_Doc_Template_Mgt",
+      "difficulty": "medium",
+      "prompt_tokens": 271
+    },
+    {
+      "sample_id": "dev:309",
+      "index": 309,
+      "db_id": "cre_Doc_Template_Mgt",
+      "difficulty": "medium",
+      "prompt_tokens": 270
+    },
+    {
+      "sample_id": "dev:310",
+      "index": 310,
+      "db_id": "cre_Doc_Template_Mgt",
+      "difficulty": "medium",
+      "prompt_tokens": 278
+    },
+    {
+      "sample_id": "dev:311",
+      "index": 311,
+      "db_id": "cre_Doc_Template_Mgt",
+      "difficulty": "extra",
+      "prompt_tokens": 274
+    },
+    {
+      "sample_id": "dev:312",
+      "index": 312,
+      "db_id": "cre_Doc_Template_Mgt",
+      "difficulty": "extra",
+      "prompt_tokens": 277
+    },
+    {
+      "sample_id": "dev:313",
+      "index": 313,
+      "db_id": "cre_Doc_Template_Mgt",
+      "difficulty": "easy",
+      "prompt_tokens": 272
+    },
+    {
+      "sample_id": "dev:314",
+      "index": 314,
+      "db_id": "cre_Doc_Template_Mgt",
+      "difficulty": "easy",
+      "prompt_tokens": 274
+    },
+    {
+      "sample_id": "dev:315",
+      "index": 315,
+      "db_id": "cre_Doc_Template_Mgt",
+      "difficulty": "hard",
+      "prompt_tokens": 269
+    },
+    {
+      "sample_id": "dev:316",
+      "index": 316,
+      "db_id": "cre_Doc_Template_Mgt",
+      "difficulty": "hard",
+      "prompt_tokens": 272
+    },
+    {
+      "sample_id": "dev:317",
+      "index": 317,
+      "db_id": "cre_Doc_Template_Mgt",
+      "difficulty": "easy",
+      "prompt_tokens": 265
+    },
+    {
+      "sample_id": "dev:318",
+      "index": 318,
+      "db_id": "cre_Doc_Template_Mgt",
+      "difficulty": "easy",
+      "prompt_tokens": 264
+    },
+    {
+      "sample_id": "dev:319",
+      "index": 319,
+      "db_id": "cre_Doc_Template_Mgt",
+      "difficulty": "medium",
+      "prompt_tokens": 273
+    },
+    {
+      "sample_id": "dev:320",
+      "index": 320,
+      "db_id": "cre_Doc_Template_Mgt",
+      "difficulty": "medium",
+      "prompt_tokens": 273
+    },
+    {
+      "sample_id": "dev:321",
+      "index": 321,
+      "db_id": "cre_Doc_Template_Mgt",
+      "difficulty": "easy",
+      "prompt_tokens": 268
+    },
+    {
+      "sample_id": "dev:322",
+      "index": 322,
+      "db_id": "cre_Doc_Template_Mgt",
+      "difficulty": "easy",
+      "prompt_tokens": 266
+    },
+    {
+      "sample_id": "dev:323",
+      "index": 323,
+      "db_id": "cre_Doc_Template_Mgt",
+      "difficulty": "medium",
+      "prompt_tokens": 273
+    },
+    {
+      "sample_id": "dev:324",
+      "index": 324,
+      "db_id": "cre_Doc_Template_Mgt",
+      "difficulty": "medium",
+      "prompt_tokens": 272
+    },
+    {
+      "sample_id": "dev:325",
+      "index": 325,
+      "db_id": "cre_Doc_Template_Mgt",
+      "difficulty": "easy",
+      "prompt_tokens": 267
+    },
+    {
+      "sample_id": "dev:326",
+      "index": 326,
+      "db_id": "cre_Doc_Template_Mgt",
+      "difficulty": "easy",
+      "prompt_tokens": 268
+    },
+    {
+      "sample_id": "dev:327",
+      "index": 327,
+      "db_id": "cre_Doc_Template_Mgt",
+      "difficulty": "medium",
+      "prompt_tokens": 278
+    },
+    {
+      "sample_id": "dev:328",
+      "index": 328,
+      "db_id": "cre_Doc_Template_Mgt",
+      "difficulty": "medium",
+      "prompt_tokens": 277
+    },
+    {
+      "sample_id": "dev:329",
+      "index": 329,
+      "db_id": "cre_Doc_Template_Mgt",
+      "difficulty": "medium",
+      "prompt_tokens": 270
+    },
+    {
+      "sample_id": "dev:330",
+      "index": 330,
+      "db_id": "cre_Doc_Template_Mgt",
+      "difficulty": "medium",
+      "prompt_tokens": 274
+    },
+    {
+      "sample_id": "dev:331",
+      "index": 331,
+      "db_id": "cre_Doc_Template_Mgt",
+      "difficulty": "hard",
+      "prompt_tokens": 268
+    },
+    {
+      "sample_id": "dev:332",
+      "index": 332,
+      "db_id": "cre_Doc_Template_Mgt",
+      "difficulty": "hard",
+      "prompt_tokens": 273
+    },
+    {
+      "sample_id": "dev:333",
+      "index": 333,
+      "db_id": "cre_Doc_Template_Mgt",
+      "difficulty": "easy",
+      "prompt_tokens": 269
+    },
+    {
+      "sample_id": "dev:334",
+      "index": 334,
+      "db_id": "cre_Doc_Template_Mgt",
+      "difficulty": "easy",
+      "prompt_tokens": 273
+    },
+    {
+      "sample_id": "dev:335",
+      "index": 335,
+      "db_id": "cre_Doc_Template_Mgt",
+      "difficulty": "medium",
+      "prompt_tokens": 269
+    },
+    {
+      "sample_id": "dev:336",
+      "index": 336,
+      "db_id": "cre_Doc_Template_Mgt",
+      "difficulty": "medium",
+      "prompt_tokens": 272
+    },
+    {
+      "sample_id": "dev:337",
+      "index": 337,
+      "db_id": "cre_Doc_Template_Mgt",
+      "difficulty": "medium",
+      "prompt_tokens": 277
+    },
+    {
+      "sample_id": "dev:338",
+      "index": 338,
+      "db_id": "cre_Doc_Template_Mgt",
+      "difficulty": "medium",
+      "prompt_tokens": 276
+    },
+    {
+      "sample_id": "dev:339",
+      "index": 339,
+      "db_id": "cre_Doc_Template_Mgt",
+      "difficulty": "medium",
+      "prompt_tokens": 270
+    },
+    {
+      "sample_id": "dev:340",
+      "index": 340,
+      "db_id": "cre_Doc_Template_Mgt",
+      "difficulty": "medium",
+      "prompt_tokens": 272
+    },
+    {
+      "sample_id": "dev:341",
+      "index": 341,
+      "db_id": "cre_Doc_Template_Mgt",
+      "difficulty": "medium",
+      "prompt_tokens": 272
+    },
+    {
+      "sample_id": "dev:342",
+      "index": 342,
+      "db_id": "cre_Doc_Template_Mgt",
+      "difficulty": "medium",
+      "prompt_tokens": 274
+    },
+    {
+      "sample_id": "dev:343",
+      "index": 343,
+      "db_id": "cre_Doc_Template_Mgt",
+      "difficulty": "extra",
+      "prompt_tokens": 270
+    },
+    {
+      "sample_id": "dev:344",
+      "index": 344,
+      "db_id": "cre_Doc_Template_Mgt",
+      "difficulty": "extra",
+      "prompt_tokens": 273
+    },
+    {
+      "sample_id": "dev:345",
+      "index": 345,
+      "db_id": "cre_Doc_Template_Mgt",
+      "difficulty": "hard",
+      "prompt_tokens": 271
+    },
+    {
+      "sample_id": "dev:346",
+      "index": 346,
+      "db_id": "cre_Doc_Template_Mgt",
+      "difficulty": "hard",
+      "prompt_tokens": 273
+    },
+    {
+      "sample_id": "dev:347",
+      "index": 347,
+      "db_id": "cre_Doc_Template_Mgt",
+      "difficulty": "medium",
+      "prompt_tokens": 266
+    },
+    {
+      "sample_id": "dev:348",
+      "index": 348,
+      "db_id": "cre_Doc_Template_Mgt",
+      "difficulty": "medium",
+      "prompt_tokens": 270
+    },
+    {
+      "sample_id": "dev:349",
+      "index": 349,
+      "db_id": "cre_Doc_Template_Mgt",
+      "difficulty": "easy",
+      "prompt_tokens": 271
+    },
+    {
+      "sample_id": "dev:350",
+      "index": 350,
+      "db_id": "cre_Doc_Template_Mgt",
+      "difficulty": "easy",
+      "prompt_tokens": 272
+    },
+    {
+      "sample_id": "dev:351",
+      "index": 351,
+      "db_id": "cre_Doc_Template_Mgt",
+      "difficulty": "easy",
+      "prompt_tokens": 271
+    },
+    {
+      "sample_id": "dev:352",
+      "index": 352,
+      "db_id": "cre_Doc_Template_Mgt",
+      "difficulty": "easy",
+      "prompt_tokens": 272
+    },
+    {
+      "sample_id": "dev:353",
+      "index": 353,
+      "db_id": "cre_Doc_Template_Mgt",
+      "difficulty": "medium",
+      "prompt_tokens": 274
+    },
+    {
+      "sample_id": "dev:354",
+      "index": 354,
+      "db_id": "cre_Doc_Template_Mgt",
+      "difficulty": "medium",
+      "prompt_tokens": 272
+    },
+    {
+      "sample_id": "dev:355",
+      "index": 355,
+      "db_id": "cre_Doc_Template_Mgt",
+      "difficulty": "medium",
+      "prompt_tokens": 270
+    },
+    {
+      "sample_id": "dev:356",
+      "index": 356,
+      "db_id": "cre_Doc_Template_Mgt",
+      "difficulty": "medium",
+      "prompt_tokens": 270
+    },
+    {
+      "sample_id": "dev:357",
+      "index": 357,
+      "db_id": "cre_Doc_Template_Mgt",
+      "difficulty": "easy",
+      "prompt_tokens": 264
+    },
+    {
+      "sample_id": "dev:358",
+      "index": 358,
+      "db_id": "cre_Doc_Template_Mgt",
+      "difficulty": "easy",
+      "prompt_tokens": 264
+    },
+    {
+      "sample_id": "dev:359",
+      "index": 359,
+      "db_id": "cre_Doc_Template_Mgt",
+      "difficulty": "medium",
+      "prompt_tokens": 271
+    },
+    {
+      "sample_id": "dev:360",
+      "index": 360,
+      "db_id": "cre_Doc_Template_Mgt",
+      "difficulty": "medium",
+      "prompt_tokens": 271
+    },
+    {
+      "sample_id": "dev:361",
+      "index": 361,
+      "db_id": "cre_Doc_Template_Mgt",
+      "difficulty": "medium",
+      "prompt_tokens": 270
+    },
+    {
+      "sample_id": "dev:362",
+      "index": 362,
+      "db_id": "cre_Doc_Template_Mgt",
+      "difficulty": "medium",
+      "prompt_tokens": 274
+    },
+    {
+      "sample_id": "dev:363",
+      "index": 363,
+      "db_id": "cre_Doc_Template_Mgt",
+      "difficulty": "medium",
+      "prompt_tokens": 274
+    },
+    {
+      "sample_id": "dev:364",
+      "index": 364,
+      "db_id": "cre_Doc_Template_Mgt",
+      "difficulty": "medium",
+      "prompt_tokens": 276
+    },
+    {
+      "sample_id": "dev:365",
+      "index": 365,
+      "db_id": "cre_Doc_Template_Mgt",
+      "difficulty": "medium",
+      "prompt_tokens": 269
+    },
+    {
+      "sample_id": "dev:366",
+      "index": 366,
+      "db_id": "cre_Doc_Template_Mgt",
+      "difficulty": "medium",
+      "prompt_tokens": 274
+    },
+    {
+      "sample_id": "dev:367",
+      "index": 367,
+      "db_id": "cre_Doc_Template_Mgt",
+      "difficulty": "medium",
+      "prompt_tokens": 276
+    },
+    {
+      "sample_id": "dev:368",
+      "index": 368,
+      "db_id": "cre_Doc_Template_Mgt",
+      "difficulty": "medium",
+      "prompt_tokens": 277
+    },
+    {
+      "sample_id": "dev:369",
+      "index": 369,
+      "db_id": "cre_Doc_Template_Mgt",
+      "difficulty": "medium",
+      "prompt_tokens": 273
+    },
+    {
+      "sample_id": "dev:370",
+      "index": 370,
+      "db_id": "cre_Doc_Template_Mgt",
+      "difficulty": "medium",
+      "prompt_tokens": 278
+    },
+    {
+      "sample_id": "dev:371",
+      "index": 371,
+      "db_id": "cre_Doc_Template_Mgt",
+      "difficulty": "easy",
+      "prompt_tokens": 268
+    },
+    {
+      "sample_id": "dev:372",
+      "index": 372,
+      "db_id": "cre_Doc_Template_Mgt",
+      "difficulty": "easy",
+      "prompt_tokens": 272
+    },
+    {
+      "sample_id": "dev:373",
+      "index": 373,
+      "db_id": "cre_Doc_Template_Mgt",
+      "difficulty": "extra",
+      "prompt_tokens": 271
+    },
+    {
+      "sample_id": "dev:374",
+      "index": 374,
+      "db_id": "cre_Doc_Template_Mgt",
+      "difficulty": "extra",
+      "prompt_tokens": 271
+    },
+    {
+      "sample_id": "dev:375",
+      "index": 375,
+      "db_id": "cre_Doc_Template_Mgt",
+      "difficulty": "hard",
+      "prompt_tokens": 269
+    },
+    {
+      "sample_id": "dev:376",
+      "index": 376,
+      "db_id": "cre_Doc_Template_Mgt",
+      "difficulty": "hard",
+      "prompt_tokens": 270
+    },
+    {
+      "sample_id": "dev:377",
+      "index": 377,
+      "db_id": "cre_Doc_Template_Mgt",
+      "difficulty": "easy",
+      "prompt_tokens": 271
+    },
+    {
+      "sample_id": "dev:378",
+      "index": 378,
+      "db_id": "cre_Doc_Template_Mgt",
+      "difficulty": "easy",
+      "prompt_tokens": 271
+    },
+    {
+      "sample_id": "dev:379",
+      "index": 379,
+      "db_id": "cre_Doc_Template_Mgt",
+      "difficulty": "hard",
+      "prompt_tokens": 273
+    },
+    {
+      "sample_id": "dev:380",
+      "index": 380,
+      "db_id": "cre_Doc_Template_Mgt",
+      "difficulty": "hard",
+      "prompt_tokens": 278
+    },
+    {
+      "sample_id": "dev:381",
+      "index": 381,
+      "db_id": "course_teach",
+      "difficulty": "easy",
+      "prompt_tokens": 162
+    },
+    {
+      "sample_id": "dev:382",
+      "index": 382,
+      "db_id": "course_teach",
+      "difficulty": "easy",
+      "prompt_tokens": 164
+    },
+    {
+      "sample_id": "dev:383",
+      "index": 383,
+      "db_id": "course_teach",
+      "difficulty": "easy",
+      "prompt_tokens": 167
+    },
+    {
+      "sample_id": "dev:384",
+      "index": 384,
+      "db_id": "course_teach",
+      "difficulty": "easy",
+      "prompt_tokens": 168
+    },
+    {
+      "sample_id": "dev:385",
+      "index": 385,
+      "db_id": "course_teach",
+      "difficulty": "medium",
+      "prompt_tokens": 165
+    },
+    {
+      "sample_id": "dev:386",
+      "index": 386,
+      "db_id": "course_teach",
+      "difficulty": "medium",
+      "prompt_tokens": 166
+    },
+    {
+      "sample_id": "dev:387",
+      "index": 387,
+      "db_id": "course_teach",
+      "difficulty": "easy",
+      "prompt_tokens": 172
+    },
+    {
+      "sample_id": "dev:388",
+      "index": 388,
+      "db_id": "course_teach",
+      "difficulty": "easy",
+      "prompt_tokens": 174
+    },
+    {
+      "sample_id": "dev:389",
+      "index": 389,
+      "db_id": "course_teach",
+      "difficulty": "medium",
+      "prompt_tokens": 171
+    },
+    {
+      "sample_id": "dev:390",
+      "index": 390,
+      "db_id": "course_teach",
+      "difficulty": "medium",
+      "prompt_tokens": 175
+    },
+    {
+      "sample_id": "dev:391",
+      "index": 391,
+      "db_id": "course_teach",
+      "difficulty": "medium",
+      "prompt_tokens": 165
+    },
+    {
+      "sample_id": "dev:392",
+      "index": 392,
+      "db_id": "course_teach",
+      "difficulty": "medium",
+      "prompt_tokens": 163
+    },
+    {
+      "sample_id": "dev:393",
+      "index": 393,
+      "db_id": "course_teach",
+      "difficulty": "medium",
+      "prompt_tokens": 170
+    },
+    {
+      "sample_id": "dev:394",
+      "index": 394,
+      "db_id": "course_teach",
+      "difficulty": "medium",
+      "prompt_tokens": 166
+    },
+    {
+      "sample_id": "dev:395",
+      "index": 395,
+      "db_id": "course_teach",
+      "difficulty": "hard",
+      "prompt_tokens": 164
+    },
+    {
+      "sample_id": "dev:396",
+      "index": 396,
+      "db_id": "course_teach",
+      "difficulty": "hard",
+      "prompt_tokens": 167
+    },
+    {
+      "sample_id": "dev:397",
+      "index": 397,
+      "db_id": "course_teach",
+      "difficulty": "easy",
+      "prompt_tokens": 167
+    },
+    {
+      "sample_id": "dev:398",
+      "index": 398,
+      "db_id": "course_teach",
+      "difficulty": "easy",
+      "prompt_tokens": 169
+    },
+    {
+      "sample_id": "dev:399",
+      "index": 399,
+      "db_id": "course_teach",
+      "difficulty": "medium",
+      "prompt_tokens": 169
+    },
+    {
+      "sample_id": "dev:400",
+      "index": 400,
+      "db_id": "course_teach",
+      "difficulty": "medium",
+      "prompt_tokens": 169
+    },
+    {
+      "sample_id": "dev:401",
+      "index": 401,
+      "db_id": "course_teach",
+      "difficulty": "hard",
+      "prompt_tokens": 178
+    },
+    {
+      "sample_id": "dev:402",
+      "index": 402,
+      "db_id": "course_teach",
+      "difficulty": "hard",
+      "prompt_tokens": 179
+    },
+    {
+      "sample_id": "dev:403",
+      "index": 403,
+      "db_id": "course_teach",
+      "difficulty": "hard",
+      "prompt_tokens": 167
+    },
+    {
+      "sample_id": "dev:404",
+      "index": 404,
+      "db_id": "course_teach",
+      "difficulty": "hard",
+      "prompt_tokens": 168
+    },
+    {
+      "sample_id": "dev:405",
+      "index": 405,
+      "db_id": "course_teach",
+      "difficulty": "medium",
+      "prompt_tokens": 168
+    },
+    {
+      "sample_id": "dev:406",
+      "index": 406,
+      "db_id": "course_teach",
+      "difficulty": "medium",
+      "prompt_tokens": 171
+    },
+    {
+      "sample_id": "dev:407",
+      "index": 407,
+      "db_id": "course_teach",
+      "difficulty": "medium",
+      "prompt_tokens": 167
+    },
+    {
+      "sample_id": "dev:408",
+      "index": 408,
+      "db_id": "course_teach",
+      "difficulty": "medium",
+      "prompt_tokens": 170
+    },
+    {
+      "sample_id": "dev:409",
+      "index": 409,
+      "db_id": "course_teach",
+      "difficulty": "hard",
+      "prompt_tokens": 170
+    },
+    {
+      "sample_id": "dev:410",
+      "index": 410,
+      "db_id": "course_teach",
+      "difficulty": "hard",
+      "prompt_tokens": 170
+    },
+    {
+      "sample_id": "dev:411",
+      "index": 411,
+      "db_id": "museum_visit",
+      "difficulty": "easy",
+      "prompt_tokens": 178
+    },
+    {
+      "sample_id": "dev:412",
+      "index": 412,
+      "db_id": "museum_visit",
+      "difficulty": "medium",
+      "prompt_tokens": 194
+    },
+    {
+      "sample_id": "dev:413",
+      "index": 413,
+      "db_id": "museum_visit",
+      "difficulty": "easy",
+      "prompt_tokens": 185
+    },
+    {
+      "sample_id": "dev:414",
+      "index": 414,
+      "db_id": "museum_visit",
+      "difficulty": "medium",
+      "prompt_tokens": 195
+    },
+    {
+      "sample_id": "dev:415",
+      "index": 415,
+      "db_id": "museum_visit",
+      "difficulty": "medium",
+      "prompt_tokens": 182
+    },
+    {
+      "sample_id": "dev:416",
+      "index": 416,
+      "db_id": "museum_visit",
+      "difficulty": "easy",
+      "prompt_tokens": 187
+    },
+    {
+      "sample_id": "dev:417",
+      "index": 417,
+      "db_id": "museum_visit",
+      "difficulty": "medium",
+      "prompt_tokens": 182
+    },
+    {
+      "sample_id": "dev:418",
+      "index": 418,
+      "db_id": "museum_visit",
+      "difficulty": "hard",
+      "prompt_tokens": 192
+    },
+    {
+      "sample_id": "dev:419",
+      "index": 419,
+      "db_id": "museum_visit",
+      "difficulty": "medium",
+      "prompt_tokens": 184
+    },
+    {
+      "sample_id": "dev:420",
+      "index": 420,
+      "db_id": "museum_visit",
+      "difficulty": "extra",
+      "prompt_tokens": 193
+    },
+    {
+      "sample_id": "dev:421",
+      "index": 421,
+      "db_id": "museum_visit",
+      "difficulty": "extra",
+      "prompt_tokens": 180
+    },
+    {
+      "sample_id": "dev:422",
+      "index": 422,
+      "db_id": "museum_visit",
+      "difficulty": "hard",
+      "prompt_tokens": 180
+    },
+    {
+      "sample_id": "dev:423",
+      "index": 423,
+      "db_id": "museum_visit",
+      "difficulty": "hard",
+      "prompt_tokens": 183
+    },
+    {
+      "sample_id": "dev:424",
+      "index": 424,
+      "db_id": "museum_visit",
+      "difficulty": "medium",
+      "prompt_tokens": 181
+    },
+    {
+      "sample_id": "dev:425",
+      "index": 425,
+      "db_id": "museum_visit",
+      "difficulty": "medium",
+      "prompt_tokens": 183
+    },
+    {
+      "sample_id": "dev:426",
+      "index": 426,
+      "db_id": "museum_visit",
+      "difficulty": "extra",
+      "prompt_tokens": 197
+    },
+    {
+      "sample_id": "dev:427",
+      "index": 427,
+      "db_id": "museum_visit",
+      "difficulty": "extra",
+      "prompt_tokens": 186
+    },
+    {
+      "sample_id": "dev:428",
+      "index": 428,
+      "db_id": "museum_visit",
+      "difficulty": "medium",
+      "prompt_tokens": 186
+    },
+    {
+      "sample_id": "dev:429",
+      "index": 429,
+      "db_id": "wta_1",
+      "difficulty": "easy",
+      "prompt_tokens": 320
+    },
+    {
+      "sample_id": "dev:430",
+      "index": 430,
+      "db_id": "wta_1",
+      "difficulty": "easy",
+      "prompt_tokens": 319
+    },
+    {
+      "sample_id": "dev:431",
+      "index": 431,
+      "db_id": "wta_1",
+      "difficulty": "easy",
+      "prompt_tokens": 320
+    },
+    {
+      "sample_id": "dev:432",
+      "index": 432,
+      "db_id": "wta_1",
+      "difficulty": "easy",
+      "prompt_tokens": 319
+    },
+    {
+      "sample_id": "dev:433",
+      "index": 433,
+      "db_id": "wta_1",
+      "difficulty": "medium",
+      "prompt_tokens": 330
+    },
+    {
+      "sample_id": "dev:434",
+      "index": 434,
+      "db_id": "wta_1",
+      "difficulty": "medium",
+      "prompt_tokens": 327
+    },
+    {
+      "sample_id": "dev:435",
+      "index": 435,
+      "db_id": "wta_1",
+      "difficulty": "medium",
+      "prompt_tokens": 325
+    },
+    {
+      "sample_id": "dev:436",
+      "index": 436,
+      "db_id": "wta_1",
+      "difficulty": "medium",
+      "prompt_tokens": 325
+    },
+    {
+      "sample_id": "dev:437",
+      "index": 437,
+      "db_id": "wta_1",
+      "difficulty": "easy",
+      "prompt_tokens": 323
+    },
+    {
+      "sample_id": "dev:438",
+      "index": 438,
+      "db_id": "wta_1",
+      "difficulty": "easy",
+      "prompt_tokens": 324
+    },
+    {
+      "sample_id": "dev:439",
+      "index": 439,
+      "db_id": "wta_1",
+      "difficulty": "easy",
+      "prompt_tokens": 323
+    },
+    {
+      "sample_id": "dev:440",
+      "index": 440,
+      "db_id": "wta_1",
+      "difficulty": "easy",
+      "prompt_tokens": 324
+    },
+    {
+      "sample_id": "dev:441",
+      "index": 441,
+      "db_id": "wta_1",
+      "difficulty": "easy",
+      "prompt_tokens": 324
+    },
+    {
+      "sample_id": "dev:442",
+      "index": 442,
+      "db_id": "wta_1",
+      "difficulty": "easy",
+      "prompt_tokens": 322
+    },
+    {
+      "sample_id": "dev:443",
+      "index": 443,
+      "db_id": "wta_1",
+      "difficulty": "easy",
+      "prompt_tokens": 322
+    },
+    {
+      "sample_id": "dev:444",
+      "index": 444,
+      "db_id": "wta_1",
+      "difficulty": "easy",
+      "prompt_tokens": 321
+    },
+    {
+      "sample_id": "dev:445",
+      "index": 445,
+      "db_id": "wta_1",
+      "difficulty": "easy",
+      "prompt_tokens": 328
+    },
+    {
+      "sample_id": "dev:446",
+      "index": 446,
+      "db_id": "wta_1",
+      "difficulty": "easy",
+      "prompt_tokens": 328
+    },
+    {
+      "sample_id": "dev:447",
+      "index": 447,
+      "db_id": "wta_1",
+      "difficulty": "hard",
+      "prompt_tokens": 335
+    },
+    {
+      "sample_id": "dev:448",
+      "index": 448,
+      "db_id": "wta_1",
+      "difficulty": "hard",
+      "prompt_tokens": 335
+    },
+    {
+      "sample_id": "dev:449",
+      "index": 449,
+      "db_id": "wta_1",
+      "difficulty": "medium",
+      "prompt_tokens": 336
+    },
+    {
+      "sample_id": "dev:450",
+      "index": 450,
+      "db_id": "wta_1",
+      "difficulty": "medium",
+      "prompt_tokens": 331
+    },
+    {
+      "sample_id": "dev:451",
+      "index": 451,
+      "db_id": "wta_1",
+      "difficulty": "extra",
+      "prompt_tokens": 337
+    },
+    {
+      "sample_id": "dev:452",
+      "index": 452,
+      "db_id": "wta_1",
+      "difficulty": "extra",
+      "prompt_tokens": 335
+    },
+    {
+      "sample_id": "dev:453",
+      "index": 453,
+      "db_id": "wta_1",
+      "difficulty": "medium",
+      "prompt_tokens": 325
+    },
+    {
+      "sample_id": "dev:454",
+      "index": 454,
+      "db_id": "wta_1",
+      "difficulty": "medium",
+      "prompt_tokens": 326
+    },
+    {
+      "sample_id": "dev:455",
+      "index": 455,
+      "db_id": "wta_1",
+      "difficulty": "medium",
+      "prompt_tokens": 329
+    },
+    {
+      "sample_id": "dev:456",
+      "index": 456,
+      "db_id": "wta_1",
+      "difficulty": "medium",
+      "prompt_tokens": 327
+    },
+    {
+      "sample_id": "dev:457",
+      "index": 457,
+      "db_id": "wta_1",
+      "difficulty": "medium",
+      "prompt_tokens": 335
+    },
+    {
+      "sample_id": "dev:458",
+      "index": 458,
+      "db_id": "wta_1",
+      "difficulty": "medium",
+      "prompt_tokens": 330
+    },
+    {
+      "sample_id": "dev:459",
+      "index": 459,
+      "db_id": "wta_1",
+      "difficulty": "hard",
+      "prompt_tokens": 331
+    },
+    {
+      "sample_id": "dev:460",
+      "index": 460,
+      "db_id": "wta_1",
+      "difficulty": "hard",
+      "prompt_tokens": 329
+    },
+    {
+      "sample_id": "dev:461",
+      "index": 461,
+      "db_id": "wta_1",
+      "difficulty": "hard",
+      "prompt_tokens": 324
+    },
+    {
+      "sample_id": "dev:462",
+      "index": 462,
+      "db_id": "wta_1",
+      "difficulty": "hard",
+      "prompt_tokens": 320
+    },
+    {
+      "sample_id": "dev:463",
+      "index": 463,
+      "db_id": "wta_1",
+      "difficulty": "hard",
+      "prompt_tokens": 328
+    },
+    {
+      "sample_id": "dev:464",
+      "index": 464,
+      "db_id": "wta_1",
+      "difficulty": "hard",
+      "prompt_tokens": 337
+    },
+    {
+      "sample_id": "dev:465",
+      "index": 465,
+      "db_id": "wta_1",
+      "difficulty": "hard",
+      "prompt_tokens": 334
+    },
+    {
+      "sample_id": "dev:466",
+      "index": 466,
+      "db_id": "wta_1",
+      "difficulty": "hard",
+      "prompt_tokens": 333
+    },
+    {
+      "sample_id": "dev:467",
+      "index": 467,
+      "db_id": "wta_1",
+      "difficulty": "medium",
+      "prompt_tokens": 331
+    },
+    {
+      "sample_id": "dev:468",
+      "index": 468,
+      "db_id": "wta_1",
+      "difficulty": "medium",
+      "prompt_tokens": 329
+    },
+    {
+      "sample_id": "dev:469",
+      "index": 469,
+      "db_id": "wta_1",
+      "difficulty": "medium",
+      "prompt_tokens": 325
+    },
+    {
+      "sample_id": "dev:470",
+      "index": 470,
+      "db_id": "wta_1",
+      "difficulty": "medium",
+      "prompt_tokens": 327
+    },
+    {
+      "sample_id": "dev:471",
+      "index": 471,
+      "db_id": "wta_1",
+      "difficulty": "medium",
+      "prompt_tokens": 326
+    },
+    {
+      "sample_id": "dev:472",
+      "index": 472,
+      "db_id": "wta_1",
+      "difficulty": "medium",
+      "prompt_tokens": 328
+    },
+    {
+      "sample_id": "dev:473",
+      "index": 473,
+      "db_id": "wta_1",
+      "difficulty": "medium",
+      "prompt_tokens": 322
+    },
+    {
+      "sample_id": "dev:474",
+      "index": 474,
+      "db_id": "wta_1",
+      "difficulty": "medium",
+      "prompt_tokens": 321
+    },
+    {
+      "sample_id": "dev:475",
+      "index": 475,
+      "db_id": "wta_1",
+      "difficulty": "hard",
+      "prompt_tokens": 327
+    },
+    {
+      "sample_id": "dev:476",
+      "index": 476,
+      "db_id": "wta_1",
+      "difficulty": "hard",
+      "prompt_tokens": 325
+    },
+    {
+      "sample_id": "dev:477",
+      "index": 477,
+      "db_id": "wta_1",
+      "difficulty": "easy",
+      "prompt_tokens": 327
+    },
+    {
+      "sample_id": "dev:478",
+      "index": 478,
+      "db_id": "wta_1",
+      "difficulty": "easy",
+      "prompt_tokens": 327
+    },
+    {
+      "sample_id": "dev:479",
+      "index": 479,
+      "db_id": "wta_1",
+      "difficulty": "medium",
+      "prompt_tokens": 324
+    },
+    {
+      "sample_id": "dev:480",
+      "index": 480,
+      "db_id": "wta_1",
+      "difficulty": "medium",
+      "prompt_tokens": 324
+    },
+    {
+      "sample_id": "dev:481",
+      "index": 481,
+      "db_id": "wta_1",
+      "difficulty": "medium",
+      "prompt_tokens": 323
+    },
+    {
+      "sample_id": "dev:482",
+      "index": 482,
+      "db_id": "wta_1",
+      "difficulty": "medium",
+      "prompt_tokens": 322
+    },
+    {
+      "sample_id": "dev:483",
+      "index": 483,
+      "db_id": "wta_1",
+      "difficulty": "medium",
+      "prompt_tokens": 328
+    },
+    {
+      "sample_id": "dev:484",
+      "index": 484,
+      "db_id": "wta_1",
+      "difficulty": "medium",
+      "prompt_tokens": 328
+    },
+    {
+      "sample_id": "dev:485",
+      "index": 485,
+      "db_id": "wta_1",
+      "difficulty": "medium",
+      "prompt_tokens": 329
+    },
+    {
+      "sample_id": "dev:486",
+      "index": 486,
+      "db_id": "wta_1",
+      "difficulty": "medium",
+      "prompt_tokens": 328
+    },
+    {
+      "sample_id": "dev:487",
+      "index": 487,
+      "db_id": "wta_1",
+      "difficulty": "hard",
+      "prompt_tokens": 336
+    },
+    {
+      "sample_id": "dev:488",
+      "index": 488,
+      "db_id": "wta_1",
+      "difficulty": "hard",
+      "prompt_tokens": 338
+    },
+    {
+      "sample_id": "dev:489",
+      "index": 489,
+      "db_id": "wta_1",
+      "difficulty": "medium",
+      "prompt_tokens": 323
+    },
+    {
+      "sample_id": "dev:490",
+      "index": 490,
+      "db_id": "wta_1",
+      "difficulty": "medium",
+      "prompt_tokens": 323
+    },
+    {
+      "sample_id": "dev:491",
+      "index": 491,
+      "db_id": "battle_death",
+      "difficulty": "easy",
+      "prompt_tokens": 201
+    },
+    {
+      "sample_id": "dev:492",
+      "index": 492,
+      "db_id": "battle_death",
+      "difficulty": "medium",
+      "prompt_tokens": 207
+    },
+    {
+      "sample_id": "dev:493",
+      "index": 493,
+      "db_id": "battle_death",
+      "difficulty": "medium",
+      "prompt_tokens": 201
+    },
+    {
+      "sample_id": "dev:494",
+      "index": 494,
+      "db_id": "battle_death",
+      "difficulty": "medium",
+      "prompt_tokens": 201
+    },
+    {
+      "sample_id": "dev:495",
+      "index": 495,
+      "db_id": "battle_death",
+      "difficulty": "easy",
+      "prompt_tokens": 201
+    },
+    {
+      "sample_id": "dev:496",
+      "index": 496,
+      "db_id": "battle_death",
+      "difficulty": "medium",
+      "prompt_tokens": 208
+    },
+    {
+      "sample_id": "dev:497",
+      "index": 497,
+      "db_id": "battle_death",
+      "difficulty": "medium",
+      "prompt_tokens": 212
+    },
+    {
+      "sample_id": "dev:498",
+      "index": 498,
+      "db_id": "battle_death",
+      "difficulty": "medium",
+      "prompt_tokens": 211
+    },
+    {
+      "sample_id": "dev:499",
+      "index": 499,
+      "db_id": "battle_death",
+      "difficulty": "hard",
+      "prompt_tokens": 212
+    },
+    {
+      "sample_id": "dev:500",
+      "index": 500,
+      "db_id": "battle_death",
+      "difficulty": "extra",
+      "prompt_tokens": 203
+    },
+    {
+      "sample_id": "dev:501",
+      "index": 501,
+      "db_id": "battle_death",
+      "difficulty": "medium",
+      "prompt_tokens": 218
+    },
+    {
+      "sample_id": "dev:502",
+      "index": 502,
+      "db_id": "battle_death",
+      "difficulty": "easy",
+      "prompt_tokens": 200
+    },
+    {
+      "sample_id": "dev:503",
+      "index": 503,
+      "db_id": "battle_death",
+      "difficulty": "extra",
+      "prompt_tokens": 207
+    },
+    {
+      "sample_id": "dev:504",
+      "index": 504,
+      "db_id": "battle_death",
+      "difficulty": "extra",
+      "prompt_tokens": 219
+    },
+    {
+      "sample_id": "dev:505",
+      "index": 505,
+      "db_id": "battle_death",
+      "difficulty": "extra",
+      "prompt_tokens": 212
+    },
+    {
+      "sample_id": "dev:506",
+      "index": 506,
+      "db_id": "battle_death",
+      "difficulty": "medium",
+      "prompt_tokens": 205
+    },
+    {
+      "sample_id": "dev:507",
+      "index": 507,
+      "db_id": "student_transcripts_tracking",
+      "difficulty": "medium",
+      "prompt_tokens": 772
+    },
+    {
+      "sample_id": "dev:508",
+      "index": 508,
+      "db_id": "student_transcripts_tracking",
+      "difficulty": "medium",
+      "prompt_tokens": 769
+    },
+    {
+      "sample_id": "dev:509",
+      "index": 509,
+      "db_id": "student_transcripts_tracking",
+      "difficulty": "easy",
+      "prompt_tokens": 766
+    },
+    {
+      "sample_id": "dev:510",
+      "index": 510,
+      "db_id": "student_transcripts_tracking",
+      "difficulty": "easy",
+      "prompt_tokens": 764
+    },
+    {
+      "sample_id": "dev:511",
+      "index": 511,
+      "db_id": "student_transcripts_tracking",
+      "difficulty": "easy",
+      "prompt_tokens": 765
+    },
+    {
+      "sample_id": "dev:512",
+      "index": 512,
+      "db_id": "student_transcripts_tracking",
+      "difficulty": "easy",
+      "prompt_tokens": 768
+    },
+    {
+      "sample_id": "dev:513",
+      "index": 513,
+      "db_id": "student_transcripts_tracking",
+      "difficulty": "easy",
+      "prompt_tokens": 772
+    },
+    {
+      "sample_id": "dev:514",
+      "index": 514,
+      "db_id": "student_transcripts_tracking",
+      "difficulty": "easy",
+      "prompt_tokens": 767
+    },
+    {
+      "sample_id": "dev:515",
+      "index": 515,
+      "db_id": "student_transcripts_tracking",
+      "difficulty": "extra",
+      "prompt_tokens": 773
+    },
+    {
+      "sample_id": "dev:516",
+      "index": 516,
+      "db_id": "student_transcripts_tracking",
+      "difficulty": "extra",
+      "prompt_tokens": 774
+    },
+    {
+      "sample_id": "dev:517",
+      "index": 517,
+      "db_id": "student_transcripts_tracking",
+      "difficulty": "easy",
+      "prompt_tokens": 765
+    },
+    {
+      "sample_id": "dev:518",
+      "index": 518,
+      "db_id": "student_transcripts_tracking",
+      "difficulty": "easy",
+      "prompt_tokens": 765
+    },
+    {
+      "sample_id": "dev:519",
+      "index": 519,
+      "db_id": "student_transcripts_tracking",
+      "difficulty": "easy",
+      "prompt_tokens": 766
+    },
+    {
+      "sample_id": "dev:520",
+      "index": 520,
+      "db_id": "student_transcripts_tracking",
+      "difficulty": "easy",
+      "prompt_tokens": 765
+    },
+    {
+      "sample_id": "dev:521",
+      "index": 521,
+      "db_id": "student_transcripts_tracking",
+      "difficulty": "medium",
+      "prompt_tokens": 767
+    },
+    {
+      "sample_id": "dev:522",
+      "index": 522,
+      "db_id": "student_transcripts_tracking",
+      "difficulty": "medium",
+      "prompt_tokens": 767
+    },
+    {
+      "sample_id": "dev:523",
+      "index": 523,
+      "db_id": "student_transcripts_tracking",
+      "difficulty": "medium",
+      "prompt_tokens": 769
+    },
+    {
+      "sample_id": "dev:524",
+      "index": 524,
+      "db_id": "student_transcripts_tracking",
+      "difficulty": "medium",
+      "prompt_tokens": 769
+    },
+    {
+      "sample_id": "dev:525",
+      "index": 525,
+      "db_id": "student_transcripts_tracking",
+      "difficulty": "medium",
+      "prompt_tokens": 773
+    },
+    {
+      "sample_id": "dev:526",
+      "index": 526,
+      "db_id": "student_transcripts_tracking",
+      "difficulty": "medium",
+      "prompt_tokens": 774
+    },
+    {
+      "sample_id": "dev:527",
+      "index": 527,
+      "db_id": "student_transcripts_tracking",
+      "difficulty": "easy",
+      "prompt_tokens": 769
+    },
+    {
+      "sample_id": "dev:528",
+      "index": 528,
+      "db_id": "student_transcripts_tracking",
+      "difficulty": "easy",
+      "prompt_tokens": 770
+    },
+    {
+      "sample_id": "dev:529",
+      "index": 529,
+      "db_id": "student_transcripts_tracking",
+      "difficulty": "extra",
+      "prompt_tokens": 776
+    },
+    {
+      "sample_id": "dev:530",
+      "index": 530,
+      "db_id": "student_transcripts_tracking",
+      "difficulty": "extra",
+      "prompt_tokens": 777
+    },
+    {
+      "sample_id": "dev:531",
+      "index": 531,
+      "db_id": "student_transcripts_tracking",
+      "difficulty": "medium",
+      "prompt_tokens": 773
+    },
+    {
+      "sample_id": "dev:532",
+      "index": 532,
+      "db_id": "student_transcripts_tracking",
+      "difficulty": "medium",
+      "prompt_tokens": 773
+    },
+    {
+      "sample_id": "dev:533",
+      "index": 533,
+      "db_id": "student_transcripts_tracking",
+      "difficulty": "medium",
+      "prompt_tokens": 784
+    },
+    {
+      "sample_id": "dev:534",
+      "index": 534,
+      "db_id": "student_transcripts_tracking",
+      "difficulty": "medium",
+      "prompt_tokens": 788
+    },
+    {
+      "sample_id": "dev:535",
+      "index": 535,
+      "db_id": "student_transcripts_tracking",
+      "difficulty": "hard",
+      "prompt_tokens": 778
+    },
+    {
+      "sample_id": "dev:536",
+      "index": 536,
+      "db_id": "student_transcripts_tracking",
+      "difficulty": "hard",
+      "prompt_tokens": 778
+    },
+    {
+      "sample_id": "dev:537",
+      "index": 537,
+      "db_id": "student_transcripts_tracking",
+      "difficulty": "extra",
+      "prompt_tokens": 772
+    },
+    {
+      "sample_id": "dev:538",
+      "index": 538,
+      "db_id": "student_transcripts_tracking",
+      "difficulty": "extra",
+      "prompt_tokens": 773
+    },
+    {
+      "sample_id": "dev:539",
+      "index": 539,
+      "db_id": "student_transcripts_tracking",
+      "difficulty": "extra",
+      "prompt_tokens": 778
+    },
+    {
+      "sample_id": "dev:540",
+      "index": 540,
+      "db_id": "student_transcripts_tracking",
+      "difficulty": "extra",
+      "prompt_tokens": 776
+    },
+    {
+      "sample_id": "dev:541",
+      "index": 541,
+      "db_id": "student_transcripts_tracking",
+      "difficulty": "extra",
+      "prompt_tokens": 792
+    },
+    {
+      "sample_id": "dev:542",
+      "index": 542,
+      "db_id": "student_transcripts_tracking",
+      "difficulty": "extra",
+      "prompt_tokens": 790
+    },
+    {
+      "sample_id": "dev:543",
+      "index": 543,
+      "db_id": "student_transcripts_tracking",
+      "difficulty": "hard",
+      "prompt_tokens": 773
+    },
+    {
+      "sample_id": "dev:544",
+      "index": 544,
+      "db_id": "student_transcripts_tracking",
+      "difficulty": "hard",
+      "prompt_tokens": 770
+    },
+    {
+      "sample_id": "dev:545",
+      "index": 545,
+      "db_id": "student_transcripts_tracking",
+      "difficulty": "easy",
+      "prompt_tokens": 774
+    },
+    {
+      "sample_id": "dev:546",
+      "index": 546,
+      "db_id": "student_transcripts_tracking",
+      "difficulty": "easy",
+      "prompt_tokens": 771
+    },
+    {
+      "sample_id": "dev:547",
+      "index": 547,
+      "db_id": "student_transcripts_tracking",
+      "difficulty": "extra",
+      "prompt_tokens": 772
+    },
+    {
+      "sample_id": "dev:548",
+      "index": 548,
+      "db_id": "student_transcripts_tracking",
+      "difficulty": "extra",
+      "prompt_tokens": 771
+    },
+    {
+      "sample_id": "dev:549",
+      "index": 549,
+      "db_id": "student_transcripts_tracking",
+      "difficulty": "extra",
+      "prompt_tokens": 783
+    },
+    {
+      "sample_id": "dev:550",
+      "index": 550,
+      "db_id": "student_transcripts_tracking",
+      "difficulty": "extra",
+      "prompt_tokens": 780
+    },
+    {
+      "sample_id": "dev:551",
+      "index": 551,
+      "db_id": "student_transcripts_tracking",
+      "difficulty": "medium",
+      "prompt_tokens": 774
+    },
+    {
+      "sample_id": "dev:552",
+      "index": 552,
+      "db_id": "student_transcripts_tracking",
+      "difficulty": "medium",
+      "prompt_tokens": 775
+    },
+    {
+      "sample_id": "dev:553",
+      "index": 553,
+      "db_id": "student_transcripts_tracking",
+      "difficulty": "medium",
+      "prompt_tokens": 779
+    },
+    {
+      "sample_id": "dev:554",
+      "index": 554,
+      "db_id": "student_transcripts_tracking",
+      "difficulty": "medium",
+      "prompt_tokens": 773
+    },
+    {
+      "sample_id": "dev:555",
+      "index": 555,
+      "db_id": "student_transcripts_tracking",
+      "difficulty": "medium",
+      "prompt_tokens": 777
+    },
+    {
+      "sample_id": "dev:556",
+      "index": 556,
+      "db_id": "student_transcripts_tracking",
+      "difficulty": "medium",
+      "prompt_tokens": 775
+    },
+    {
+      "sample_id": "dev:557",
+      "index": 557,
+      "db_id": "student_transcripts_tracking",
+      "difficulty": "medium",
+      "prompt_tokens": 778
+    },
+    {
+      "sample_id": "dev:558",
+      "index": 558,
+      "db_id": "student_transcripts_tracking",
+      "difficulty": "medium",
+      "prompt_tokens": 774
+    },
+    {
+      "sample_id": "dev:559",
+      "index": 559,
+      "db_id": "student_transcripts_tracking",
+      "difficulty": "easy",
+      "prompt_tokens": 778
+    },
+    {
+      "sample_id": "dev:560",
+      "index": 560,
+      "db_id": "student_transcripts_tracking",
+      "difficulty": "easy",
+      "prompt_tokens": 778
+    },
+    {
+      "sample_id": "dev:561",
+      "index": 561,
+      "db_id": "student_transcripts_tracking",
+      "difficulty": "extra",
+      "prompt_tokens": 776
+    },
+    {
+      "sample_id": "dev:562",
+      "index": 562,
+      "db_id": "student_transcripts_tracking",
+      "difficulty": "extra",
+      "prompt_tokens": 779
+    },
+    {
+      "sample_id": "dev:563",
+      "index": 563,
+      "db_id": "student_transcripts_tracking",
+      "difficulty": "easy",
+      "prompt_tokens": 767
+    },
+    {
+      "sample_id": "dev:564",
+      "index": 564,
+      "db_id": "student_transcripts_tracking",
+      "difficulty": "easy",
+      "prompt_tokens": 765
+    },
+    {
+      "sample_id": "dev:565",
+      "index": 565,
+      "db_id": "student_transcripts_tracking",
+      "difficulty": "medium",
+      "prompt_tokens": 771
+    },
+    {
+      "sample_id": "dev:566",
+      "index": 566,
+      "db_id": "student_transcripts_tracking",
+      "difficulty": "medium",
+      "prompt_tokens": 776
+    },
+    {
+      "sample_id": "dev:567",
+      "index": 567,
+      "db_id": "student_transcripts_tracking",
+      "difficulty": "easy",
+      "prompt_tokens": 764
+    },
+    {
+      "sample_id": "dev:568",
+      "index": 568,
+      "db_id": "student_transcripts_tracking",
+      "difficulty": "easy",
+      "prompt_tokens": 764
+    },
+    {
+      "sample_id": "dev:569",
+      "index": 569,
+      "db_id": "student_transcripts_tracking",
+      "difficulty": "medium",
+      "prompt_tokens": 766
+    },
+    {
+      "sample_id": "dev:570",
+      "index": 570,
+      "db_id": "student_transcripts_tracking",
+      "difficulty": "medium",
+      "prompt_tokens": 765
+    },
+    {
+      "sample_id": "dev:571",
+      "index": 571,
+      "db_id": "student_transcripts_tracking",
+      "difficulty": "hard",
+      "prompt_tokens": 780
+    },
+    {
+      "sample_id": "dev:572",
+      "index": 572,
+      "db_id": "student_transcripts_tracking",
+      "difficulty": "hard",
+      "prompt_tokens": 782
+    },
+    {
+      "sample_id": "dev:573",
+      "index": 573,
+      "db_id": "student_transcripts_tracking",
+      "difficulty": "extra",
+      "prompt_tokens": 777
+    },
+    {
+      "sample_id": "dev:574",
+      "index": 574,
+      "db_id": "student_transcripts_tracking",
+      "difficulty": "extra",
+      "prompt_tokens": 774
+    },
+    {
+      "sample_id": "dev:575",
+      "index": 575,
+      "db_id": "student_transcripts_tracking",
+      "difficulty": "extra",
+      "prompt_tokens": 772
+    },
+    {
+      "sample_id": "dev:576",
+      "index": 576,
+      "db_id": "student_transcripts_tracking",
+      "difficulty": "extra",
+      "prompt_tokens": 776
+    },
+    {
+      "sample_id": "dev:577",
+      "index": 577,
+      "db_id": "student_transcripts_tracking",
+      "difficulty": "easy",
+      "prompt_tokens": 768
+    },
+    {
+      "sample_id": "dev:578",
+      "index": 578,
+      "db_id": "student_transcripts_tracking",
+      "difficulty": "easy",
+      "prompt_tokens": 769
+    },
+    {
+      "sample_id": "dev:579",
+      "index": 579,
+      "db_id": "student_transcripts_tracking",
+      "difficulty": "easy",
+      "prompt_tokens": 770
+    },
+    {
+      "sample_id": "dev:580",
+      "index": 580,
+      "db_id": "student_transcripts_tracking",
+      "difficulty": "easy",
+      "prompt_tokens": 772
+    },
+    {
+      "sample_id": "dev:581",
+      "index": 581,
+      "db_id": "student_transcripts_tracking",
+      "difficulty": "easy",
+      "prompt_tokens": 763
+    },
+    {
+      "sample_id": "dev:582",
+      "index": 582,
+      "db_id": "student_transcripts_tracking",
+      "difficulty": "easy",
+      "prompt_tokens": 768
+    },
+    {
+      "sample_id": "dev:583",
+      "index": 583,
+      "db_id": "student_transcripts_tracking",
+      "difficulty": "hard",
+      "prompt_tokens": 791
+    },
+    {
+      "sample_id": "dev:584",
+      "index": 584,
+      "db_id": "student_transcripts_tracking",
+      "difficulty": "hard",
+      "prompt_tokens": 790
+    },
+    {
+      "sample_id": "dev:585",
+      "index": 585,
+      "db_id": "tvshow",
+      "difficulty": "easy",
+      "prompt_tokens": 242
+    },
+    {
+      "sample_id": "dev:586",
+      "index": 586,
+      "db_id": "tvshow",
+      "difficulty": "easy",
+      "prompt_tokens": 243
+    },
+    {
+      "sample_id": "dev:587",
+      "index": 587,
+      "db_id": "tvshow",
+      "difficulty": "easy",
+      "prompt_tokens": 241
+    },
+    {
+      "sample_id": "dev:588",
+      "index": 588,
+      "db_id": "tvshow",
+      "difficulty": "easy",
+      "prompt_tokens": 244
+    },
+    {
+      "sample_id": "dev:589",
+      "index": 589,
+      "db_id": "tvshow",
+      "difficulty": "easy",
+      "prompt_tokens": 243
+    },
+    {
+      "sample_id": "dev:590",
+      "index": 590,
+      "db_id": "tvshow",
+      "difficulty": "easy",
+      "prompt_tokens": 246
+    },
+    {
+      "sample_id": "dev:591",
+      "index": 591,
+      "db_id": "tvshow",
+      "difficulty": "medium",
+      "prompt_tokens": 245
+    },
+    {
+      "sample_id": "dev:592",
+      "index": 592,
+      "db_id": "tvshow",
+      "difficulty": "medium",
+      "prompt_tokens": 249
+    },
+    {
+      "sample_id": "dev:593",
+      "index": 593,
+      "db_id": "tvshow",
+      "difficulty": "medium",
+      "prompt_tokens": 250
+    },
+    {
+      "sample_id": "dev:594",
+      "index": 594,
+      "db_id": "tvshow",
+      "difficulty": "medium",
+      "prompt_tokens": 248
+    },
+    {
+      "sample_id": "dev:595",
+      "index": 595,
+      "db_id": "tvshow",
+      "difficulty": "hard",
+      "prompt_tokens": 252
+    },
+    {
+      "sample_id": "dev:596",
+      "index": 596,
+      "db_id": "tvshow",
+      "difficulty": "hard",
+      "prompt_tokens": 250
+    },
+    {
+      "sample_id": "dev:597",
+      "index": 597,
+      "db_id": "tvshow",
+      "difficulty": "medium",
+      "prompt_tokens": 247
+    },
+    {
+      "sample_id": "dev:598",
+      "index": 598,
+      "db_id": "tvshow",
+      "difficulty": "medium",
+      "prompt_tokens": 246
+    },
+    {
+      "sample_id": "dev:599",
+      "index": 599,
+      "db_id": "tvshow",
+      "difficulty": "easy",
+      "prompt_tokens": 246
+    },
+    {
+      "sample_id": "dev:600",
+      "index": 600,
+      "db_id": "tvshow",
+      "difficulty": "easy",
+      "prompt_tokens": 242
+    },
+    {
+      "sample_id": "dev:601",
+      "index": 601,
+      "db_id": "tvshow",
+      "difficulty": "easy",
+      "prompt_tokens": 247
+    },
+    {
+      "sample_id": "dev:602",
+      "index": 602,
+      "db_id": "tvshow",
+      "difficulty": "easy",
+      "prompt_tokens": 248
+    },
+    {
+      "sample_id": "dev:603",
+      "index": 603,
+      "db_id": "tvshow",
+      "difficulty": "easy",
+      "prompt_tokens": 240
+    },
+    {
+      "sample_id": "dev:604",
+      "index": 604,
+      "db_id": "tvshow",
+      "difficulty": "easy",
+      "prompt_tokens": 241
+    },
+    {
+      "sample_id": "dev:605",
+      "index": 605,
+      "db_id": "tvshow",
+      "difficulty": "hard",
+      "prompt_tokens": 250
+    },
+    {
+      "sample_id": "dev:606",
+      "index": 606,
+      "db_id": "tvshow",
+      "difficulty": "hard",
+      "prompt_tokens": 251
+    },
+    {
+      "sample_id": "dev:607",
+      "index": 607,
+      "db_id": "tvshow",
+      "difficulty": "medium",
+      "prompt_tokens": 244
+    },
+    {
+      "sample_id": "dev:608",
+      "index": 608,
+      "db_id": "tvshow",
+      "difficulty": "medium",
+      "prompt_tokens": 246
+    },
+    {
+      "sample_id": "dev:609",
+      "index": 609,
+      "db_id": "tvshow",
+      "difficulty": "medium",
+      "prompt_tokens": 258
+    },
+    {
+      "sample_id": "dev:610",
+      "index": 610,
+      "db_id": "tvshow",
+      "difficulty": "medium",
+      "prompt_tokens": 253
+    },
+    {
+      "sample_id": "dev:611",
+      "index": 611,
+      "db_id": "tvshow",
+      "difficulty": "medium",
+      "prompt_tokens": 251
+    },
+    {
+      "sample_id": "dev:612",
+      "index": 612,
+      "db_id": "tvshow",
+      "difficulty": "medium",
+      "prompt_tokens": 255
+    },
+    {
+      "sample_id": "dev:613",
+      "index": 613,
+      "db_id": "tvshow",
+      "difficulty": "easy",
+      "prompt_tokens": 243
+    },
+    {
+      "sample_id": "dev:614",
+      "index": 614,
+      "db_id": "tvshow",
+      "difficulty": "easy",
+      "prompt_tokens": 242
+    },
+    {
+      "sample_id": "dev:615",
+      "index": 615,
+      "db_id": "tvshow",
+      "difficulty": "medium",
+      "prompt_tokens": 251
+    },
+    {
+      "sample_id": "dev:616",
+      "index": 616,
+      "db_id": "tvshow",
+      "difficulty": "medium",
+      "prompt_tokens": 251
+    },
+    {
+      "sample_id": "dev:617",
+      "index": 617,
+      "db_id": "tvshow",
+      "difficulty": "medium",
+      "prompt_tokens": 242
+    },
+    {
+      "sample_id": "dev:618",
+      "index": 618,
+      "db_id": "tvshow",
+      "difficulty": "medium",
+      "prompt_tokens": 244
+    },
+    {
+      "sample_id": "dev:619",
+      "index": 619,
+      "db_id": "tvshow",
+      "difficulty": "easy",
+      "prompt_tokens": 249
+    },
+    {
+      "sample_id": "dev:620",
+      "index": 620,
+      "db_id": "tvshow",
+      "difficulty": "easy",
+      "prompt_tokens": 245
+    },
+    {
+      "sample_id": "dev:621",
+      "index": 621,
+      "db_id": "tvshow",
+      "difficulty": "easy",
+      "prompt_tokens": 248
+    },
+    {
+      "sample_id": "dev:622",
+      "index": 622,
+      "db_id": "tvshow",
+      "difficulty": "easy",
+      "prompt_tokens": 247
+    },
+    {
+      "sample_id": "dev:623",
+      "index": 623,
+      "db_id": "tvshow",
+      "difficulty": "medium",
+      "prompt_tokens": 257
+    },
+    {
+      "sample_id": "dev:624",
+      "index": 624,
+      "db_id": "tvshow",
+      "difficulty": "medium",
+      "prompt_tokens": 250
+    },
+    {
+      "sample_id": "dev:625",
+      "index": 625,
+      "db_id": "tvshow",
+      "difficulty": "medium",
+      "prompt_tokens": 251
+    },
+    {
+      "sample_id": "dev:626",
+      "index": 626,
+      "db_id": "tvshow",
+      "difficulty": "medium",
+      "prompt_tokens": 245
+    },
+    {
+      "sample_id": "dev:627",
+      "index": 627,
+      "db_id": "tvshow",
+      "difficulty": "medium",
+      "prompt_tokens": 245
+    },
+    {
+      "sample_id": "dev:628",
+      "index": 628,
+      "db_id": "tvshow",
+      "difficulty": "medium",
+      "prompt_tokens": 240
+    },
+    {
+      "sample_id": "dev:629",
+      "index": 629,
+      "db_id": "tvshow",
+      "difficulty": "medium",
+      "prompt_tokens": 245
+    },
+    {
+      "sample_id": "dev:630",
+      "index": 630,
+      "db_id": "tvshow",
+      "difficulty": "medium",
+      "prompt_tokens": 247
+    },
+    {
+      "sample_id": "dev:631",
+      "index": 631,
+      "db_id": "tvshow",
+      "difficulty": "medium",
+      "prompt_tokens": 249
+    },
+    {
+      "sample_id": "dev:632",
+      "index": 632,
+      "db_id": "tvshow",
+      "difficulty": "medium",
+      "prompt_tokens": 253
+    },
+    {
+      "sample_id": "dev:633",
+      "index": 633,
+      "db_id": "tvshow",
+      "difficulty": "medium",
+      "prompt_tokens": 246
+    },
+    {
+      "sample_id": "dev:634",
+      "index": 634,
+      "db_id": "tvshow",
+      "difficulty": "medium",
+      "prompt_tokens": 248
+    },
+    {
+      "sample_id": "dev:635",
+      "index": 635,
+      "db_id": "tvshow",
+      "difficulty": "hard",
+      "prompt_tokens": 247
+    },
+    {
+      "sample_id": "dev:636",
+      "index": 636,
+      "db_id": "tvshow",
+      "difficulty": "hard",
+      "prompt_tokens": 246
+    },
+    {
+      "sample_id": "dev:637",
+      "index": 637,
+      "db_id": "tvshow",
+      "difficulty": "extra",
+      "prompt_tokens": 255
+    },
+    {
+      "sample_id": "dev:638",
+      "index": 638,
+      "db_id": "tvshow",
+      "difficulty": "extra",
+      "prompt_tokens": 258
+    },
+    {
+      "sample_id": "dev:639",
+      "index": 639,
+      "db_id": "tvshow",
+      "difficulty": "medium",
+      "prompt_tokens": 249
+    },
+    {
+      "sample_id": "dev:640",
+      "index": 640,
+      "db_id": "tvshow",
+      "difficulty": "medium",
+      "prompt_tokens": 252
+    },
+    {
+      "sample_id": "dev:641",
+      "index": 641,
+      "db_id": "tvshow",
+      "difficulty": "easy",
+      "prompt_tokens": 250
+    },
+    {
+      "sample_id": "dev:642",
+      "index": 642,
+      "db_id": "tvshow",
+      "difficulty": "easy",
+      "prompt_tokens": 249
+    },
+    {
+      "sample_id": "dev:643",
+      "index": 643,
+      "db_id": "tvshow",
+      "difficulty": "hard",
+      "prompt_tokens": 249
+    },
+    {
+      "sample_id": "dev:644",
+      "index": 644,
+      "db_id": "tvshow",
+      "difficulty": "hard",
+      "prompt_tokens": 251
+    },
+    {
+      "sample_id": "dev:645",
+      "index": 645,
+      "db_id": "tvshow",
+      "difficulty": "hard",
+      "prompt_tokens": 251
+    },
+    {
+      "sample_id": "dev:646",
+      "index": 646,
+      "db_id": "tvshow",
+      "difficulty": "hard",
+      "prompt_tokens": 252
+    },
+    {
+      "sample_id": "dev:647",
+      "index": 647,
+      "db_id": "poker_player",
+      "difficulty": "easy",
+      "prompt_tokens": 155
+    },
+    {
+      "sample_id": "dev:648",
+      "index": 648,
+      "db_id": "poker_player",
+      "difficulty": "easy",
+      "prompt_tokens": 155
+    },
+    {
+      "sample_id": "dev:649",
+      "index": 649,
+      "db_id": "poker_player",
+      "difficulty": "easy",
+      "prompt_tokens": 158
+    },
+    {
+      "sample_id": "dev:650",
+      "index": 650,
+      "db_id": "poker_player",
+      "difficulty": "easy",
+      "prompt_tokens": 161
+    },
+    {
+      "sample_id": "dev:651",
+      "index": 651,
+      "db_id": "poker_player",
+      "difficulty": "medium",
+      "prompt_tokens": 161
+    },
+    {
+      "sample_id": "dev:652",
+      "index": 652,
+      "db_id": "poker_player",
+      "difficulty": "medium",
+      "prompt_tokens": 162
+    },
+    {
+      "sample_id": "dev:653",
+      "index": 653,
+      "db_id": "poker_player",
+      "difficulty": "easy",
+      "prompt_tokens": 157
+    },
+    {
+      "sample_id": "dev:654",
+      "index": 654,
+      "db_id": "poker_player",
+      "difficulty": "easy",
+      "prompt_tokens": 157
+    },
+    {
+      "sample_id": "dev:655",
+      "index": 655,
+      "db_id": "poker_player",
+      "difficulty": "medium",
+      "prompt_tokens": 162
+    },
+    {
+      "sample_id": "dev:656",
+      "index": 656,
+      "db_id": "poker_player",
+      "difficulty": "medium",
+      "prompt_tokens": 160
+    },
+    {
+      "sample_id": "dev:657",
+      "index": 657,
+      "db_id": "poker_player",
+      "difficulty": "easy",
+      "prompt_tokens": 172
+    },
+    {
+      "sample_id": "dev:658",
+      "index": 658,
+      "db_id": "poker_player",
+      "difficulty": "easy",
+      "prompt_tokens": 170
+    },
+    {
+      "sample_id": "dev:659",
+      "index": 659,
+      "db_id": "poker_player",
+      "difficulty": "easy",
+      "prompt_tokens": 156
+    },
+    {
+      "sample_id": "dev:660",
+      "index": 660,
+      "db_id": "poker_player",
+      "difficulty": "easy",
+      "prompt_tokens": 157
+    },
+    {
+      "sample_id": "dev:661",
+      "index": 661,
+      "db_id": "poker_player",
+      "difficulty": "medium",
+      "prompt_tokens": 168
+    },
+    {
+      "sample_id": "dev:662",
+      "index": 662,
+      "db_id": "poker_player",
+      "difficulty": "medium",
+      "prompt_tokens": 166
+    },
+    {
+      "sample_id": "dev:663",
+      "index": 663,
+      "db_id": "poker_player",
+      "difficulty": "medium",
+      "prompt_tokens": 164
+    },
+    {
+      "sample_id": "dev:664",
+      "index": 664,
+      "db_id": "poker_player",
+      "difficulty": "medium",
+      "prompt_tokens": 168
+    },
+    {
+      "sample_id": "dev:665",
+      "index": 665,
+      "db_id": "poker_player",
+      "difficulty": "hard",
+      "prompt_tokens": 162
+    },
+    {
+      "sample_id": "dev:666",
+      "index": 666,
+      "db_id": "poker_player",
+      "difficulty": "hard",
+      "prompt_tokens": 161
+    },
+    {
+      "sample_id": "dev:667",
+      "index": 667,
+      "db_id": "poker_player",
+      "difficulty": "hard",
+      "prompt_tokens": 159
+    },
+    {
+      "sample_id": "dev:668",
+      "index": 668,
+      "db_id": "poker_player",
+      "difficulty": "hard",
+      "prompt_tokens": 161
+    },
+    {
+      "sample_id": "dev:669",
+      "index": 669,
+      "db_id": "poker_player",
+      "difficulty": "medium",
+      "prompt_tokens": 165
+    },
+    {
+      "sample_id": "dev:670",
+      "index": 670,
+      "db_id": "poker_player",
+      "difficulty": "medium",
+      "prompt_tokens": 163
+    },
+    {
+      "sample_id": "dev:671",
+      "index": 671,
+      "db_id": "poker_player",
+      "difficulty": "medium",
+      "prompt_tokens": 161
+    },
+    {
+      "sample_id": "dev:672",
+      "index": 672,
+      "db_id": "poker_player",
+      "difficulty": "medium",
+      "prompt_tokens": 160
+    },
+    {
+      "sample_id": "dev:673",
+      "index": 673,
+      "db_id": "poker_player",
+      "difficulty": "medium",
+      "prompt_tokens": 165
+    },
+    {
+      "sample_id": "dev:674",
+      "index": 674,
+      "db_id": "poker_player",
+      "difficulty": "medium",
+      "prompt_tokens": 157
+    },
+    {
+      "sample_id": "dev:675",
+      "index": 675,
+      "db_id": "poker_player",
+      "difficulty": "hard",
+      "prompt_tokens": 157
+    },
+    {
+      "sample_id": "dev:676",
+      "index": 676,
+      "db_id": "poker_player",
+      "difficulty": "hard",
+      "prompt_tokens": 159
+    },
+    {
+      "sample_id": "dev:677",
+      "index": 677,
+      "db_id": "poker_player",
+      "difficulty": "easy",
+      "prompt_tokens": 162
+    },
+    {
+      "sample_id": "dev:678",
+      "index": 678,
+      "db_id": "poker_player",
+      "difficulty": "easy",
+      "prompt_tokens": 161
+    },
+    {
+      "sample_id": "dev:679",
+      "index": 679,
+      "db_id": "poker_player",
+      "difficulty": "medium",
+      "prompt_tokens": 163
+    },
+    {
+      "sample_id": "dev:680",
+      "index": 680,
+      "db_id": "poker_player",
+      "difficulty": "medium",
+      "prompt_tokens": 166
+    },
+    {
+      "sample_id": "dev:681",
+      "index": 681,
+      "db_id": "poker_player",
+      "difficulty": "easy",
+      "prompt_tokens": 159
+    },
+    {
+      "sample_id": "dev:682",
+      "index": 682,
+      "db_id": "poker_player",
+      "difficulty": "easy",
+      "prompt_tokens": 160
+    },
+    {
+      "sample_id": "dev:683",
+      "index": 683,
+      "db_id": "poker_player",
+      "difficulty": "hard",
+      "prompt_tokens": 159
+    },
+    {
+      "sample_id": "dev:684",
+      "index": 684,
+      "db_id": "poker_player",
+      "difficulty": "hard",
+      "prompt_tokens": 160
+    },
+    {
+      "sample_id": "dev:685",
+      "index": 685,
+      "db_id": "poker_player",
+      "difficulty": "easy",
+      "prompt_tokens": 156
+    },
+    {
+      "sample_id": "dev:686",
+      "index": 686,
+      "db_id": "poker_player",
+      "difficulty": "easy",
+      "prompt_tokens": 156
+    },
+    {
+      "sample_id": "dev:687",
+      "index": 687,
+      "db_id": "voter_1",
+      "difficulty": "easy",
+      "prompt_tokens": 170
+    },
+    {
+      "sample_id": "dev:688",
+      "index": 688,
+      "db_id": "voter_1",
+      "difficulty": "medium",
+      "prompt_tokens": 177
+    },
+    {
+      "sample_id": "dev:689",
+      "index": 689,
+      "db_id": "voter_1",
+      "difficulty": "medium",
+      "prompt_tokens": 177
+    },
+    {
+      "sample_id": "dev:690",
+      "index": 690,
+      "db_id": "voter_1",
+      "difficulty": "medium",
+      "prompt_tokens": 175
+    },
+    {
+      "sample_id": "dev:691",
+      "index": 691,
+      "db_id": "voter_1",
+      "difficulty": "easy",
+      "prompt_tokens": 178
+    },
+    {
+      "sample_id": "dev:692",
+      "index": 692,
+      "db_id": "voter_1",
+      "difficulty": "easy",
+      "prompt_tokens": 181
+    },
+    {
+      "sample_id": "dev:693",
+      "index": 693,
+      "db_id": "voter_1",
+      "difficulty": "medium",
+      "prompt_tokens": 176
+    },
+    {
+      "sample_id": "dev:694",
+      "index": 694,
+      "db_id": "voter_1",
+      "difficulty": "medium",
+      "prompt_tokens": 181
+    },
+    {
+      "sample_id": "dev:695",
+      "index": 695,
+      "db_id": "voter_1",
+      "difficulty": "extra",
+      "prompt_tokens": 187
+    },
+    {
+      "sample_id": "dev:696",
+      "index": 696,
+      "db_id": "voter_1",
+      "difficulty": "medium",
+      "prompt_tokens": 180
+    },
+    {
+      "sample_id": "dev:697",
+      "index": 697,
+      "db_id": "voter_1",
+      "difficulty": "extra",
+      "prompt_tokens": 172
+    },
+    {
+      "sample_id": "dev:698",
+      "index": 698,
+      "db_id": "voter_1",
+      "difficulty": "extra",
+      "prompt_tokens": 176
+    },
+    {
+      "sample_id": "dev:699",
+      "index": 699,
+      "db_id": "voter_1",
+      "difficulty": "medium",
+      "prompt_tokens": 191
+    },
+    {
+      "sample_id": "dev:700",
+      "index": 700,
+      "db_id": "voter_1",
+      "difficulty": "extra",
+      "prompt_tokens": 190
+    },
+    {
+      "sample_id": "dev:701",
+      "index": 701,
+      "db_id": "voter_1",
+      "difficulty": "medium",
+      "prompt_tokens": 179
+    },
+    {
+      "sample_id": "dev:702",
+      "index": 702,
+      "db_id": "world_1",
+      "difficulty": "easy",
+      "prompt_tokens": 300
+    },
+    {
+      "sample_id": "dev:703",
+      "index": 703,
+      "db_id": "world_1",
+      "difficulty": "easy",
+      "prompt_tokens": 298
+    },
+    {
+      "sample_id": "dev:704",
+      "index": 704,
+      "db_id": "world_1",
+      "difficulty": "easy",
+      "prompt_tokens": 294
+    },
+    {
+      "sample_id": "dev:705",
+      "index": 705,
+      "db_id": "world_1",
+      "difficulty": "easy",
+      "prompt_tokens": 292
+    },
+    {
+      "sample_id": "dev:706",
+      "index": 706,
+      "db_id": "world_1",
+      "difficulty": "easy",
+      "prompt_tokens": 296
+    },
+    {
+      "sample_id": "dev:707",
+      "index": 707,
+      "db_id": "world_1",
+      "difficulty": "easy",
+      "prompt_tokens": 298
+    },
+    {
+      "sample_id": "dev:708",
+      "index": 708,
+      "db_id": "world_1",
+      "difficulty": "easy",
+      "prompt_tokens": 290
+    },
+    {
+      "sample_id": "dev:709",
+      "index": 709,
+      "db_id": "world_1",
+      "difficulty": "easy",
+      "prompt_tokens": 294
+    },
+    {
+      "sample_id": "dev:710",
+      "index": 710,
+      "db_id": "world_1",
+      "difficulty": "medium",
+      "prompt_tokens": 291
+    },
+    {
+      "sample_id": "dev:711",
+      "index": 711,
+      "db_id": "world_1",
+      "difficulty": "medium",
+      "prompt_tokens": 288
+    },
+    {
+      "sample_id": "dev:712",
+      "index": 712,
+      "db_id": "world_1",
+      "difficulty": "extra",
+      "prompt_tokens": 292
+    },
+    {
+      "sample_id": "dev:713",
+      "index": 713,
+      "db_id": "world_1",
+      "difficulty": "extra",
+      "prompt_tokens": 291
+    },
+    {
+      "sample_id": "dev:714",
+      "index": 714,
+      "db_id": "world_1",
+      "difficulty": "medium",
+      "prompt_tokens": 293
+    },
+    {
+      "sample_id": "dev:715",
+      "index": 715,
+      "db_id": "world_1",
+      "difficulty": "medium",
+      "prompt_tokens": 292
+    },
+    {
+      "sample_id": "dev:716",
+      "index": 716,
+      "db_id": "world_1",
+      "difficulty": "medium",
+      "prompt_tokens": 291
+    },
+    {
+      "sample_id": "dev:717",
+      "index": 717,
+      "db_id": "world_1",
+      "difficulty": "medium",
+      "prompt_tokens": 294
+    },
+    {
+      "sample_id": "dev:718",
+      "index": 718,
+      "db_id": "world_1",
+      "difficulty": "easy",
+      "prompt_tokens": 298
+    },
+    {
+      "sample_id": "dev:719",
+      "index": 719,
+      "db_id": "world_1",
+      "difficulty": "easy",
+      "prompt_tokens": 295
+    },
+    {
+      "sample_id": "dev:720",
+      "index": 720,
+      "db_id": "world_1",
+      "difficulty": "hard",
+      "prompt_tokens": 297
+    },
+    {
+      "sample_id": "dev:721",
+      "index": 721,
+      "db_id": "world_1",
+      "difficulty": "hard",
+      "prompt_tokens": 296
+    },
+    {
+      "sample_id": "dev:722",
+      "index": 722,
+      "db_id": "world_1",
+      "difficulty": "medium",
+      "prompt_tokens": 294
+    },
+    {
+      "sample_id": "dev:723",
+      "index": 723,
+      "db_id": "world_1",
+      "difficulty": "medium",
+      "prompt_tokens": 299
+    },
+    {
+      "sample_id": "dev:724",
+      "index": 724,
+      "db_id": "world_1",
+      "difficulty": "medium",
+      "prompt_tokens": 296
+    },
+    {
+      "sample_id": "dev:725",
+      "index": 725,
+      "db_id": "world_1",
+      "difficulty": "medium",
+      "prompt_tokens": 296
+    },
+    {
+      "sample_id": "dev:726",
+      "index": 726,
+      "db_id": "world_1",
+      "difficulty": "medium",
+      "prompt_tokens": 295
+    },
+    {
+      "sample_id": "dev:727",
+      "index": 727,
+      "db_id": "world_1",
+      "difficulty": "medium",
+      "prompt_tokens": 295
+    },
+    {
+      "sample_id": "dev:728",
+      "index": 728,
+      "db_id": "world_1",
+      "difficulty": "easy",
+      "prompt_tokens": 291
+    },
+    {
+      "sample_id": "dev:729",
+      "index": 729,
+      "db_id": "world_1",
+      "difficulty": "easy",
+      "prompt_tokens": 292
+    },
+    {
+      "sample_id": "dev:730",
+      "index": 730,
+      "db_id": "world_1",
+      "difficulty": "medium",
+      "prompt_tokens": 300
+    },
+    {
+      "sample_id": "dev:731",
+      "index": 731,
+      "db_id": "world_1",
+      "difficulty": "medium",
+      "prompt_tokens": 298
+    },
+    {
+      "sample_id": "dev:732",
+      "index": 732,
+      "db_id": "world_1",
+      "difficulty": "easy",
+      "prompt_tokens": 292
+    },
+    {
+      "sample_id": "dev:733",
+      "index": 733,
+      "db_id": "world_1",
+      "difficulty": "easy",
+      "prompt_tokens": 294
+    },
+    {
+      "sample_id": "dev:734",
+      "index": 734,
+      "db_id": "world_1",
+      "difficulty": "easy",
+      "prompt_tokens": 291
+    },
+    {
+      "sample_id": "dev:735",
+      "index": 735,
+      "db_id": "world_1",
+      "difficulty": "easy",
+      "prompt_tokens": 293
+    },
+    {
+      "sample_id": "dev:736",
+      "index": 736,
+      "db_id": "world_1",
+      "difficulty": "medium",
+      "prompt_tokens": 294
+    },
+    {
+      "sample_id": "dev:737",
+      "index": 737,
+      "db_id": "world_1",
+      "difficulty": "medium",
+      "prompt_tokens": 291
+    },
+    {
+      "sample_id": "dev:738",
+      "index": 738,
+      "db_id": "world_1",
+      "difficulty": "medium",
+      "prompt_tokens": 290
+    },
+    {
+      "sample_id": "dev:739",
+      "index": 739,
+      "db_id": "world_1",
+      "difficulty": "medium",
+      "prompt_tokens": 291
+    },
+    {
+      "sample_id": "dev:740",
+      "index": 740,
+      "db_id": "world_1",
+      "difficulty": "extra",
+      "prompt_tokens": 296
+    },
+    {
+      "sample_id": "dev:741",
+      "index": 741,
+      "db_id": "world_1",
+      "difficulty": "extra",
+      "prompt_tokens": 296
+    },
+    {
+      "sample_id": "dev:742",
+      "index": 742,
+      "db_id": "world_1",
+      "difficulty": "extra",
+      "prompt_tokens": 290
+    },
+    {
+      "sample_id": "dev:743",
+      "index": 743,
+      "db_id": "world_1",
+      "difficulty": "extra",
+      "prompt_tokens": 289
+    },
+    {
+      "sample_id": "dev:744",
+      "index": 744,
+      "db_id": "world_1",
+      "difficulty": "easy",
+      "prompt_tokens": 291
+    },
+    {
+      "sample_id": "dev:745",
+      "index": 745,
+      "db_id": "world_1",
+      "difficulty": "easy",
+      "prompt_tokens": 294
+    },
+    {
+      "sample_id": "dev:746",
+      "index": 746,
+      "db_id": "world_1",
+      "difficulty": "extra",
+      "prompt_tokens": 294
+    },
+    {
+      "sample_id": "dev:747",
+      "index": 747,
+      "db_id": "world_1",
+      "difficulty": "extra",
+      "prompt_tokens": 294
+    },
+    {
+      "sample_id": "dev:748",
+      "index": 748,
+      "db_id": "world_1",
+      "difficulty": "extra",
+      "prompt_tokens": 297
+    },
+    {
+      "sample_id": "dev:749",
+      "index": 749,
+      "db_id": "world_1",
+      "difficulty": "extra",
+      "prompt_tokens": 295
+    },
+    {
+      "sample_id": "dev:750",
+      "index": 750,
+      "db_id": "world_1",
+      "difficulty": "medium",
+      "prompt_tokens": 294
+    },
+    {
+      "sample_id": "dev:751",
+      "index": 751,
+      "db_id": "world_1",
+      "difficulty": "medium",
+      "prompt_tokens": 288
+    },
+    {
+      "sample_id": "dev:752",
+      "index": 752,
+      "db_id": "world_1",
+      "difficulty": "hard",
+      "prompt_tokens": 292
+    },
+    {
+      "sample_id": "dev:753",
+      "index": 753,
+      "db_id": "world_1",
+      "difficulty": "hard",
+      "prompt_tokens": 289
+    },
+    {
+      "sample_id": "dev:754",
+      "index": 754,
+      "db_id": "world_1",
+      "difficulty": "extra",
+      "prompt_tokens": 296
+    },
+    {
+      "sample_id": "dev:755",
+      "index": 755,
+      "db_id": "world_1",
+      "difficulty": "extra",
+      "prompt_tokens": 294
+    },
+    {
+      "sample_id": "dev:756",
+      "index": 756,
+      "db_id": "world_1",
+      "difficulty": "extra",
+      "prompt_tokens": 293
+    },
+    {
+      "sample_id": "dev:757",
+      "index": 757,
+      "db_id": "world_1",
+      "difficulty": "extra",
+      "prompt_tokens": 297
+    },
+    {
+      "sample_id": "dev:758",
+      "index": 758,
+      "db_id": "world_1",
+      "difficulty": "hard",
+      "prompt_tokens": 294
+    },
+    {
+      "sample_id": "dev:759",
+      "index": 759,
+      "db_id": "world_1",
+      "difficulty": "hard",
+      "prompt_tokens": 296
+    },
+    {
+      "sample_id": "dev:760",
+      "index": 760,
+      "db_id": "world_1",
+      "difficulty": "extra",
+      "prompt_tokens": 293
+    },
+    {
+      "sample_id": "dev:761",
+      "index": 761,
+      "db_id": "world_1",
+      "difficulty": "extra",
+      "prompt_tokens": 292
+    },
+    {
+      "sample_id": "dev:762",
+      "index": 762,
+      "db_id": "world_1",
+      "difficulty": "hard",
+      "prompt_tokens": 299
+    },
+    {
+      "sample_id": "dev:763",
+      "index": 763,
+      "db_id": "world_1",
+      "difficulty": "hard",
+      "prompt_tokens": 300
+    },
+    {
+      "sample_id": "dev:764",
+      "index": 764,
+      "db_id": "world_1",
+      "difficulty": "extra",
+      "prompt_tokens": 298
+    },
+    {
+      "sample_id": "dev:765",
+      "index": 765,
+      "db_id": "world_1",
+      "difficulty": "extra",
+      "prompt_tokens": 298
+    },
+    {
+      "sample_id": "dev:766",
+      "index": 766,
+      "db_id": "world_1",
+      "difficulty": "extra",
+      "prompt_tokens": 299
+    },
+    {
+      "sample_id": "dev:767",
+      "index": 767,
+      "db_id": "world_1",
+      "difficulty": "extra",
+      "prompt_tokens": 294
+    },
+    {
+      "sample_id": "dev:768",
+      "index": 768,
+      "db_id": "world_1",
+      "difficulty": "medium",
+      "prompt_tokens": 299
+    },
+    {
+      "sample_id": "dev:769",
+      "index": 769,
+      "db_id": "world_1",
+      "difficulty": "medium",
+      "prompt_tokens": 302
+    },
+    {
+      "sample_id": "dev:770",
+      "index": 770,
+      "db_id": "world_1",
+      "difficulty": "medium",
+      "prompt_tokens": 305
+    },
+    {
+      "sample_id": "dev:771",
+      "index": 771,
+      "db_id": "world_1",
+      "difficulty": "medium",
+      "prompt_tokens": 303
+    },
+    {
+      "sample_id": "dev:772",
+      "index": 772,
+      "db_id": "world_1",
+      "difficulty": "hard",
+      "prompt_tokens": 297
+    },
+    {
+      "sample_id": "dev:773",
+      "index": 773,
+      "db_id": "world_1",
+      "difficulty": "hard",
+      "prompt_tokens": 295
+    },
+    {
+      "sample_id": "dev:774",
+      "index": 774,
+      "db_id": "world_1",
+      "difficulty": "extra",
+      "prompt_tokens": 299
+    },
+    {
+      "sample_id": "dev:775",
+      "index": 775,
+      "db_id": "world_1",
+      "difficulty": "extra",
+      "prompt_tokens": 297
+    },
+    {
+      "sample_id": "dev:776",
+      "index": 776,
+      "db_id": "world_1",
+      "difficulty": "extra",
+      "prompt_tokens": 297
+    },
+    {
+      "sample_id": "dev:777",
+      "index": 777,
+      "db_id": "world_1",
+      "difficulty": "extra",
+      "prompt_tokens": 300
+    },
+    {
+      "sample_id": "dev:778",
+      "index": 778,
+      "db_id": "world_1",
+      "difficulty": "hard",
+      "prompt_tokens": 295
+    },
+    {
+      "sample_id": "dev:779",
+      "index": 779,
+      "db_id": "world_1",
+      "difficulty": "hard",
+      "prompt_tokens": 294
+    },
+    {
+      "sample_id": "dev:780",
+      "index": 780,
+      "db_id": "world_1",
+      "difficulty": "easy",
+      "prompt_tokens": 297
+    },
+    {
+      "sample_id": "dev:781",
+      "index": 781,
+      "db_id": "world_1",
+      "difficulty": "easy",
+      "prompt_tokens": 300
+    },
+    {
+      "sample_id": "dev:782",
+      "index": 782,
+      "db_id": "world_1",
+      "difficulty": "hard",
+      "prompt_tokens": 302
+    },
+    {
+      "sample_id": "dev:783",
+      "index": 783,
+      "db_id": "world_1",
+      "difficulty": "hard",
+      "prompt_tokens": 301
+    },
+    {
+      "sample_id": "dev:784",
+      "index": 784,
+      "db_id": "world_1",
+      "difficulty": "extra",
+      "prompt_tokens": 296
+    },
+    {
+      "sample_id": "dev:785",
+      "index": 785,
+      "db_id": "world_1",
+      "difficulty": "extra",
+      "prompt_tokens": 299
+    },
+    {
+      "sample_id": "dev:786",
+      "index": 786,
+      "db_id": "world_1",
+      "difficulty": "hard",
+      "prompt_tokens": 296
+    },
+    {
+      "sample_id": "dev:787",
+      "index": 787,
+      "db_id": "world_1",
+      "difficulty": "hard",
+      "prompt_tokens": 301
+    },
+    {
+      "sample_id": "dev:788",
+      "index": 788,
+      "db_id": "world_1",
+      "difficulty": "medium",
+      "prompt_tokens": 301
+    },
+    {
+      "sample_id": "dev:789",
+      "index": 789,
+      "db_id": "world_1",
+      "difficulty": "medium",
+      "prompt_tokens": 302
+    },
+    {
+      "sample_id": "dev:790",
+      "index": 790,
+      "db_id": "world_1",
+      "difficulty": "medium",
+      "prompt_tokens": 298
+    },
+    {
+      "sample_id": "dev:791",
+      "index": 791,
+      "db_id": "world_1",
+      "difficulty": "medium",
+      "prompt_tokens": 301
+    },
+    {
+      "sample_id": "dev:792",
+      "index": 792,
+      "db_id": "world_1",
+      "difficulty": "medium",
+      "prompt_tokens": 303
+    },
+    {
+      "sample_id": "dev:793",
+      "index": 793,
+      "db_id": "world_1",
+      "difficulty": "medium",
+      "prompt_tokens": 305
+    },
+    {
+      "sample_id": "dev:794",
+      "index": 794,
+      "db_id": "world_1",
+      "difficulty": "extra",
+      "prompt_tokens": 301
+    },
+    {
+      "sample_id": "dev:795",
+      "index": 795,
+      "db_id": "world_1",
+      "difficulty": "extra",
+      "prompt_tokens": 301
+    },
+    {
+      "sample_id": "dev:796",
+      "index": 796,
+      "db_id": "world_1",
+      "difficulty": "medium",
+      "prompt_tokens": 305
+    },
+    {
+      "sample_id": "dev:797",
+      "index": 797,
+      "db_id": "world_1",
+      "difficulty": "medium",
+      "prompt_tokens": 311
+    },
+    {
+      "sample_id": "dev:798",
+      "index": 798,
+      "db_id": "world_1",
+      "difficulty": "medium",
+      "prompt_tokens": 305
+    },
+    {
+      "sample_id": "dev:799",
+      "index": 799,
+      "db_id": "world_1",
+      "difficulty": "medium",
+      "prompt_tokens": 314
+    },
+    {
+      "sample_id": "dev:800",
+      "index": 800,
+      "db_id": "world_1",
+      "difficulty": "medium",
+      "prompt_tokens": 298
+    },
+    {
+      "sample_id": "dev:801",
+      "index": 801,
+      "db_id": "world_1",
+      "difficulty": "medium",
+      "prompt_tokens": 295
+    },
+    {
+      "sample_id": "dev:802",
+      "index": 802,
+      "db_id": "world_1",
+      "difficulty": "medium",
+      "prompt_tokens": 295
+    },
+    {
+      "sample_id": "dev:803",
+      "index": 803,
+      "db_id": "world_1",
+      "difficulty": "medium",
+      "prompt_tokens": 293
+    },
+    {
+      "sample_id": "dev:804",
+      "index": 804,
+      "db_id": "world_1",
+      "difficulty": "medium",
+      "prompt_tokens": 296
+    },
+    {
+      "sample_id": "dev:805",
+      "index": 805,
+      "db_id": "world_1",
+      "difficulty": "medium",
+      "prompt_tokens": 296
+    },
+    {
+      "sample_id": "dev:806",
+      "index": 806,
+      "db_id": "world_1",
+      "difficulty": "easy",
+      "prompt_tokens": 289
+    },
+    {
+      "sample_id": "dev:807",
+      "index": 807,
+      "db_id": "world_1",
+      "difficulty": "easy",
+      "prompt_tokens": 290
+    },
+    {
+      "sample_id": "dev:808",
+      "index": 808,
+      "db_id": "world_1",
+      "difficulty": "medium",
+      "prompt_tokens": 308
+    },
+    {
+      "sample_id": "dev:809",
+      "index": 809,
+      "db_id": "world_1",
+      "difficulty": "medium",
+      "prompt_tokens": 304
+    },
+    {
+      "sample_id": "dev:810",
+      "index": 810,
+      "db_id": "world_1",
+      "difficulty": "hard",
+      "prompt_tokens": 309
+    },
+    {
+      "sample_id": "dev:811",
+      "index": 811,
+      "db_id": "world_1",
+      "difficulty": "hard",
+      "prompt_tokens": 309
+    },
+    {
+      "sample_id": "dev:812",
+      "index": 812,
+      "db_id": "world_1",
+      "difficulty": "easy",
+      "prompt_tokens": 306
+    },
+    {
+      "sample_id": "dev:813",
+      "index": 813,
+      "db_id": "world_1",
+      "difficulty": "easy",
+      "prompt_tokens": 308
+    },
+    {
+      "sample_id": "dev:814",
+      "index": 814,
+      "db_id": "world_1",
+      "difficulty": "hard",
+      "prompt_tokens": 293
+    },
+    {
+      "sample_id": "dev:815",
+      "index": 815,
+      "db_id": "world_1",
+      "difficulty": "hard",
+      "prompt_tokens": 293
+    },
+    {
+      "sample_id": "dev:816",
+      "index": 816,
+      "db_id": "world_1",
+      "difficulty": "medium",
+      "prompt_tokens": 297
+    },
+    {
+      "sample_id": "dev:817",
+      "index": 817,
+      "db_id": "world_1",
+      "difficulty": "medium",
+      "prompt_tokens": 307
+    },
+    {
+      "sample_id": "dev:818",
+      "index": 818,
+      "db_id": "world_1",
+      "difficulty": "extra",
+      "prompt_tokens": 300
+    },
+    {
+      "sample_id": "dev:819",
+      "index": 819,
+      "db_id": "world_1",
+      "difficulty": "extra",
+      "prompt_tokens": 296
+    },
+    {
+      "sample_id": "dev:820",
+      "index": 820,
+      "db_id": "world_1",
+      "difficulty": "medium",
+      "prompt_tokens": 299
+    },
+    {
+      "sample_id": "dev:821",
+      "index": 821,
+      "db_id": "world_1",
+      "difficulty": "medium",
+      "prompt_tokens": 296
+    },
+    {
+      "sample_id": "dev:822",
+      "index": 822,
+      "db_id": "orchestra",
+      "difficulty": "easy",
+      "prompt_tokens": 248
+    },
+    {
+      "sample_id": "dev:823",
+      "index": 823,
+      "db_id": "orchestra",
+      "difficulty": "easy",
+      "prompt_tokens": 248
+    },
+    {
+      "sample_id": "dev:824",
+      "index": 824,
+      "db_id": "orchestra",
+      "difficulty": "easy",
+      "prompt_tokens": 253
+    },
+    {
+      "sample_id": "dev:825",
+      "index": 825,
+      "db_id": "orchestra",
+      "difficulty": "easy",
+      "prompt_tokens": 253
+    },
+    {
+      "sample_id": "dev:826",
+      "index": 826,
+      "db_id": "orchestra",
+      "difficulty": "easy",
+      "prompt_tokens": 256
+    },
+    {
+      "sample_id": "dev:827",
+      "index": 827,
+      "db_id": "orchestra",
+      "difficulty": "easy",
+      "prompt_tokens": 256
+    },
+    {
+      "sample_id": "dev:828",
+      "index": 828,
+      "db_id": "orchestra",
+      "difficulty": "easy",
+      "prompt_tokens": 260
+    },
+    {
+      "sample_id": "dev:829",
+      "index": 829,
+      "db_id": "orchestra",
+      "difficulty": "easy",
+      "prompt_tokens": 260
+    },
+    {
+      "sample_id": "dev:830",
+      "index": 830,
+      "db_id": "orchestra",
+      "difficulty": "easy",
+      "prompt_tokens": 249
+    },
+    {
+      "sample_id": "dev:831",
+      "index": 831,
+      "db_id": "orchestra",
+      "difficulty": "easy",
+      "prompt_tokens": 249
+    },
+    {
+      "sample_id": "dev:832",
+      "index": 832,
+      "db_id": "orchestra",
+      "difficulty": "medium",
+      "prompt_tokens": 258
+    },
+    {
+      "sample_id": "dev:833",
+      "index": 833,
+      "db_id": "orchestra",
+      "difficulty": "medium",
+      "prompt_tokens": 259
+    },
+    {
+      "sample_id": "dev:834",
+      "index": 834,
+      "db_id": "orchestra",
+      "difficulty": "easy",
+      "prompt_tokens": 251
+    },
+    {
+      "sample_id": "dev:835",
+      "index": 835,
+      "db_id": "orchestra",
+      "difficulty": "easy",
+      "prompt_tokens": 252
+    },
+    {
+      "sample_id": "dev:836",
+      "index": 836,
+      "db_id": "orchestra",
+      "difficulty": "easy",
+      "prompt_tokens": 254
+    },
+    {
+      "sample_id": "dev:837",
+      "index": 837,
+      "db_id": "orchestra",
+      "difficulty": "easy",
+      "prompt_tokens": 260
+    },
+    {
+      "sample_id": "dev:838",
+      "index": 838,
+      "db_id": "orchestra",
+      "difficulty": "medium",
+      "prompt_tokens": 254
+    },
+    {
+      "sample_id": "dev:839",
+      "index": 839,
+      "db_id": "orchestra",
+      "difficulty": "medium",
+      "prompt_tokens": 257
+    },
+    {
+      "sample_id": "dev:840",
+      "index": 840,
+      "db_id": "orchestra",
+      "difficulty": "medium",
+      "prompt_tokens": 255
+    },
+    {
+      "sample_id": "dev:841",
+      "index": 841,
+      "db_id": "orchestra",
+      "difficulty": "medium",
+      "prompt_tokens": 262
+    },
+    {
+      "sample_id": "dev:842",
+      "index": 842,
+      "db_id": "orchestra",
+      "difficulty": "medium",
+      "prompt_tokens": 256
+    },
+    {
+      "sample_id": "dev:843",
+      "index": 843,
+      "db_id": "orchestra",
+      "difficulty": "medium",
+      "prompt_tokens": 257
+    },
+    {
+      "sample_id": "dev:844",
+      "index": 844,
+      "db_id": "orchestra",
+      "difficulty": "extra",
+      "prompt_tokens": 257
+    },
+    {
+      "sample_id": "dev:845",
+      "index": 845,
+      "db_id": "orchestra",
+      "difficulty": "extra",
+      "prompt_tokens": 256
+    },
+    {
+      "sample_id": "dev:846",
+      "index": 846,
+      "db_id": "orchestra",
+      "difficulty": "medium",
+      "prompt_tokens": 261
+    },
+    {
+      "sample_id": "dev:847",
+      "index": 847,
+      "db_id": "orchestra",
+      "difficulty": "medium",
+      "prompt_tokens": 263
+    },
+    {
+      "sample_id": "dev:848",
+      "index": 848,
+      "db_id": "orchestra",
+      "difficulty": "medium",
+      "prompt_tokens": 255
+    },
+    {
+      "sample_id": "dev:849",
+      "index": 849,
+      "db_id": "orchestra",
+      "difficulty": "medium",
+      "prompt_tokens": 251
+    },
+    {
+      "sample_id": "dev:850",
+      "index": 850,
+      "db_id": "orchestra",
+      "difficulty": "medium",
+      "prompt_tokens": 255
+    },
+    {
+      "sample_id": "dev:851",
+      "index": 851,
+      "db_id": "orchestra",
+      "difficulty": "medium",
+      "prompt_tokens": 256
+    },
+    {
+      "sample_id": "dev:852",
+      "index": 852,
+      "db_id": "orchestra",
+      "difficulty": "hard",
+      "prompt_tokens": 254
+    },
+    {
+      "sample_id": "dev:853",
+      "index": 853,
+      "db_id": "orchestra",
+      "difficulty": "hard",
+      "prompt_tokens": 255
+    },
+    {
+      "sample_id": "dev:854",
+      "index": 854,
+      "db_id": "orchestra",
+      "difficulty": "hard",
+      "prompt_tokens": 252
+    },
+    {
+      "sample_id": "dev:855",
+      "index": 855,
+      "db_id": "orchestra",
+      "difficulty": "hard",
+      "prompt_tokens": 253
+    },
+    {
+      "sample_id": "dev:856",
+      "index": 856,
+      "db_id": "orchestra",
+      "difficulty": "hard",
+      "prompt_tokens": 264
+    },
+    {
+      "sample_id": "dev:857",
+      "index": 857,
+      "db_id": "orchestra",
+      "difficulty": "hard",
+      "prompt_tokens": 270
+    },
+    {
+      "sample_id": "dev:858",
+      "index": 858,
+      "db_id": "orchestra",
+      "difficulty": "medium",
+      "prompt_tokens": 258
+    },
+    {
+      "sample_id": "dev:859",
+      "index": 859,
+      "db_id": "orchestra",
+      "difficulty": "medium",
+      "prompt_tokens": 257
+    },
+    {
+      "sample_id": "dev:860",
+      "index": 860,
+      "db_id": "orchestra",
+      "difficulty": "medium",
+      "prompt_tokens": 258
+    },
+    {
+      "sample_id": "dev:861",
+      "index": 861,
+      "db_id": "orchestra",
+      "difficulty": "medium",
+      "prompt_tokens": 258
+    },
+    {
+      "sample_id": "dev:862",
+      "index": 862,
+      "db_id": "network_1",
+      "difficulty": "easy",
+      "prompt_tokens": 163
+    },
+    {
+      "sample_id": "dev:863",
+      "index": 863,
+      "db_id": "network_1",
+      "difficulty": "easy",
+      "prompt_tokens": 163
+    },
+    {
+      "sample_id": "dev:864",
+      "index": 864,
+      "db_id": "network_1",
+      "difficulty": "medium",
+      "prompt_tokens": 166
+    },
+    {
+      "sample_id": "dev:865",
+      "index": 865,
+      "db_id": "network_1",
+      "difficulty": "medium",
+      "prompt_tokens": 167
+    },
+    {
+      "sample_id": "dev:866",
+      "index": 866,
+      "db_id": "network_1",
+      "difficulty": "easy",
+      "prompt_tokens": 165
+    },
+    {
+      "sample_id": "dev:867",
+      "index": 867,
+      "db_id": "network_1",
+      "difficulty": "easy",
+      "prompt_tokens": 165
+    },
+    {
+      "sample_id": "dev:868",
+      "index": 868,
+      "db_id": "network_1",
+      "difficulty": "easy",
+      "prompt_tokens": 161
+    },
+    {
+      "sample_id": "dev:869",
+      "index": 869,
+      "db_id": "network_1",
+      "difficulty": "easy",
+      "prompt_tokens": 166
+    },
+    {
+      "sample_id": "dev:870",
+      "index": 870,
+      "db_id": "network_1",
+      "difficulty": "easy",
+      "prompt_tokens": 169
+    },
+    {
+      "sample_id": "dev:871",
+      "index": 871,
+      "db_id": "network_1",
+      "difficulty": "easy",
+      "prompt_tokens": 170
+    },
+    {
+      "sample_id": "dev:872",
+      "index": 872,
+      "db_id": "network_1",
+      "difficulty": "easy",
+      "prompt_tokens": 166
+    },
+    {
+      "sample_id": "dev:873",
+      "index": 873,
+      "db_id": "network_1",
+      "difficulty": "easy",
+      "prompt_tokens": 161
+    },
+    {
+      "sample_id": "dev:874",
+      "index": 874,
+      "db_id": "network_1",
+      "difficulty": "medium",
+      "prompt_tokens": 171
+    },
+    {
+      "sample_id": "dev:875",
+      "index": 875,
+      "db_id": "network_1",
+      "difficulty": "medium",
+      "prompt_tokens": 171
+    },
+    {
+      "sample_id": "dev:876",
+      "index": 876,
+      "db_id": "network_1",
+      "difficulty": "medium",
+      "prompt_tokens": 166
+    },
+    {
+      "sample_id": "dev:877",
+      "index": 877,
+      "db_id": "network_1",
+      "difficulty": "medium",
+      "prompt_tokens": 165
+    },
+    {
+      "sample_id": "dev:878",
+      "index": 878,
+      "db_id": "network_1",
+      "difficulty": "hard",
+      "prompt_tokens": 164
+    },
+    {
+      "sample_id": "dev:879",
+      "index": 879,
+      "db_id": "network_1",
+      "difficulty": "hard",
+      "prompt_tokens": 168
+    },
+    {
+      "sample_id": "dev:880",
+      "index": 880,
+      "db_id": "network_1",
+      "difficulty": "easy",
+      "prompt_tokens": 167
+    },
+    {
+      "sample_id": "dev:881",
+      "index": 881,
+      "db_id": "network_1",
+      "difficulty": "easy",
+      "prompt_tokens": 166
+    },
+    {
+      "sample_id": "dev:882",
+      "index": 882,
+      "db_id": "network_1",
+      "difficulty": "medium",
+      "prompt_tokens": 167
+    },
+    {
+      "sample_id": "dev:883",
+      "index": 883,
+      "db_id": "network_1",
+      "difficulty": "medium",
+      "prompt_tokens": 163
+    },
+    {
+      "sample_id": "dev:884",
+      "index": 884,
+      "db_id": "network_1",
+      "difficulty": "medium",
+      "prompt_tokens": 169
+    },
+    {
+      "sample_id": "dev:885",
+      "index": 885,
+      "db_id": "network_1",
+      "difficulty": "medium",
+      "prompt_tokens": 172
+    },
+    {
+      "sample_id": "dev:886",
+      "index": 886,
+      "db_id": "network_1",
+      "difficulty": "extra",
+      "prompt_tokens": 172
+    },
+    {
+      "sample_id": "dev:887",
+      "index": 887,
+      "db_id": "network_1",
+      "difficulty": "extra",
+      "prompt_tokens": 168
+    },
+    {
+      "sample_id": "dev:888",
+      "index": 888,
+      "db_id": "network_1",
+      "difficulty": "medium",
+      "prompt_tokens": 170
+    },
+    {
+      "sample_id": "dev:889",
+      "index": 889,
+      "db_id": "network_1",
+      "difficulty": "medium",
+      "prompt_tokens": 171
+    },
+    {
+      "sample_id": "dev:890",
+      "index": 890,
+      "db_id": "network_1",
+      "difficulty": "hard",
+      "prompt_tokens": 169
+    },
+    {
+      "sample_id": "dev:891",
+      "index": 891,
+      "db_id": "network_1",
+      "difficulty": "hard",
+      "prompt_tokens": 167
+    },
+    {
+      "sample_id": "dev:892",
+      "index": 892,
+      "db_id": "network_1",
+      "difficulty": "medium",
+      "prompt_tokens": 166
+    },
+    {
+      "sample_id": "dev:893",
+      "index": 893,
+      "db_id": "network_1",
+      "difficulty": "medium",
+      "prompt_tokens": 163
+    },
+    {
+      "sample_id": "dev:894",
+      "index": 894,
+      "db_id": "network_1",
+      "difficulty": "hard",
+      "prompt_tokens": 167
+    },
+    {
+      "sample_id": "dev:895",
+      "index": 895,
+      "db_id": "network_1",
+      "difficulty": "hard",
+      "prompt_tokens": 169
+    },
+    {
+      "sample_id": "dev:896",
+      "index": 896,
+      "db_id": "network_1",
+      "difficulty": "hard",
+      "prompt_tokens": 169
+    },
+    {
+      "sample_id": "dev:897",
+      "index": 897,
+      "db_id": "network_1",
+      "difficulty": "hard",
+      "prompt_tokens": 166
+    },
+    {
+      "sample_id": "dev:898",
+      "index": 898,
+      "db_id": "network_1",
+      "difficulty": "hard",
+      "prompt_tokens": 173
+    },
+    {
+      "sample_id": "dev:899",
+      "index": 899,
+      "db_id": "network_1",
+      "difficulty": "hard",
+      "prompt_tokens": 169
+    },
+    {
+      "sample_id": "dev:900",
+      "index": 900,
+      "db_id": "network_1",
+      "difficulty": "hard",
+      "prompt_tokens": 172
+    },
+    {
+      "sample_id": "dev:901",
+      "index": 901,
+      "db_id": "network_1",
+      "difficulty": "hard",
+      "prompt_tokens": 171
+    },
+    {
+      "sample_id": "dev:902",
+      "index": 902,
+      "db_id": "network_1",
+      "difficulty": "medium",
+      "prompt_tokens": 165
+    },
+    {
+      "sample_id": "dev:903",
+      "index": 903,
+      "db_id": "network_1",
+      "difficulty": "medium",
+      "prompt_tokens": 164
+    },
+    {
+      "sample_id": "dev:904",
+      "index": 904,
+      "db_id": "network_1",
+      "difficulty": "medium",
+      "prompt_tokens": 173
+    },
+    {
+      "sample_id": "dev:905",
+      "index": 905,
+      "db_id": "network_1",
+      "difficulty": "medium",
+      "prompt_tokens": 175
+    },
+    {
+      "sample_id": "dev:906",
+      "index": 906,
+      "db_id": "network_1",
+      "difficulty": "extra",
+      "prompt_tokens": 172
+    },
+    {
+      "sample_id": "dev:907",
+      "index": 907,
+      "db_id": "network_1",
+      "difficulty": "extra",
+      "prompt_tokens": 166
+    },
+    {
+      "sample_id": "dev:908",
+      "index": 908,
+      "db_id": "network_1",
+      "difficulty": "medium",
+      "prompt_tokens": 168
+    },
+    {
+      "sample_id": "dev:909",
+      "index": 909,
+      "db_id": "network_1",
+      "difficulty": "medium",
+      "prompt_tokens": 169
+    },
+    {
+      "sample_id": "dev:910",
+      "index": 910,
+      "db_id": "network_1",
+      "difficulty": "hard",
+      "prompt_tokens": 176
+    },
+    {
+      "sample_id": "dev:911",
+      "index": 911,
+      "db_id": "network_1",
+      "difficulty": "hard",
+      "prompt_tokens": 179
+    },
+    {
+      "sample_id": "dev:912",
+      "index": 912,
+      "db_id": "network_1",
+      "difficulty": "medium",
+      "prompt_tokens": 162
+    },
+    {
+      "sample_id": "dev:913",
+      "index": 913,
+      "db_id": "network_1",
+      "difficulty": "medium",
+      "prompt_tokens": 169
+    },
+    {
+      "sample_id": "dev:914",
+      "index": 914,
+      "db_id": "network_1",
+      "difficulty": "hard",
+      "prompt_tokens": 167
+    },
+    {
+      "sample_id": "dev:915",
+      "index": 915,
+      "db_id": "network_1",
+      "difficulty": "hard",
+      "prompt_tokens": 166
+    },
+    {
+      "sample_id": "dev:916",
+      "index": 916,
+      "db_id": "network_1",
+      "difficulty": "extra",
+      "prompt_tokens": 166
+    },
+    {
+      "sample_id": "dev:917",
+      "index": 917,
+      "db_id": "network_1",
+      "difficulty": "extra",
+      "prompt_tokens": 169
+    },
+    {
+      "sample_id": "dev:918",
+      "index": 918,
+      "db_id": "dog_kennels",
+      "difficulty": "hard",
+      "prompt_tokens": 597
+    },
+    {
+      "sample_id": "dev:919",
+      "index": 919,
+      "db_id": "dog_kennels",
+      "difficulty": "hard",
+      "prompt_tokens": 597
+    },
+    {
+      "sample_id": "dev:920",
+      "index": 920,
+      "db_id": "dog_kennels",
+      "difficulty": "hard",
+      "prompt_tokens": 602
+    },
+    {
+      "sample_id": "dev:921",
+      "index": 921,
+      "db_id": "dog_kennels",
+      "difficulty": "hard",
+      "prompt_tokens": 599
+    },
+    {
+      "sample_id": "dev:922",
+      "index": 922,
+      "db_id": "dog_kennels",
+      "difficulty": "extra",
+      "prompt_tokens": 618
+    },
+    {
+      "sample_id": "dev:923",
+      "index": 923,
+      "db_id": "dog_kennels",
+      "difficulty": "extra",
+      "prompt_tokens": 614
+    },
+    {
+      "sample_id": "dev:924",
+      "index": 924,
+      "db_id": "dog_kennels",
+      "difficulty": "hard",
+      "prompt_tokens": 609
+    },
+    {
+      "sample_id": "dev:925",
+      "index": 925,
+      "db_id": "dog_kennels",
+      "difficulty": "hard",
+      "prompt_tokens": 611
+    },
+    {
+      "sample_id": "dev:926",
+      "index": 926,
+      "db_id": "dog_kennels",
+      "difficulty": "hard",
+      "prompt_tokens": 604
+    },
+    {
+      "sample_id": "dev:927",
+      "index": 927,
+      "db_id": "dog_kennels",
+      "difficulty": "hard",
+      "prompt_tokens": 606
+    },
+    {
+      "sample_id": "dev:928",
+      "index": 928,
+      "db_id": "dog_kennels",
+      "difficulty": "extra",
+      "prompt_tokens": 607
+    },
+    {
+      "sample_id": "dev:929",
+      "index": 929,
+      "db_id": "dog_kennels",
+      "difficulty": "extra",
+      "prompt_tokens": 607
+    },
+    {
+      "sample_id": "dev:930",
+      "index": 930,
+      "db_id": "dog_kennels",
+      "difficulty": "extra",
+      "prompt_tokens": 605
+    },
+    {
+      "sample_id": "dev:931",
+      "index": 931,
+      "db_id": "dog_kennels",
+      "difficulty": "extra",
+      "prompt_tokens": 606
+    },
+    {
+      "sample_id": "dev:932",
+      "index": 932,
+      "db_id": "dog_kennels",
+      "difficulty": "medium",
+      "prompt_tokens": 608
+    },
+    {
+      "sample_id": "dev:933",
+      "index": 933,
+      "db_id": "dog_kennels",
+      "difficulty": "medium",
+      "prompt_tokens": 608
+    },
+    {
+      "sample_id": "dev:934",
+      "index": 934,
+      "db_id": "dog_kennels",
+      "difficulty": "extra",
+      "prompt_tokens": 599
+    },
+    {
+      "sample_id": "dev:935",
+      "index": 935,
+      "db_id": "dog_kennels",
+      "difficulty": "extra",
+      "prompt_tokens": 601
+    },
+    {
+      "sample_id": "dev:936",
+      "index": 936,
+      "db_id": "dog_kennels",
+      "difficulty": "extra",
+      "prompt_tokens": 609
+    },
+    {
+      "sample_id": "dev:937",
+      "index": 937,
+      "db_id": "dog_kennels",
+      "difficulty": "extra",
+      "prompt_tokens": 610
+    },
+    {
+      "sample_id": "dev:938",
+      "index": 938,
+      "db_id": "dog_kennels",
+      "difficulty": "extra",
+      "prompt_tokens": 603
+    },
+    {
+      "sample_id": "dev:939",
+      "index": 939,
+      "db_id": "dog_kennels",
+      "difficulty": "extra",
+      "prompt_tokens": 602
+    },
+    {
+      "sample_id": "dev:940",
+      "index": 940,
+      "db_id": "dog_kennels",
+      "difficulty": "extra",
+      "prompt_tokens": 610
+    },
+    {
+      "sample_id": "dev:941",
+      "index": 941,
+      "db_id": "dog_kennels",
+      "difficulty": "extra",
+      "prompt_tokens": 610
+    },
+    {
+      "sample_id": "dev:942",
+      "index": 942,
+      "db_id": "dog_kennels",
+      "difficulty": "medium",
+      "prompt_tokens": 606
+    },
+    {
+      "sample_id": "dev:943",
+      "index": 943,
+      "db_id": "dog_kennels",
+      "difficulty": "medium",
+      "prompt_tokens": 605
+    },
+    {
+      "sample_id": "dev:944",
+      "index": 944,
+      "db_id": "dog_kennels",
+      "difficulty": "extra",
+      "prompt_tokens": 607
+    },
+    {
+      "sample_id": "dev:945",
+      "index": 945,
+      "db_id": "dog_kennels",
+      "difficulty": "extra",
+      "prompt_tokens": 609
+    },
+    {
+      "sample_id": "dev:946",
+      "index": 946,
+      "db_id": "dog_kennels",
+      "difficulty": "medium",
+      "prompt_tokens": 606
+    },
+    {
+      "sample_id": "dev:947",
+      "index": 947,
+      "db_id": "dog_kennels",
+      "difficulty": "medium",
+      "prompt_tokens": 602
+    },
+    {
+      "sample_id": "dev:948",
+      "index": 948,
+      "db_id": "dog_kennels",
+      "difficulty": "medium",
+      "prompt_tokens": 600
+    },
+    {
+      "sample_id": "dev:949",
+      "index": 949,
+      "db_id": "dog_kennels",
+      "difficulty": "medium",
+      "prompt_tokens": 599
+    },
+    {
+      "sample_id": "dev:950",
+      "index": 950,
+      "db_id": "dog_kennels",
+      "difficulty": "medium",
+      "prompt_tokens": 606
+    },
+    {
+      "sample_id": "dev:951",
+      "index": 951,
+      "db_id": "dog_kennels",
+      "difficulty": "medium",
+      "prompt_tokens": 605
+    },
+    {
+      "sample_id": "dev:952",
+      "index": 952,
+      "db_id": "dog_kennels",
+      "difficulty": "medium",
+      "prompt_tokens": 601
+    },
+    {
+      "sample_id": "dev:953",
+      "index": 953,
+      "db_id": "dog_kennels",
+      "difficulty": "medium",
+      "prompt_tokens": 600
+    },
+    {
+      "sample_id": "dev:954",
+      "index": 954,
+      "db_id": "dog_kennels",
+      "difficulty": "extra",
+      "prompt_tokens": 605
+    },
+    {
+      "sample_id": "dev:955",
+      "index": 955,
+      "db_id": "dog_kennels",
+      "difficulty": "extra",
+      "prompt_tokens": 603
+    },
+    {
+      "sample_id": "dev:956",
+      "index": 956,
+      "db_id": "dog_kennels",
+      "difficulty": "medium",
+      "prompt_tokens": 610
+    },
+    {
+      "sample_id": "dev:957",
+      "index": 957,
+      "db_id": "dog_kennels",
+      "difficulty": "medium",
+      "prompt_tokens": 604
+    },
+    {
+      "sample_id": "dev:958",
+      "index": 958,
+      "db_id": "dog_kennels",
+      "difficulty": "medium",
+      "prompt_tokens": 606
+    },
+    {
+      "sample_id": "dev:959",
+      "index": 959,
+      "db_id": "dog_kennels",
+      "difficulty": "medium",
+      "prompt_tokens": 603
+    },
+    {
+      "sample_id": "dev:960",
+      "index": 960,
+      "db_id": "dog_kennels",
+      "difficulty": "extra",
+      "prompt_tokens": 599
+    },
+    {
+      "sample_id": "dev:961",
+      "index": 961,
+      "db_id": "dog_kennels",
+      "difficulty": "extra",
+      "prompt_tokens": 601
+    },
+    {
+      "sample_id": "dev:962",
+      "index": 962,
+      "db_id": "dog_kennels",
+      "difficulty": "medium",
+      "prompt_tokens": 606
+    },
+    {
+      "sample_id": "dev:963",
+      "index": 963,
+      "db_id": "dog_kennels",
+      "difficulty": "medium",
+      "prompt_tokens": 607
+    },
+    {
+      "sample_id": "dev:964",
+      "index": 964,
+      "db_id": "dog_kennels",
+      "difficulty": "medium",
+      "prompt_tokens": 601
+    },
+    {
+      "sample_id": "dev:965",
+      "index": 965,
+      "db_id": "dog_kennels",
+      "difficulty": "medium",
+      "prompt_tokens": 600
+    },
+    {
+      "sample_id": "dev:966",
+      "index": 966,
+      "db_id": "dog_kennels",
+      "difficulty": "easy",
+      "prompt_tokens": 595
+    },
+    {
+      "sample_id": "dev:967",
+      "index": 967,
+      "db_id": "dog_kennels",
+      "difficulty": "easy",
+      "prompt_tokens": 598
+    },
+    {
+      "sample_id": "dev:968",
+      "index": 968,
+      "db_id": "dog_kennels",
+      "difficulty": "easy",
+      "prompt_tokens": 597
+    },
+    {
+      "sample_id": "dev:969",
+      "index": 969,
+      "db_id": "dog_kennels",
+      "difficulty": "easy",
+      "prompt_tokens": 598
+    },
+    {
+      "sample_id": "dev:970",
+      "index": 970,
+      "db_id": "dog_kennels",
+      "difficulty": "medium",
+      "prompt_tokens": 611
+    },
+    {
+      "sample_id": "dev:971",
+      "index": 971,
+      "db_id": "dog_kennels",
+      "difficulty": "medium",
+      "prompt_tokens": 610
+    },
+    {
+      "sample_id": "dev:972",
+      "index": 972,
+      "db_id": "dog_kennels",
+      "difficulty": "medium",
+      "prompt_tokens": 611
+    },
+    {
+      "sample_id": "dev:973",
+      "index": 973,
+      "db_id": "dog_kennels",
+      "difficulty": "medium",
+      "prompt_tokens": 611
+    },
+    {
+      "sample_id": "dev:974",
+      "index": 974,
+      "db_id": "dog_kennels",
+      "difficulty": "hard",
+      "prompt_tokens": 597
+    },
+    {
+      "sample_id": "dev:975",
+      "index": 975,
+      "db_id": "dog_kennels",
+      "difficulty": "hard",
+      "prompt_tokens": 599
+    },
+    {
+      "sample_id": "dev:976",
+      "index": 976,
+      "db_id": "dog_kennels",
+      "difficulty": "medium",
+      "prompt_tokens": 596
+    },
+    {
+      "sample_id": "dev:977",
+      "index": 977,
+      "db_id": "dog_kennels",
+      "difficulty": "medium",
+      "prompt_tokens": 598
+    },
+    {
+      "sample_id": "dev:978",
+      "index": 978,
+      "db_id": "dog_kennels",
+      "difficulty": "extra",
+      "prompt_tokens": 597
+    },
+    {
+      "sample_id": "dev:979",
+      "index": 979,
+      "db_id": "dog_kennels",
+      "difficulty": "extra",
+      "prompt_tokens": 600
+    },
+    {
+      "sample_id": "dev:980",
+      "index": 980,
+      "db_id": "dog_kennels",
+      "difficulty": "extra",
+      "prompt_tokens": 597
+    },
+    {
+      "sample_id": "dev:981",
+      "index": 981,
+      "db_id": "dog_kennels",
+      "difficulty": "extra",
+      "prompt_tokens": 602
+    },
+    {
+      "sample_id": "dev:982",
+      "index": 982,
+      "db_id": "dog_kennels",
+      "difficulty": "extra",
+      "prompt_tokens": 598
+    },
+    {
+      "sample_id": "dev:983",
+      "index": 983,
+      "db_id": "dog_kennels",
+      "difficulty": "extra",
+      "prompt_tokens": 599
+    },
+    {
+      "sample_id": "dev:984",
+      "index": 984,
+      "db_id": "dog_kennels",
+      "difficulty": "medium",
+      "prompt_tokens": 616
+    },
+    {
+      "sample_id": "dev:985",
+      "index": 985,
+      "db_id": "dog_kennels",
+      "difficulty": "medium",
+      "prompt_tokens": 621
+    },
+    {
+      "sample_id": "dev:986",
+      "index": 986,
+      "db_id": "dog_kennels",
+      "difficulty": "easy",
+      "prompt_tokens": 597
+    },
+    {
+      "sample_id": "dev:987",
+      "index": 987,
+      "db_id": "dog_kennels",
+      "difficulty": "easy",
+      "prompt_tokens": 596
+    },
+    {
+      "sample_id": "dev:988",
+      "index": 988,
+      "db_id": "dog_kennels",
+      "difficulty": "easy",
+      "prompt_tokens": 596
+    },
+    {
+      "sample_id": "dev:989",
+      "index": 989,
+      "db_id": "dog_kennels",
+      "difficulty": "easy",
+      "prompt_tokens": 596
+    },
+    {
+      "sample_id": "dev:990",
+      "index": 990,
+      "db_id": "dog_kennels",
+      "difficulty": "medium",
+      "prompt_tokens": 602
+    },
+    {
+      "sample_id": "dev:991",
+      "index": 991,
+      "db_id": "dog_kennels",
+      "difficulty": "medium",
+      "prompt_tokens": 595
+    },
+    {
+      "sample_id": "dev:992",
+      "index": 992,
+      "db_id": "dog_kennels",
+      "difficulty": "easy",
+      "prompt_tokens": 597
+    },
+    {
+      "sample_id": "dev:993",
+      "index": 993,
+      "db_id": "dog_kennels",
+      "difficulty": "easy",
+      "prompt_tokens": 599
+    },
+    {
+      "sample_id": "dev:994",
+      "index": 994,
+      "db_id": "dog_kennels",
+      "difficulty": "medium",
+      "prompt_tokens": 601
+    },
+    {
+      "sample_id": "dev:995",
+      "index": 995,
+      "db_id": "dog_kennels",
+      "difficulty": "medium",
+      "prompt_tokens": 601
+    },
+    {
+      "sample_id": "dev:996",
+      "index": 996,
+      "db_id": "dog_kennels",
+      "difficulty": "medium",
+      "prompt_tokens": 599
+    },
+    {
+      "sample_id": "dev:997",
+      "index": 997,
+      "db_id": "dog_kennels",
+      "difficulty": "medium",
+      "prompt_tokens": 599
+    },
+    {
+      "sample_id": "dev:998",
+      "index": 998,
+      "db_id": "dog_kennels",
+      "difficulty": "medium",
+      "prompt_tokens": 606
+    },
+    {
+      "sample_id": "dev:999",
+      "index": 999,
+      "db_id": "dog_kennels",
+      "difficulty": "medium",
+      "prompt_tokens": 603
+    },
+    {
+      "sample_id": "dev:1000",
+      "index": 1000,
+      "db_id": "singer",
+      "difficulty": "easy",
+      "prompt_tokens": 142
+    },
+    {
+      "sample_id": "dev:1001",
+      "index": 1001,
+      "db_id": "singer",
+      "difficulty": "easy",
+      "prompt_tokens": 143
+    },
+    {
+      "sample_id": "dev:1002",
+      "index": 1002,
+      "db_id": "singer",
+      "difficulty": "easy",
+      "prompt_tokens": 148
+    },
+    {
+      "sample_id": "dev:1003",
+      "index": 1003,
+      "db_id": "singer",
+      "difficulty": "easy",
+      "prompt_tokens": 148
+    },
+    {
+      "sample_id": "dev:1004",
+      "index": 1004,
+      "db_id": "singer",
+      "difficulty": "medium",
+      "prompt_tokens": 146
+    },
+    {
+      "sample_id": "dev:1005",
+      "index": 1005,
+      "db_id": "singer",
+      "difficulty": "medium",
+      "prompt_tokens": 148
+    },
+    {
+      "sample_id": "dev:1006",
+      "index": 1006,
+      "db_id": "singer",
+      "difficulty": "easy",
+      "prompt_tokens": 148
+    },
+    {
+      "sample_id": "dev:1007",
+      "index": 1007,
+      "db_id": "singer",
+      "difficulty": "easy",
+      "prompt_tokens": 149
+    },
+    {
+      "sample_id": "dev:1008",
+      "index": 1008,
+      "db_id": "singer",
+      "difficulty": "medium",
+      "prompt_tokens": 158
+    },
+    {
+      "sample_id": "dev:1009",
+      "index": 1009,
+      "db_id": "singer",
+      "difficulty": "medium",
+      "prompt_tokens": 160
+    },
+    {
+      "sample_id": "dev:1010",
+      "index": 1010,
+      "db_id": "singer",
+      "difficulty": "medium",
+      "prompt_tokens": 149
+    },
+    {
+      "sample_id": "dev:1011",
+      "index": 1011,
+      "db_id": "singer",
+      "difficulty": "medium",
+      "prompt_tokens": 149
+    },
+    {
+      "sample_id": "dev:1012",
+      "index": 1012,
+      "db_id": "singer",
+      "difficulty": "medium",
+      "prompt_tokens": 150
+    },
+    {
+      "sample_id": "dev:1013",
+      "index": 1013,
+      "db_id": "singer",
+      "difficulty": "medium",
+      "prompt_tokens": 148
+    },
+    {
+      "sample_id": "dev:1014",
+      "index": 1014,
+      "db_id": "singer",
+      "difficulty": "hard",
+      "prompt_tokens": 145
+    },
+    {
+      "sample_id": "dev:1015",
+      "index": 1015,
+      "db_id": "singer",
+      "difficulty": "hard",
+      "prompt_tokens": 144
+    },
+    {
+      "sample_id": "dev:1016",
+      "index": 1016,
+      "db_id": "singer",
+      "difficulty": "medium",
+      "prompt_tokens": 151
+    },
+    {
+      "sample_id": "dev:1017",
+      "index": 1017,
+      "db_id": "singer",
+      "difficulty": "medium",
+      "prompt_tokens": 147
+    },
+    {
+      "sample_id": "dev:1018",
+      "index": 1018,
+      "db_id": "singer",
+      "difficulty": "medium",
+      "prompt_tokens": 145
+    },
+    {
+      "sample_id": "dev:1019",
+      "index": 1019,
+      "db_id": "singer",
+      "difficulty": "medium",
+      "prompt_tokens": 145
+    },
+    {
+      "sample_id": "dev:1020",
+      "index": 1020,
+      "db_id": "singer",
+      "difficulty": "medium",
+      "prompt_tokens": 156
+    },
+    {
+      "sample_id": "dev:1021",
+      "index": 1021,
+      "db_id": "singer",
+      "difficulty": "medium",
+      "prompt_tokens": 157
+    },
+    {
+      "sample_id": "dev:1022",
+      "index": 1022,
+      "db_id": "singer",
+      "difficulty": "medium",
+      "prompt_tokens": 148
+    },
+    {
+      "sample_id": "dev:1023",
+      "index": 1023,
+      "db_id": "singer",
+      "difficulty": "medium",
+      "prompt_tokens": 150
+    },
+    {
+      "sample_id": "dev:1024",
+      "index": 1024,
+      "db_id": "singer",
+      "difficulty": "medium",
+      "prompt_tokens": 149
+    },
+    {
+      "sample_id": "dev:1025",
+      "index": 1025,
+      "db_id": "singer",
+      "difficulty": "medium",
+      "prompt_tokens": 150
+    },
+    {
+      "sample_id": "dev:1026",
+      "index": 1026,
+      "db_id": "singer",
+      "difficulty": "hard",
+      "prompt_tokens": 148
+    },
+    {
+      "sample_id": "dev:1027",
+      "index": 1027,
+      "db_id": "singer",
+      "difficulty": "hard",
+      "prompt_tokens": 151
+    },
+    {
+      "sample_id": "dev:1028",
+      "index": 1028,
+      "db_id": "singer",
+      "difficulty": "hard",
+      "prompt_tokens": 159
+    },
+    {
+      "sample_id": "dev:1029",
+      "index": 1029,
+      "db_id": "singer",
+      "difficulty": "hard",
+      "prompt_tokens": 164
+    },
+    {
+      "sample_id": "dev:1030",
+      "index": 1030,
+      "db_id": "real_estate_properties",
+      "difficulty": "easy",
+      "prompt_tokens": 539
+    },
+    {
+      "sample_id": "dev:1031",
+      "index": 1031,
+      "db_id": "real_estate_properties",
+      "difficulty": "medium",
+      "prompt_tokens": 541
+    },
+    {
+      "sample_id": "dev:1032",
+      "index": 1032,
+      "db_id": "real_estate_properties",
+      "difficulty": "medium",
+      "prompt_tokens": 542
+    },
+    {
+      "sample_id": "dev:1033",
+      "index": 1033,
+      "db_id": "real_estate_properties",
+      "difficulty": "hard",
+      "prompt_tokens": 549
+    }
+  ],
+  "difficulty_counts": {
+    "easy": 248,
+    "medium": 446,
+    "hard": 174,
+    "extra": 166
+  }
+}

@@ -1,0 +1,23 @@
+{
+  "run_id": "e0_dev",
+  "eval_samples": 1034,
+  "predictions_sha256": "faffd9309e8631d45121fab3ff0eaca083540f1bd742cd329d4f09b8e0debcad",
+  "execution_accuracy": 0.5077369439071566,
+  "valid_sql_rate": 0.7050290135396519,
+  "generation_failures": 0,
+  "truncated_outputs": 0,
+  "easy_samples": 248,
+  "easy_accuracy": 0.6653225806451613,
+  "medium_samples": 446,
+  "medium_accuracy": 0.5089686098654709,
+  "hard_samples": 174,
+  "hard_accuracy": 0.3735632183908046,
+  "extra_hard_samples": 166,
+  "extra_hard_accuracy": 0.40963855421686746,
+  "latency": 1197.0682261154557,
+  "latency_p50_ms": 1231.0481000458822,
+  "latency_p95_ms": 2168.872300069779,
+  "throughput": 33.53292515044505,
+  "peak_vram_gb": 3.221236736,
+  "peak_reserved_vram_gb": 3.284140032
+}

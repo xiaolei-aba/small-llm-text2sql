@@ -1,0 +1,88 @@
+{
+  "seed": 42,
+  "selection": "one per fixed structural/difficulty criterion from shuffled dev IDs; no prediction-based selection",
+  "sample_ids": [
+    "dev:192",
+    "dev:301",
+    "dev:919",
+    "dev:756",
+    "dev:1007",
+    "dev:814",
+    "dev:231",
+    "dev:936",
+    "dev:293",
+    "dev:372"
+  ],
+  "records": [
+    {
+      "sample_id": "dev:192",
+      "index": 192,
+      "db_id": "flight_2",
+      "difficulty": "easy",
+      "prompt_tokens": 176
+    },
+    {
+      "sample_id": "dev:301",
+      "index": 301,
+      "db_id": "cre_Doc_Template_Mgt",
+      "difficulty": "medium",
+      "prompt_tokens": 279
+    },
+    {
+      "sample_id": "dev:919",
+      "index": 919,
+      "db_id": "dog_kennels",
+      "difficulty": "hard",
+      "prompt_tokens": 597
+    },
+    {
+      "sample_id": "dev:756",
+      "index": 756,
+      "db_id": "world_1",
+      "difficulty": "extra",
+      "prompt_tokens": 293
+    },
+    {
+      "sample_id": "dev:1007",
+      "index": 1007,
+      "db_id": "singer",
+      "difficulty": "easy",
+      "prompt_tokens": 149
+    },
+    {
+      "sample_id": "dev:814",
+      "index": 814,
+      "db_id": "world_1",
+      "difficulty": "hard",
+      "prompt_tokens": 293
+    },
+    {
+      "sample_id": "dev:231",
+      "index": 231,
+      "db_id": "flight_2",
+      "difficulty": "extra",
+      "prompt_tokens": 186
+    },
+    {
+      "sample_id": "dev:936",
+      "index": 936,
+      "db_id": "dog_kennels",
+      "difficulty": "extra",
+      "prompt_tokens": 609
+    },
+    {
+      "sample_id": "dev:293",
+      "index": 293,
+      "db_id": "employee_hire_evaluation",
+      "difficulty": "hard",
+      "prompt_tokens": 230
+    },
+    {
+      "sample_id": "dev:372",
+      "index": 372,
+      "db_id": "cre_Doc_Template_Mgt",
+      "difficulty": "easy",
+      "prompt_tokens": 272
+    }
+  ]
+}

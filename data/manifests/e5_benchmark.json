@@ -1,0 +1,229 @@
+{
+  "selection": "32 evenly spaced input length order statistics, then seed42 shuffle; no gold-based selection",
+  "records": [
+    {
+      "sample_id": "dev:487",
+      "index": 487,
+      "db_id": "wta_1",
+      "difficulty": "hard",
+      "prompt_tokens": 336
+    },
+    {
+      "sample_id": "dev:182",
+      "index": 182,
+      "db_id": "flight_2",
+      "difficulty": "easy",
+      "prompt_tokens": 178
+    },
+    {
+      "sample_id": "dev:499",
+      "index": 499,
+      "db_id": "battle_death",
+      "difficulty": "hard",
+      "prompt_tokens": 212
+    },
+    {
+      "sample_id": "dev:861",
+      "index": 861,
+      "db_id": "orchestra",
+      "difficulty": "medium",
+      "prompt_tokens": 258
+    },
+    {
+      "sample_id": "dev:469",
+      "index": 469,
+      "db_id": "wta_1",
+      "difficulty": "medium",
+      "prompt_tokens": 325
+    },
+    {
+      "sample_id": "dev:628",
+      "index": 628,
+      "db_id": "tvshow",
+      "difficulty": "medium",
+      "prompt_tokens": 240
+    },
+    {
+      "sample_id": "dev:726",
+      "index": 726,
+      "db_id": "world_1",
+      "difficulty": "medium",
+      "prompt_tokens": 295
+    },
+    {
+      "sample_id": "dev:422",
+      "index": 422,
+      "db_id": "museum_visit",
+      "difficulty": "hard",
+      "prompt_tokens": 180
+    },
+    {
+      "sample_id": "dev:130",
+      "index": 130,
+      "db_id": "car_1",
+      "difficulty": "extra",
+      "prompt_tokens": 280
+    },
+    {
+      "sample_id": "dev:599",
+      "index": 599,
+      "db_id": "tvshow",
+      "difficulty": "easy",
+      "prompt_tokens": 246
+    },
+    {
+      "sample_id": "dev:329",
+      "index": 329,
+      "db_id": "cre_Doc_Template_Mgt",
+      "difficulty": "medium",
+      "prompt_tokens": 270
+    },
+    {
+      "sample_id": "dev:491",
+      "index": 491,
+      "db_id": "battle_death",
+      "difficulty": "easy",
+      "prompt_tokens": 201
+    },
+    {
+      "sample_id": "dev:998",
+      "index": 998,
+      "db_id": "dog_kennels",
+      "difficulty": "medium",
+      "prompt_tokens": 606
+    },
+    {
+      "sample_id": "dev:632",
+      "index": 632,
+      "db_id": "tvshow",
+      "difficulty": "medium",
+      "prompt_tokens": 253
+    },
+    {
+      "sample_id": "dev:812",
+      "index": 812,
+      "db_id": "world_1",
+      "difficulty": "easy",
+      "prompt_tokens": 306
+    },
+    {
+      "sample_id": "dev:100",
+      "index": 100,
+      "db_id": "car_1",
+      "difficulty": "extra",
+      "prompt_tokens": 285
+    },
+    {
+      "sample_id": "dev:516",
+      "index": 516,
+      "db_id": "student_transcripts_tracking",
+      "difficulty": "extra",
+      "prompt_tokens": 774
+    },
+    {
+      "sample_id": "dev:674",
+      "index": 674,
+      "db_id": "poker_player",
+      "difficulty": "medium",
+      "prompt_tokens": 157
+    },
+    {
+      "sample_id": "dev:642",
+      "index": 642,
+      "db_id": "tvshow",
+      "difficulty": "easy",
+      "prompt_tokens": 249
+    },
+    {
+      "sample_id": "dev:141",
+      "index": 141,
+      "db_id": "car_1",
+      "difficulty": "hard",
+      "prompt_tokens": 276
+    },
+    {
+      "sample_id": "dev:883",
+      "index": 883,
+      "db_id": "network_1",
+      "difficulty": "medium",
+      "prompt_tokens": 163
+    },
+    {
+      "sample_id": "dev:354",
+      "index": 354,
+      "db_id": "cre_Doc_Template_Mgt",
+      "difficulty": "medium",
+      "prompt_tokens": 272
+    },
+    {
+      "sample_id": "dev:744",
+      "index": 744,
+      "db_id": "world_1",
+      "difficulty": "easy",
+      "prompt_tokens": 291
+    },
+    {
+      "sample_id": "dev:403",
+      "index": 403,
+      "db_id": "course_teach",
+      "difficulty": "hard",
+      "prompt_tokens": 167
+    },
+    {
+      "sample_id": "dev:509",
+      "index": 509,
+      "db_id": "student_transcripts_tracking",
+      "difficulty": "easy",
+      "prompt_tokens": 766
+    },
+    {
+      "sample_id": "dev:687",
+      "index": 687,
+      "db_id": "voter_1",
+      "difficulty": "easy",
+      "prompt_tokens": 170
+    },
+    {
+      "sample_id": "dev:997",
+      "index": 997,
+      "db_id": "dog_kennels",
+      "difficulty": "medium",
+      "prompt_tokens": 599
+    },
+    {
+      "sample_id": "dev:541",
+      "index": 541,
+      "db_id": "student_transcripts_tracking",
+      "difficulty": "extra",
+      "prompt_tokens": 792
+    },
+    {
+      "sample_id": "dev:420",
+      "index": 420,
+      "db_id": "museum_visit",
+      "difficulty": "extra",
+      "prompt_tokens": 193
+    },
+    {
+      "sample_id": "dev:731",
+      "index": 731,
+      "db_id": "world_1",
+      "difficulty": "medium",
+      "prompt_tokens": 298
+    },
+    {
+      "sample_id": "dev:1000",
+      "index": 1000,
+      "db_id": "singer",
+      "difficulty": "easy",
+      "prompt_tokens": 142
+    },
+    {
+      "sample_id": "dev:249",
+      "index": 249,
+      "db_id": "flight_2",
+      "difficulty": "easy",
+      "prompt_tokens": 183
+    }
+  ]
+}

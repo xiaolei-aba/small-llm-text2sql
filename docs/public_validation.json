@@ -1,0 +1,37 @@
+{
+  "tests": {
+    "command": "python -m unittest discover -s tests -v",
+    "exit_code": 0,
+    "discovered": 17,
+    "passed": 14,
+    "skipped": 3,
+    "skip_reason": "Official tokenizer absent; three tokenizer integration tests explicitly skipped",
+    "cpu_only": true,
+    "pretrained_weights_loaded": false,
+    "warning": "Tiny synthetic PEFT test emitted missing base-config warning; test passed"
+  },
+  "privacy_scan": {
+    "command": "python scripts/check_public_release.py",
+    "exit_code": 0,
+    "confirmed_sensitive_findings": 0,
+    "scope": "All tracked and untracked non-ignored candidate files, regex checks; no proof against unknown formats"
+  },
+  "compileall": {
+    "command": "python -m compileall -q src scripts tests",
+    "exit_code": 0
+  },
+  "gpu_experiments_repeated": false,
+  "last_recheck_date": "2026-10-09",
+  "identity": "owner-verified GitHub noreply, repository-local only",
+  "code_license": "Apache-2.0 with LICENSE_SCOPE.md and third-party exceptions",
+  "research_unchanged": {
+    "head_and_refs": true,
+    "commit_count": 44,
+    "tracked_sha256_count": 184,
+    "assets_size_mtime_count": 2910,
+    "local_git_config_unchanged": true,
+    "clean": true
+  },
+  "formal_results_and_upstream_license_copies_unchanged": true,
+  "test_rerun_exit_code": 0
+}

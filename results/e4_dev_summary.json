@@ -1,0 +1,23 @@
+{
+  "run_id": "e4_dev",
+  "eval_samples": 1034,
+  "predictions_sha256": "dac05d538894534dc040cfbd40c1cd0d75e931af01e26286ddf972082a612580",
+  "execution_accuracy": 0.6895551257253385,
+  "valid_sql_rate": 0.8762088974854932,
+  "generation_failures": 0,
+  "truncated_outputs": 0,
+  "easy_samples": 248,
+  "easy_accuracy": 0.8669354838709677,
+  "medium_samples": 446,
+  "medium_accuracy": 0.7062780269058296,
+  "hard_samples": 174,
+  "hard_accuracy": 0.5632183908045977,
+  "extra_hard_samples": 166,
+  "extra_hard_accuracy": 0.5120481927710844,
+  "latency": 2961.3945407147125,
+  "latency_p50_ms": 2289.1609499929473,
+  "latency_p95_ms": 6108.119199983776,
+  "throughput": 10.720810377179635,
+  "peak_vram_gb": 2.189449728,
+  "peak_reserved_vram_gb": 2.619342848
+}

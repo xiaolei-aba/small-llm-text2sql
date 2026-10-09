@@ -1,0 +1,54 @@
+[
+  {
+    "repo": "Gansaw98/text-to-sql-spider",
+    "revision": "71b6b083cf27d2da562a51dd4d7b5faac664cee8",
+    "status": "verified",
+    "truncated": false,
+    "license_notice_paths": []
+  },
+  {
+    "repo": "thdwhtls/Execution-Guided-Text-to-SQL-Post-Training",
+    "revision": "4ada9b4f4c637528346cf1011954c624d8c6518a",
+    "status": "verified",
+    "truncated": false,
+    "license_notice_paths": []
+  },
+  {
+    "repo": "Lawson-Darrow/Text-to-SQL-Finetune",
+    "revision": "b2d6be8b1646e73e9b4ab4116346e21a1ce5fca7",
+    "status": "verified",
+    "truncated": false,
+    "license_notice_paths": [
+      "LICENSE"
+    ],
+    "license_url": "https://raw.githubusercontent.com/Lawson-Darrow/Text-to-SQL-Finetune/b2d6be8b1646e73e9b4ab4116346e21a1ce5fca7/LICENSE",
+    "license_sha256": "cc14757b0f6899a50f9dc00ea695ce1f56f18294286709e2f7676c1167d06431",
+    "license_id": "MIT"
+  },
+  {
+    "repo": "taoyds/test-suite-sql-eval",
+    "revision": "e97acc546ecbee8fa27fa8dbf025ef61493a876c",
+    "status": "verified",
+    "truncated": false,
+    "license_notice_paths": [
+      "LICENSE"
+    ],
+    "license_url": "https://raw.githubusercontent.com/taoyds/test-suite-sql-eval/e97acc546ecbee8fa27fa8dbf025ef61493a876c/LICENSE",
+    "license_sha256": "c71d239df91726fc519c6eb72d318ec65820627232b2f796219e87dcf35d0ab4",
+    "license_id": "Apache-2.0"
+  },
+  {
+    "repo": "taoyds/spider",
+    "revision": "b7b5b8c890cd30e35427348bb9eb8c6d1350ca7c",
+    "status": "verified",
+    "truncated": false,
+    "license_notice_paths": [
+      "LICENSE",
+      "baselines/nl2code/node_modules/sqlite-parser/LICENSE",
+      "baselines/seq2seq_attention_copy/LICENSE"
+    ],
+    "license_url": "https://raw.githubusercontent.com/taoyds/spider/b7b5b8c890cd30e35427348bb9eb8c6d1350ca7c/LICENSE",
+    "license_sha256": "a8d1d88a0f9cce3cdbff73b03a80dc5e5d69e3ba2443946c268815a550c9e0ec",
+    "license_id": "Apache-2.0"
+  }
+]

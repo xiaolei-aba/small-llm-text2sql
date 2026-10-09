@@ -1,0 +1,59 @@
+{
+  "method": "AST function-body exact match ignoring positions, >160 characters; sampled entry points, not proof of independent authorship",
+  "files": [
+    {
+      "url": "https://raw.githubusercontent.com/Gansaw98/text-to-sql-spider/71b6b083cf27d2da562a51dd4d7b5faac664cee8/evaluation/schema_utils.py",
+      "status": "reviewed",
+      "sha256": "40a641ae7c80fb714e2b0b0a2883c210045fc1a5648ece26861f381b3dd04f92",
+      "identical_nontrivial_function_bodies": []
+    },
+    {
+      "url": "https://raw.githubusercontent.com/Gansaw98/text-to-sql-spider/71b6b083cf27d2da562a51dd4d7b5faac664cee8/evaluation/sql_executor.py",
+      "status": "reviewed",
+      "sha256": "0673ec8b88c54ddf4e644b67db22f33277534acc0c033175812e02568a0fd328",
+      "identical_nontrivial_function_bodies": []
+    },
+    {
+      "url": "https://raw.githubusercontent.com/Gansaw98/text-to-sql-spider/71b6b083cf27d2da562a51dd4d7b5faac664cee8/evaluation/finetuned_eval.py",
+      "status": "reviewed",
+      "sha256": "38bc8ba934b5ea43a08d78b3f6c6688a56d78923737d837bda89d3330bbff694",
+      "identical_nontrivial_function_bodies": []
+    },
+    {
+      "url": "https://raw.githubusercontent.com/thdwhtls/Execution-Guided-Text-to-SQL-Post-Training/4ada9b4f4c637528346cf1011954c624d8c6518a/text2sql_trajectory_builder.py",
+      "status": "reviewed",
+      "sha256": "5d7fc2107b2cd780259dc8dcf70cf853e5fe62eff735ae87c0fc38b4f9fa24b3",
+      "identical_nontrivial_function_bodies": []
+    },
+    {
+      "url": "https://raw.githubusercontent.com/thdwhtls/Execution-Guided-Text-to-SQL-Post-Training/4ada9b4f4c637528346cf1011954c624d8c6518a/training/train_lora_sft.py",
+      "status": "reviewed",
+      "sha256": "71d822ec9a3919bee4fee0a46ec743fb792ab7ca63dfcf54d5e55687aaf3c157",
+      "identical_nontrivial_function_bodies": []
+    },
+    {
+      "url": "https://raw.githubusercontent.com/thdwhtls/Execution-Guided-Text-to-SQL-Post-Training/4ada9b4f4c637528346cf1011954c624d8c6518a/training/train_lora_dpo.py",
+      "status": "reviewed",
+      "sha256": "5c9ea1bd951a5224bfb3a06fde80b043872a58e873f93caa9457c6066ce50819",
+      "identical_nontrivial_function_bodies": []
+    },
+    {
+      "url": "https://raw.githubusercontent.com/Lawson-Darrow/Text-to-SQL-Finetune/b2d6be8b1646e73e9b4ab4116346e21a1ce5fca7/src/text2sql/data.py",
+      "status": "reviewed",
+      "sha256": "d92c3d23159e4c7a6dd9ffe10600f3a18964b3f75ae1bf207def1e8c9db2ccc9",
+      "identical_nontrivial_function_bodies": []
+    },
+    {
+      "url": "https://raw.githubusercontent.com/Lawson-Darrow/Text-to-SQL-Finetune/b2d6be8b1646e73e9b4ab4116346e21a1ce5fca7/src/text2sql/train.py",
+      "status": "reviewed",
+      "sha256": "247854666337d2dedc63ec3e093f5871fc077f3f31342eedd7dfb427ac48b9cc",
+      "identical_nontrivial_function_bodies": []
+    },
+    {
+      "url": "https://raw.githubusercontent.com/Lawson-Darrow/Text-to-SQL-Finetune/b2d6be8b1646e73e9b4ab4116346e21a1ce5fca7/src/text2sql/evaluate.py",
+      "status": "reviewed",
+      "sha256": "c411ce922da99968ab469ded1dec5724250a04c48f2bc03e0fadd1d250d1ffca",
+      "identical_nontrivial_function_bodies": []
+    }
+  ]
+}

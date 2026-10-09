@@ -1,0 +1,36 @@
+{
+  "status": "pretraining_controls_verified_with_first_step_observation",
+  "config_differences": {
+    "run_id": [
+      "e1_lora_seed42",
+      "e3_complexity_seed42"
+    ],
+    "loss_difficulty_weights": [
+      null,
+      {
+        "easy": 1,
+        "medium": 1,
+        "hard": 2,
+        "extra": 2
+      }
+    ],
+    "experiment_id": [
+      "E1",
+      "E3"
+    ],
+    "control_order_manifest": [
+      null,
+      "data/manifests/e1_lora_seed42_order.json"
+    ]
+  },
+  "same_order": true,
+  "examples": 7000,
+  "sequence_tokens": 3023191,
+  "supervised_tokens": 226130,
+  "same_processed_data_sha256": true,
+  "same_model_lock": true,
+  "first_batch_raw_loss_E1": 0.34193758200854063,
+  "first_batch_raw_loss_E3": 0.34193758200854063,
+  "first_batch_raw_loss_identical": true,
+  "caveat": "Same first aggregate loss is a diagnostic, not a proof of every initialization tensor or cross-hardware determinism; E3 results pending."
+}

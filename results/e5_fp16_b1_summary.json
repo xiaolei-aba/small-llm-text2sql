@@ -1,0 +1,23 @@
+{
+  "run_id": "e5_fp16_b1",
+  "eval_samples": 32,
+  "predictions_sha256": "8e13c628c43659c2f3d4d390787cd6fd0abea1de52d136eca98fe4b1195aa8e8",
+  "execution_accuracy": 0.4375,
+  "valid_sql_rate": 0.71875,
+  "generation_failures": 0,
+  "truncated_outputs": 0,
+  "easy_samples": 10,
+  "easy_accuracy": 0.7,
+  "medium_samples": 12,
+  "medium_accuracy": 0.16666666666666666,
+  "hard_samples": 5,
+  "hard_accuracy": 0.6,
+  "extra_hard_samples": 5,
+  "extra_hard_accuracy": 0.4,
+  "latency": 1249.6610312518897,
+  "latency_p50_ms": 1255.8677499182522,
+  "latency_p95_ms": 2125.450100051239,
+  "throughput": 33.15899188957553,
+  "peak_vram_gb": 3.221553664,
+  "peak_reserved_vram_gb": 3.353346048
+}

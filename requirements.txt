@@ -1,0 +1,16 @@
+# E0/E1 installed direct dependencies. Use Conda text2sql, Python 3.11 on Windows x64.
+# CUDA wheel source; do not silently replace with CPU torch.
+--extra-index-url https://download.pytorch.org/whl/cu128
+torch==2.11.0+cu128
+transformers==4.57.6
+accelerate==1.12.0
+safetensors==0.7.0
+huggingface_hub==0.36.0
+tqdm==4.67.1
+peft==0.18.1
+# Full installed dependency snapshot lives in docs/environment_packages.json.
+# No datasets or sentencepiece needed for the current JSON/SQLite audit.
+# Official scoring pure functions use stdlib; source hashes in configs/evaluator_lock.json.
+
+# Directly imported by error analysis and paired uncertainty reporting.
+numpy==2.4.6

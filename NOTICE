@@ -1,0 +1,17 @@
+Efficient Post-Training of Small LLMs for Complex Text-to-SQL
+Copyright 2026 xiaolei-aba
+
+Project-owned code is licensed under the Apache License, Version 2.0.
+See LICENSE and LICENSE_SCOPE.md for scope and exclusions.
+
+This is an AI-assisted engineering and experimental project. It does not
+claim authorship of Qwen, Spider, LoRA, QLoRA, or official SQL evaluation.
+
+Spider data and included question/Gold SQL/schema excerpts and adaptations
+retain CC BY-SA 4.0 attribution and ShareAlike obligations. The original
+Spider data and model weights are not distributed in this repository.
+
+Official Spider and test-suite evaluator source is restored separately
+from pinned upstream revisions under their own Apache-2.0 notices.
+Third-party licenses and attribution remain in LICENSES/ and
+THIRD_PARTY_NOTICES.md; the root license does not relicense those materials.

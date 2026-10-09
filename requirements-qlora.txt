@@ -1,0 +1,2 @@
+# Optional E4 addition after installing core requirements.txt in text2sql.
+bitsandbytes==0.47.0

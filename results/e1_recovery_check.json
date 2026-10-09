@@ -1,0 +1,41 @@
+{
+  "checkpoint_step": 200,
+  "compared_steps": [
+    {
+      "step": 201,
+      "loss_before": 0.16059104376472533,
+      "loss_after": 0.16059104376472533,
+      "absolute_loss_difference": 0.0,
+      "absolute_gradient_norm_difference": 0.0
+    },
+    {
+      "step": 202,
+      "loss_before": 0.16118537122383714,
+      "loss_after": 0.16118537122383714,
+      "absolute_loss_difference": 0.0,
+      "absolute_gradient_norm_difference": 0.0
+    },
+    {
+      "step": 203,
+      "loss_before": 0.19145471265073866,
+      "loss_after": 0.19145471265073866,
+      "absolute_loss_difference": 0.0,
+      "absolute_gradient_norm_difference": 0.0
+    },
+    {
+      "step": 204,
+      "loss_before": 0.16965015802998096,
+      "loss_after": 0.16965015802998096,
+      "absolute_loss_difference": 0.0,
+      "absolute_gradient_norm_difference": 0.0
+    },
+    {
+      "step": 205,
+      "loss_before": 0.153597655124031,
+      "loss_after": 0.153597655124031,
+      "absolute_loss_difference": 0.0,
+      "absolute_gradient_norm_difference": 0.0
+    }
+  ],
+  "scope": "Actual GPU replay loss and gradient norm for five recorded steps; not proof of universal CUDA bitwise reproducibility"
+}
